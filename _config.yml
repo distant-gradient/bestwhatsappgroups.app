@@ -4,7 +4,8 @@ title: "10000+ WhatsApp Group Join Links 2019 - Shayari, Masti, Cricket, BJP"
 description: "Find and join 10000+ whatsapp groups - Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /whatsapp_blog
+#baseurl: /whatsapp_blog
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
