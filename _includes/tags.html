@@ -1,0 +1,20 @@
+<div class="mt-2">
+    <div class="section-title">
+        <h2><span>All Tags</span></h2>
+    </div>
+		<div class="align-self-center pl-0">
+      <ul class="tags mb-4">
+            {% assign tags_list = site.tags %}
+            {% if tags_list.first[0] == null %}
+                {% for tag in tags_list %}
+                <li><a class="mr-5" href="{{site.baseurl}}/tags#{{ tag | url_escape | strip | replace: ' ', '-' }}">{{ tag | camelcase }} ({{ site.tags[tag].size }})</a></li>
+                {% endfor %}
+            {% else %}
+                {% for tag in tags_list %}
+                <li><a class="m-3" href="{{site.baseurl}}/tags#{{ tag[0] | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] | camelcase }} ({{ tag[1].size }})</a></li>
+                {% endfor %}
+            {% endif %}
+            {% assign tags_list = nil %}
+      </ul>
+		</div>
+</div>

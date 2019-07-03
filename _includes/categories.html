@@ -1,0 +1,20 @@
+<div class="mt-2">
+    <div class="section-title">
+        <h2><span>All Tags</span></h2>
+    </div>
+		<div class="align-self-center pl-0">
+      <ul class="tags mb-4">
+            {% assign categories_list = site.categories %}
+            {% if categories_list.first[0] == null %}
+                {% for category in categories_list %}
+                <li><a class="mr-5" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a></li>
+                {% endfor %}
+            {% else %}
+                {% for category in categories_list %}
+                <li><a class="m-3" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+                {% endfor %}
+            {% endif %}
+            {% assign categories_list = nil %}
+      </ul>
+		</div>
+</div>
