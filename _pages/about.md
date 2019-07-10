@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: WhatsApp Group Links 
 permalink: /about
 comments: false 
 ---

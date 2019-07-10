@@ -184,6 +184,11 @@ section.recent-posts {
     border-radius: 100%;
 }
 
+.post-summary {
+  color: rgba(0, 0, 0, .60);
+  margin-bottom: 1.5rem;
+}
+
 .post-top-meta {
     margin-bottom: 2rem;
 }
@@ -301,7 +306,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 40px;
     margin-right: 5px;
 }
 

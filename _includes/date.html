@@ -1,0 +1,5 @@
+{% if post.last_modified_at %}
+  <span class="post-date">{{ post.last_modified_at | date_to_string }}</span>
+{% else  %}
+  <span class="post-date">{{ post.date | date_to_string }}</span>
+{% endif %}

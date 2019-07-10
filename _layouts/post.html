@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: false
+disqus: true 
 archive: false
 post_class: post-template
 ---
@@ -17,17 +17,26 @@ post_class: post-template
             <div class="mainheading">
 
                 <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
+                <h1 class="posttitle">{{ page.title }} | 
+                  {% if page.last_modified_at %}
+                    {{ page.last_modified_at | date: "%B %Y" }}
+                  {% else %}
+                    {{ page.date | date: "%B %Y" }}
+                  {% endif %}
+                </h1>
 
             </div>
 
             <!-- Post Date -->
             <p>
               <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                
                 {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                Last Updated: <strong><time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time></strong>
+                &nbsp;&nbsp;&nbsp; 
                 {% endif %}
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">(Published: {{ page.date | date_to_string }})</time></span>           
+                
               </small>
             </p>
 
@@ -36,6 +45,13 @@ post_class: post-template
                 {% include adsense-under-header.html %}
             {% endif %}
             <!-- End Adsense -->
+
+            <!-- Summary -->
+            {% if page.summary %}
+            <p class="post-summary">
+              {{ page.summary }}
+            </p>
+            {% endif %}
 
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -170,7 +186,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
 {
   "@context": "http://schema.org/",
   "@type": "BlogPosting2",
-  "headline": "{{ post.title }}",
+  "headline": "{{ page.title }} | {{ page.date | date:"%m %Y" }}",
   "image": "{{ site.baseurl }}/{{ post.image }}",
   "publisher": {
     "@type": "Organization",
