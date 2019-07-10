@@ -8,6 +8,7 @@ author: ai
 tags: [ whatsapp group links, pubg, india ]
 featured: true
 hidden: false
+comments: true
 rating:
 
 ---
