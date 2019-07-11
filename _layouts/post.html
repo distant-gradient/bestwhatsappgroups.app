@@ -178,13 +178,13 @@ https://search.google.com/structured-data/testing-tool/u/0/
   "@context": "http://schema.org/",
   "@type": "BlogPosting",
   "headline": "{{ page.title }} | {% include month_year_string.html %}",
-  "image": "{{ site.baseurl }}/{{ post.image }}",
+  "image": "{{ site.url }}/{{ page.image }}",
   "publisher": {
     "@type": "Organization",
     "name": "WhatsApp Groups",
     "logo": {
 			"@type": "ImageObject",
-      "url": "{{ site.baseurl }}/{{ site.logo }}",
+      "url": "{{ site.url }}/{{ site.logo }}",
       "height": "600", 
       "width": "60"
     }
