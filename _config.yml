@@ -1,7 +1,7 @@
 # Site
 name: "WhatsApp Groups"
-title: ""
-description: "Find and join 10000+ whatsapp groups - Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more."
+title: "WhatsApp Group Links - Join & Share WhatsApp Groups"
+description: "Join and share 10000+ whatsapp groups for Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -15,7 +15,7 @@ permalink: /:title/
 # Authors
 authors:
   ai:
-    name: AI
+    name: Animesh C.
     display_name: AI
     avatar: 'assets/images/profile-4.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
