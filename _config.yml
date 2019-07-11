@@ -3,7 +3,6 @@ name: "WhatsApp Groups"
 title: "WhatsApp Group Links - Join & Share WhatsApp Groups"
 description: "Join and share 10000+ whatsapp groups for Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more."
 logo: 'assets/images/logo.png'
-title_image: 'assets/images/whatsapp-group-links.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-143612101-1'
@@ -14,6 +13,12 @@ include: ["_pages"]
 permalink: /:title/
 lang: "en"       # set in post to override
 locale: "en_US"  # set in post to override
+
+# main image
+title_image: 
+  location: 'assets/images/whatsapp-group-links.jpg'
+  height: 606
+  width: 970
 
 # Authors
 authors:

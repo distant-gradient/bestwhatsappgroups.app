@@ -53,7 +53,9 @@
     {% endif %}
   {% else %}
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ site.url }}/{{ site.title_image }}" />
+    <meta property="og:image" content="{{ site.url }}/{{ site.title_image.location }}" />
+    <meta property="og:image:width" content="{{ site.title_image.width }}" />
+    <meta property="og:image:height" content="{{ site.title_image.height }}" />
   {% endif %}
   <!-- end of open graph tags -->
 
@@ -89,7 +91,7 @@
     <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
   {% else %}
     <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="{{ site.url }}/{{ site.title_image }}">
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.title_image.location }}">
   {% endif %}
   <!-- end of Twitter cards -->
 
