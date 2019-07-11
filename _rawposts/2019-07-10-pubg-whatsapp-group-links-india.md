@@ -5,7 +5,7 @@ description: "Join and share 1000+ PUBG groups on whatsapp to discuss game strat
 !! insert_updated_date() !!
 image: assets/images/pubg-group-links-2019.jpg
 author: ab 
-tags: [ whatsapp group links, pubg, india ]
+tags: [ pubg whatsapp groups, pubg ]
 featured: true
 hidden: false
 comments: true

@@ -3,6 +3,7 @@ name: "WhatsApp Groups"
 title: "WhatsApp Group Links - Join & Share WhatsApp Groups"
 description: "Join and share 10000+ whatsapp groups for Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more."
 logo: 'assets/images/logo.png'
+title_image: 'assets/images/whatsapp-group-links.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-143612101-1'
@@ -11,11 +12,13 @@ email: 'animeshchatarjee@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+lang: "en"       # set in post to override
+locale: "en_US"  # set in post to override
 
 # Authors
 authors:
   ai:
-    name: Animesh C.
+    name: Abhi I.
     display_name: AI
     avatar: 'assets/images/profile-4.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
@@ -24,7 +27,7 @@ authors:
     #twitter: https://twitter.com/wowthemesnet
     description: "WhatsApp Geek"
   ab:
-    name: AB
+    name: Akan B.
     display_name: AB
     avatar: 'assets/images/profile-3.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
@@ -33,7 +36,7 @@ authors:
     #twitter: https://twitter.com/wowthemesnet
     description: "WhatsApp Expert."
   db:
-    name: DB
+    name: Du B.
     display_name: DB    
     avatar: 'assets/images/profile-3.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
@@ -47,9 +50,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-archives
-    
+
+# Social
+#twitter:
+  #username: ''
+#facebook:
+  #publisher: ''
+  #admins: ''
+  #app_id: ''
+
 # Archives
 jekyll-archives:
   enabled:
