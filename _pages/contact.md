@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Us
 permalink: /contact
 
 ---
@@ -52,39 +52,4 @@ permalink: /contact
 </script>
 
 
-<!--
-$('#contact-submit').click(function(e) {
-  e.preventDefault()
-  console.log("asdasd")
-  var contactName = $('#contact-name').val();
-  var contactEmail = $('#contact-email').val();
-  var contactMessage = $('#contact-message').val();
-  var url = "https://docs.google.com/forms/d/e/1FAIpQLScWwsp5Kdb3gX7eJiBV1WDqcxI8t2phM0DH_LaCpTFAKc0AeA/formResponse?usp=pp_url"
-  var data = {
-    'entry.362079096': contactName,
-    'entry.897438814': contactEmail,
-
-'entry.523981948': contactMessage,
-  };
-  $.ajax({
-    type: "POST",
-    url: url,
-    dataType: "json",
-    data: data,
-    statusCode: {
-
-0: function() {
-                    console.log("unknown");
-                    window.location.href = "contact_confirm/index.html";
-            },
-            200: function() {
-                    console.log("success");
-                    window.location.href = "contact_confirm/index.html";
-            }
-
-}
-
-})
-})
--->
 
