@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Us | WhatsApp Groups App 
+description: Get in touch with any questions, clarifications or requirements by filling out the form below. We'll get back as soon as possible.
 permalink: /contact
 
 ---
