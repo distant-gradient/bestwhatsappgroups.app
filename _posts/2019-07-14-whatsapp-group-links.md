@@ -4,7 +4,7 @@ title:  10000+ WhatsApp Group Links | July 2019
 description: "Join and Share WhatsApp Groups"
 last_modified_at: 2019-07-14
 image: assets/images/whatsapp-group-links.jpg
-author: ai
+author: db
 tags: [ whatsapp group links, news, india news ]
 featured: true
 hidden: false
