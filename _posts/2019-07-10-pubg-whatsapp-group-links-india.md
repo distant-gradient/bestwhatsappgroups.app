@@ -14,7 +14,7 @@ summary: Hello PUBG lovers, this article has been specifically written for you. 
 
 ---
 
-Looking to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? We’ve got you covered with a rich collection of fun and engaging WhatsApp group links.
+Lookin to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? We’ve got you covered with a rich collection of fun and engaging WhatsApp group links.
 
 WhatsApp groups are fun and popular because you get to join the conversations and help shape them by discussing and sharing what you love about a common topic of interest.
 
