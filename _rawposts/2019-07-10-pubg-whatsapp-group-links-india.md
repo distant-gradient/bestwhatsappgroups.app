@@ -86,11 +86,11 @@ Playing PUBG is not only a great way to test your skill level against quality pl
 <br />
 ## PUBG WhatsApp Groups Joining Links 
 
-By now, you may have found the Active WhatsApp groups of your choice in the PUBG category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+By now, you may have found the Active WhatsApp groups of your choice in the PUBG category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
 
 If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
-We hope that you liked and found the desired WhatsApp group links posted in the list above. If you found this post helpful, then share this post with your friends, family to help them find groups of their interset. 
+We hope that you liked and found the desired WhatsApp group links posted in the list above. If you found this post helpful, then share this post with your friends, family to help them find groups of their interest. 
 
 <br />
 <br />

@@ -1,10 +1,10 @@
 ---
 layout: post
-!! insert_title_with_updated_date("title:  10000+ Active WhatsApp Group Links") !!
+title:  10000+ Active WhatsApp Group Links | July 2019
 description: "Find and join hundreds of whatsapp groups based on your interests or submit your whatsapp groups. Groups for Jokes, Memes, Friends, Politics, Cricket, and many more."
-!! insert_updated_date() !!
+last_modified_at: 2019-07-26
 image: assets/images/whatsapp-group-links.jpg
-author: db 
+author: db
 tags: [ whatsapp group links, news, india news ]
 featured: true
 hidden: false
@@ -13,7 +13,7 @@ summary: "Find, join and share the best whatsapp groups for cricket, news, masti
 
 ---
 
-You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. 
+You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch.
 
 But did you know that there are lakhs of groups on WhatsApp that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day.
 
@@ -30,8 +30,8 @@ As I mentioned above, joining Whatsapp group via the "WhatsApp Group Invite Link
 
 - First, scroll down and choose your favorite groups.
 - Then, simply click on the link. It will open the group in a new browser window.
-- Choose "WhatsApp" from the list of apps to open. A pop-up will open with the group details like picture and name. 
-- Finally, join the group by clicking on the green "Join Group" button. 
+- Choose "WhatsApp" from the list of apps to open. A pop-up will open with the group details like picture and name.
+- Finally, join the group by clicking on the green "Join Group" button.
 
 
 ## WhatsApp Group Rules
@@ -54,9 +54,9 @@ So what are you waiting for? Start exploring the unlimited list of **active what
 
 ## WhatsApp Groups Joining Links Collection
 
-I hope you all liked the huge collection of 10000+ active public WhatsApp group links. I tried to cover as many different categories and languages as I could think. Hopefully, you found and joined more than a few groups of your interest. You can always find more WhatsApp group links in different categories by going to the dedicated post for each category. 
+I hope you all liked the huge collection of 10000+ active public WhatsApp group links. I tried to cover as many different categories and languages as I could think. Hopefully, you found and joined more than a few groups of your interest. You can always find more WhatsApp group links in different categories by going to the dedicated post for each category.
 
 If you want to suggest any categories or groups that we should add to this list, do share the group link by <a href="{{ site.baseurl}}/submit-whatsapp-group">submiting a new whatsapp group here</a>.
 
-If you found this post helpful, then share this post with your friends, family to help them find groups of their interest and also make new groups and submit them here. Stay tuned for more and more such posts! 
+If you found this post helpful, then share this post with your friends, family to help them find groups of their interest and also make new groups and submit them here. Stay tuned for more and more such posts!
 
