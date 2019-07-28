@@ -9,7 +9,7 @@ tags: [ pubg whatsapp groups, pubg, pubg tournaments, pubg whatsapp groups india
 featured: true
 hidden: false
 comments: false 
-rating: 
+rating: 4 
 summary: Hello PUBG lovers, this article has been specifically written for you. We have collected over <strong>1000+ whatsapp group links</strong> for your favourite online mobile game - <b>PUBG</b>. If you've been searching for friends to play PUBG with or a group to share and discuss PUBG strategies, your search ends with this post. So go ahead and join as many groups as you like - for <strong>free!</strong>
 
 ---
