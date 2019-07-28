@@ -4,6 +4,7 @@ title: About WhatsApp Groups App | Join 10000+ WhatsApp Group Links
 description: WhatsApp Groups App has the largest collection of public and active whatsapp group invite links for topics such as Jobs, Masti, Friends, News, Politics, Pubg, Online Earning, English, etc.
 permalink: /about
 comments: false 
+
 ---
 
 <div class="row justify-content-between">

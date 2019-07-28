@@ -8,6 +8,7 @@ author: db
 tags: [ whatsapp group links, news, india news ]
 featured: true
 hidden: false
+comments: false
 rating:
 summary: "Find, join and share the best whatsapp groups for cricket, news, masti, friends, memes, jokes, shayari, politics, etc. We have created a public collection of <strong>10000+ active whatsapp group invite links</strong> for you to choose from. Not just that, we have hundreds of groups for every Indian language such as Hindi, Tamil, Bengali, Kannada, Malyalam, Marathi, etc, covering every part of India."
 
