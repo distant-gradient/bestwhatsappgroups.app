@@ -55,6 +55,7 @@ Below is a huge list of active groups for PUBG fans and gamers. You can join as 
 
 !! insert_group_list(["o", "pubg"], "PUBG Tournaments India", "anchor", [0,30]) !!
 
+<br />
 The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
 
 
@@ -70,7 +71,7 @@ Specifically interested staying updated with everything in Indian politics and w
 
 !! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,50]) 
 
-
+<br />
 You'll find many more News WhatsApp Groups here.
 
 ## **Movies** WhatsApp Groups
@@ -79,8 +80,28 @@ Fond of movies and want to find friends who like similar movies as well? Want to
 
 !! insert_group_list(["o", "movie", "movies"], "Movies WhatsApp Group India", "button", [0,50]) 
 
+<br />
 Lots more movie whatsapp group links here.
 
+
+## **Shayari** WhatsApp Groups
+
+What better than some beautiful and thoughtful shayari and ghazals delivered on WhatsApp through the day. No doubt it is really hard to find good Shayari WhatsApp Group Links on the internet. But you know what - we have searched all over the internet and found the best active WhatsApp group links for sharing shayari. 
+
+!! insert_group_list(["o", "shayari"], "Shayari WhatsApp Groups India", "anchor", [0,80]) 
+
+<br />
+If you're fond of shayari, a lot more shayari whatsapp group links are here.
+
+## **Online Money Making** WhatsApp Group Links (Earn Money Online)
+
+Would you like to earn money while sitting at home? You can do that easily nowadays by making money online, provided you are willing to put in effort to learn. All you have to do is identify your interest area - areas where you believe you have additional knowledge over others. Then you can start blogs, or groups or even youtube channels - all of which pays out ad money to the creator when they have lots of views and subscribers. This is not all - there are many more ways to make money online. Join some of these groups which discuss strategies to earn money online. 
+
+
+!! insert_group_list(["o", "earn", "money"], "WhatsApp Groups India", "anchor", [0,50]) 
+
+
+A lot more WhatsApp group links for online earning is here.
 
 
 ## WhatsApp Groups Joining Links Collection
