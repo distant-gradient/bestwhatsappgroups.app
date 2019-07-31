@@ -3,7 +3,7 @@ layout: post
 !! insert_title_with_updated_date("title:  1000+ **PUBG** WhatsApp Group Links") !!
 description: "Join and share 1000+ PUBG groups on whatsapp to discuss game strategy or find new friends and players."
 !! insert_updated_date() !!
-image: assets/images/pubg-group-links-2019.jpg
+image: assets/images/1.jpg
 author: ab 
 tags: [ pubg whatsapp groups, pubg, pubg tournaments, pubg whatsapp groups india, pubg whatsapp invite links ]
 featured: true
