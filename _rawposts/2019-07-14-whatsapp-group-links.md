@@ -5,7 +5,7 @@ description: "Find and join hundreds of whatsapp groups based on your interests 
 !! insert_updated_date() !!
 image: assets/images/whatsapp-group-links.jpg
 author: db 
-tags: [ whatsapp group links ]
+tags: [ whatsapp group links, news, india news ]
 featured: true
 hidden: false
 comments: false
