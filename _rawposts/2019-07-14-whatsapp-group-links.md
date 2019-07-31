@@ -99,19 +99,10 @@ If you're fond of shayari, a lot more shayari whatsapp group links are here.
 Would you like to earn money while sitting at home? You can do that easily nowadays by making money online, provided you are willing to put in effort to learn. All you have to do is identify your interest area - areas where you believe you have additional knowledge over others. Then you can start blogs, or groups or even youtube channels - all of which pays out ad money to the creator when they have lots of views and subscribers. This is not all - there are many more ways to make money online. Join some of these groups which discuss strategies to earn money online. 
 
 
-!! insert_group_list(["o", "earn", "money"], "Earn Money Online", "anchor", [0,50]) 
+!! insert_group_list(["o", "earn", "money"], "WhatsApp Groups India", "anchor", [0,50]) 
 
 
 A lot more WhatsApp group links for online earning is here.
-
-## **Memes** WhatsApp Group Links
-
-!! insert_group_list(["o", "memes", "meme", "jokes", "joke"], "Meme WhatsApp Groups India", "anchor", [0,100]) 
-
-
-## **TikTok** WhatsApp Groups
-
-!! insert_group_list(["o", "tiktok", "tik tok", "video"], "Meme WhatsApp Groups India", "anchor", [0,100]) 
 
 
 ## WhatsApp Groups Joining Links Collection
