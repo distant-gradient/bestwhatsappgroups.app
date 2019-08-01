@@ -10,7 +10,7 @@ comments: false
 <div class="row justify-content-between">
   <div class="col-md-8 pr-5">
     <p>
-      <a href="https://whatsappgroups.app">WhatsAppGroups.App</a> provides the largest collection of public and active whatsapp group invite links for various topics such as Jobs, Masti, Friends, News, Politics, <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india/">Pubg</a>, Modi, BJP, Online Earning, English Learning, etc.  
+      <a href="{{ site.baseurl }}" rel="noreferrer">WhatsAppGroups.App</a> provides the largest collection of public and active whatsapp group invite links for various topics such as Jobs, Masti, Friends, News, Politics, <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india/">Pubg</a>, Modi, BJP, Online Earning, English Learning, etc.  
       <p>You will find thousands of WhatsApp Group Links via our website and android app. You can join unlimited number of whatsapp groups and make friends with similar interests across the world.</p>
        <p>Not only this, if you are running your own WhatsApp groups, you can submit those groups to us via the <a href="{{site.baseurl}}/submit-whatsapp-group">submit group link</a> and we will add it to our database. Once added to our lists, lakhs of people on the internet will find and join your groups. </p>
 
