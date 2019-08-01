@@ -3,7 +3,7 @@ layout: post
 !! insert_title_with_updated_date("title:  10000+ Active WhatsApp Group Links") !!
 description: "Find and join hundreds of whatsapp groups based on your interests or submit your whatsapp groups. Groups for Jokes, Memes, Friends, Politics, Cricket, and many more."
 !! insert_updated_date() !!
-image: assets/images/2.jpg
+image: assets/images/whatsapp-group-links.jpg
 author: db 
 tags: [ whatsapp group links ]
 featured: true
