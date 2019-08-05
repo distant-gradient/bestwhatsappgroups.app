@@ -187,6 +187,7 @@ section.recent-posts {
 .post-summary {
   color: rgba(0, 0, 0, .60);
   margin-bottom: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .post-top-meta {
@@ -914,4 +915,16 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+/* cross browser solution to ensure that word doesn't expand beyond parent div's width */
+.restrict-width-parent
+{
+    width:300px;
+    height:400px;
+    white-space: pre-wrap; /* css-3 */    
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */    
+    white-space: -o-pre-wrap; /* Opera 7 */    
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
