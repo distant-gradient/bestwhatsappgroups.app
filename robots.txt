@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+User-agent: *
+Disallow: /assets/images
+Disallow: /categories
+Sitemap: https://whatsappgroups.app/sitemap.xml
