@@ -2,7 +2,7 @@
 layout: post
 title:  10000+ Active WhatsApp Group Links | August 2019
 description: "Find and join hundreds of whatsapp groups based on your interests or submit your whatsapp groups. Groups for Jokes, Memes, Friends, Politics, Cricket, and many more."
-last_modified_at: 2019-08-06
+last_modified_at: 2019-08-10
 image: assets/images/whatsapp-group-links.jpg
 author: db
 tags: [ whatsapp groups, whatsapp group join links ]
@@ -54,76 +54,76 @@ So what are you waiting for? Start exploring the unlimited list of **active what
 
 Below is a huge list of active groups for PUBG fans and gamers. You can join as many groups as you'd like for free and then use them to discuss gaming strategies, opinions and views. You can also use these groups to find and join tournaments and try to earn some money online while also enjoying playing PUBG. So if you're passionate about PUBG and want to find similar friends, go ahead and join a few of the groups listed below.
 
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4faNeyX5inGKEmeGlfnKkh" rel="nofollow" rel="noreferrer">PUBG Championship: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7QRnhkbdAvyKdeK5tM5JIS" rel="nofollow" rel="noreferrer">Pubg #Tounerment (tamil): </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Li4dUndev8dEoVeJ74bj1w" rel="nofollow" rel="noreferrer">🇮🇳🔫Pubg Tournament 🎮💣</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Lqcmjwn9RSf8F5f53ekZr7" rel="nofollow" rel="noreferrer">8 Ball pool & PUBG Cool Tips</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EIrU0xBWGtsGZOmAAu9cgE" rel="nofollow" rel="noreferrer">Pubg Elite’s Of Gladiator</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/C5L4OXiu4MQ8wdw77wFI61" rel="nofollow" rel="noreferrer">PUBG lovers</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3sloG3itJvUKePCfhWUmDd" rel="nofollow" rel="noreferrer">Pubg ~Players📌💣🇮🇳🍳: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4Hgt2aRHx2gBkr15HlEEpp" rel="nofollow" rel="noreferrer">PUBG mobile</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hd6jUtE7DuXGoZLLvm6DuX" rel="nofollow" rel="noreferrer">PUBG GAMERS</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G1NxKS9QpZ8BkTyRWZvNNX" rel="nofollow" rel="noreferrer">PUBG Streaming</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BRv037dvTImEHndbCBML9H" rel="nofollow" rel="noreferrer">PUBG MOBILE COMMUNITY</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0RWEWf5ChKA2hLAbLOhFS4" rel="nofollow" rel="noreferrer">PUBG MOBILE: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HbFg4VWDpMG5naCHYIpuoa" rel="nofollow" rel="noreferrer">PUBG MOBILE 🇮🇳</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CGgtHv4HeAN4VTD6w5cOoU" rel="nofollow" rel="noreferrer"> 🎮 Pubg gangsters⚔💣🔪🤩 </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/16fOuoMGGmF0ZW6KNHFpHV" rel="nofollow" rel="noreferrer">Rules of</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CEQ5IchIW4LAhIcACCAYm1" rel="nofollow" rel="noreferrer">🔥Rules of survival🔥asecinos pro</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4D0fiPriuMj1KlHFiA910D" rel="nofollow" rel="noreferrer">PUBG PLAYERS: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IrQ5XndJsKIAauJb17xy2F" rel="nofollow" rel="noreferrer">🎮🤙🥇🎮RULES OF SURVIVAL🌏💯⚅</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/J9pktmfMhtn9dbWwdKKTbe" rel="nofollow" rel="noreferrer">PUBG Tournaments</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LgMkdXIc9zN8MfGuC6HsLD" rel="nofollow" rel="noreferrer">PUBG TOURNAMENTS 🎮</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5Xl6r3p0hb5DLoqkaVB4nD" rel="nofollow" rel="noreferrer">Channel advertisement grp</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FdZWJk0Zj7TDc0FNidN00m" rel="nofollow" rel="noreferrer">PC GAMING SA</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3v5qgBx2q1Y00MM6EkrbDC" rel="nofollow" rel="noreferrer">Pubg Mobile Official</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1B0aWVYSF6mFGTm9Y8tow3" rel="nofollow" rel="noreferrer">Pubg Hindi: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8hY7EliCE6MIf0dy9Csmrn" rel="nofollow" rel="noreferrer">RULES OF SURVIVAL💣🔫</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LVs1FponzdT8RNgz5tPEQ1" rel="nofollow" rel="noreferrer">PUBG MX</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BGYaWxQa3rELOGjCyZvuiz" rel="nofollow" rel="noreferrer">Pubg tournament cash ₹</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/53HB8o61nGE4oxGVBxpCVp" rel="nofollow" rel="noreferrer">😘😘👑PUBG LOVERS👑😍😍</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/08qXDvBXEBcEyNvOAM9CJV" rel="nofollow" rel="noreferrer">🎮 😁⚔🔫💣💣PUBG⚔⚔🐔🐔🐔🐔: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LdWJ82s6VU3EtOr46Z43GT" rel="nofollow" rel="noreferrer">Teams Rules of Survival💪🏼🔫</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/D1NmdsgAGqk6wTf2gpZJgj" rel="nofollow" rel="noreferrer">Pubg Latinos</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/C5QGQVlolBp3ODCbxaDJgD" rel="nofollow" rel="noreferrer">PUBG Lovers</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DmKyAqpom65AS8q4bNWng8" rel="nofollow" rel="noreferrer">Pubg Player’s</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KMT1vrNz5mZH9ZUcsRxjlT" rel="nofollow" rel="noreferrer">Rules of Survival</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DZZmBn1JMpc3BIzyD6TFmU" rel="nofollow" rel="noreferrer">😎☠PUBG TOURNAMENT 1 ☠: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JLmdSEjKNPk6Vd1P4xvLED" rel="nofollow" rel="noreferrer">Pubg Tournament💣</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FQDCTcBpqClDF04nO2wCVq" rel="nofollow" rel="noreferrer">⚔RULES OF SURVIVE</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0kVaPShbV8zH26miSEzD32" rel="nofollow" rel="noreferrer">PRO PUBG PLAYERS🔥😎: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1hndTwyh87N9UC7C313DRc" rel="nofollow" rel="noreferrer">CUSTOM MATCH PUBG</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4jmuc71PltK266LAStO0bJ" rel="nofollow" rel="noreferrer">ROOM PARITHABANGAL: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KkugG0rZh3bG4XBB3W9QD0" rel="nofollow" rel="noreferrer">PUBG Mobile Tamil: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HflT3IVzRvG70r4FTZ9fty" rel="nofollow" rel="noreferrer">PRO</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2fxnO9IF9CHG5jyiepoUMl" rel="nofollow" rel="noreferrer">PUBG V/s Free Fire</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4i5QdpqU3au2EKGMhlATa1" rel="nofollow" rel="noreferrer">🎮 ♨ PUBG TOURNAMENT ♨: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G2BFpViRyi94cCP2qs5M8u" rel="nofollow" rel="noreferrer">Pubg Companion</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4tEZNbofaax8ebF0l18uP4" rel="nofollow" rel="noreferrer">PUBGMobile Official</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DtnlVRE8h7GIhytzqTWAs7" rel="nofollow" rel="noreferrer">Pubg Tournament</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DzTl3SwEHWDEyPuYiCcoQh" rel="nofollow" rel="noreferrer"> PUBG MOBILE LEGENDS!</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0ZpoFvgew1f3paN1HHqwOC" rel="nofollow" rel="noreferrer">ROS ASIA SERVER😁😁</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/977sy01YQB91Mpm9nrqPbg" rel="nofollow" rel="noreferrer">PUBG Mobile</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5dKOKusWj4Z5HfwSYafYMQ" rel="nofollow" rel="noreferrer">Gamer’s hood </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ff8fExEfbcpHGZbP6Rj71M" rel="nofollow" rel="noreferrer">PUBG XBOX ONE BR:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2wONCpnYoGLGxoDg4YrGZm" rel="nofollow" rel="noreferrer">PUBG👑:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/B8qpfwQg75jI1FfO3GGxEo" rel="nofollow" rel="noreferrer">Indian Gamers</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/86qTuj6q4no9IyPFgFmnE4" rel="nofollow" rel="noreferrer">Pubg tournament</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hb4ys9dGLFK79Pg8UrFv6g" rel="nofollow" rel="noreferrer">Teen Patti gold tournament</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/E9kXClcjIGw6lakbqmA3iQ#" rel="nofollow" rel="noreferrer">Pubg Tournaments World👑</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GEKpiNOdqNC5ZmwBCFuX1d" rel="nofollow" rel="noreferrer">[ROS] Chicken Dinner</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/16txL0uERmu5toN69iaquS" rel="nofollow" rel="noreferrer">Pubg Tournament ⚰️⚰️: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/L6PELYzHuw27rGMwlWKkfa" rel="nofollow" rel="noreferrer">Epic PUBG Gaming </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7V3cz3AqOSUBF68m5Jeekd" rel="nofollow" rel="noreferrer">🎮 PUBG Custom Match: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I72aNSIa8Se9Ygt38VyLsN" rel="nofollow" rel="noreferrer">PuBG MoBile BoTh Hard</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Aw6S7iiPxloFLTmfqJzmEV" rel="nofollow" rel="noreferrer">OTG FOR PUBG: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3dZUukaSUrKGppebMF2Blb" rel="nofollow" rel="noreferrer">PUBG Battleground</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EmW4VNRZEhFA7fPruqsRKn" rel="nofollow" rel="noreferrer">PUBG AND GAMING LOVERS</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BrAPKAd4PclCYb3CymDXkN" rel="nofollow" rel="noreferrer">PUBG Partners</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1V5xdTVqx9DH2aV8cpbOVB" rel="nofollow" rel="noreferrer">Rulez of Survivals😎</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2FPgJ0M90qHCU8ftJfAs5S" rel="nofollow" rel="noreferrer">😜Pubg Bros: Legends:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/E8NXF3wYcqK202hyFxIx0P" rel="nofollow" rel="noreferrer"> PUBG XBOX ONE BR </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AbWQthfdO9AFH9zTpG5eas" rel="nofollow" rel="noreferrer">PUBG GAMERS: </a></div>
+<a href="https://chat.whatsapp.com/invite/DmCJAmKIgItJkRo1Xh8NDv" rel="nofollow">Pubg battle time 😎</a><br />
+<a href="https://chat.whatsapp.com/invite/K4hrlgT9n9dLs293pp4qGF" rel="nofollow">Rules of Survival</a><br />
+<a href="https://chat.whatsapp.com/invite/DtnlVRE8h7GIhytzqTWAs7" rel="nofollow">Pubg Tournament</a><br />
+<a href="https://chat.whatsapp.com/invite/B8qpfwQg75jI1FfO3GGxEo" rel="nofollow">Indian Gamers</a><br />
+<a href="https://chat.whatsapp.com/invite/GH2I51FtLen9veDjCyK67S" rel="nofollow">2 A (-8)</a><br />
+<a href="https://chat.whatsapp.com/invite/EKxBp4OZUhI7423FZ8NYno" rel="nofollow">PubGian AReNA</a><br />
+<a href="https://chat.whatsapp.com/invite/Li4dUndev8dEoVeJ74bj1w" rel="nofollow">🇮🇳🔫Pubg Tournament 🎮💣</a><br />
+<a href="https://chat.whatsapp.com/invite/ESn0d8F6qa0DBsvQ4Lyxdp" rel="nofollow">Pro Pubg players</a><br />
+<a href="https://chat.whatsapp.com/invite/2fxnO9IF9CHG5jyiepoUMl" rel="nofollow">PUBG V/s Free Fire</a><br />
+<a href="https://chat.whatsapp.com/invite/0l3jIZ5JX2A1pRaPBtXTy8" rel="nofollow">PUBG Tournaments Daily</a><br />
+<a href="https://chat.whatsapp.com/invite/E3uAoD8AF7E7jqfFhryFkU" rel="nofollow">PUBG Live</a><br />
+<a href="https://chat.whatsapp.com/invite/5dKOKusWj4Z5HfwSYafYMQ" rel="nofollow">Gamer’s hood </a><br />
+<a href="https://chat.whatsapp.com/invite/CRMh7jzAy67G3IKfk8K6bq" rel="nofollow">PUBG MOBILE</a><br />
+<a href="https://chat.whatsapp.com/invite/CuGmLQtYuWz7T8cDIAF9aK" rel="nofollow">pubg tournament’s</a><br />
+<a href="https://chat.whatsapp.com/invite/KWTQPpaSVD0A02T2twlovv" rel="nofollow">PUBG k Deewane</a><br />
+<a href="https://chat.whatsapp.com/invite/1V5xdTVqx9DH2aV8cpbOVB" rel="nofollow">Rulez of Survivals😎</a><br />
+<a href="https://chat.whatsapp.com/invite/HoxzG5LwhgwBPVXWzun1Rt" rel="nofollow">P.U.B.G GROUP</a><br />
+<a href="https://chat.whatsapp.com/invite/E6zErxQ95YnEE4UdaGY7VX" rel="nofollow">PUBG game</a><br />
+<a href="https://chat.whatsapp.com/invite/9Hdbc9oIFEn5BjUu7u268D" rel="nofollow">Ghost Warriors🔥: </a><br />
+<a href="https://chat.whatsapp.com/invite/FzO6mZAWF926p04vz0YAbS" rel="nofollow">PUBG LOVERS</a><br />
+<a href="https://chat.whatsapp.com/invite/6eWZwfhCBwU6WZjnbzOUhu" rel="nofollow">PUBG—-TAMIL</a><br />
+<a href="https://chat.whatsapp.com/invite/Jh3XQxPy1pl2lXXIQ1tUAX" rel="nofollow">Rules of Survival</a><br />
+<a href="https://chat.whatsapp.com/invite/11U8TwzUAggKn19WbRegXg" rel="nofollow">Team LEO(PUBG Tamil Clan): </a><br />
+<a href="https://chat.whatsapp.com/invite/BKJgJqLkWXY9yEgWubrqHa" rel="nofollow">Pubg Mobile Masters</a><br />
+<a href="https://chat.whatsapp.com/invite/6hTOIHWnrEwCWPk3E1UY9a" rel="nofollow">🎮 PUBG mobile TECHNOVIT🔜: </a><br />
+<a href="https://chat.whatsapp.com/invite/16fOuoMGGmF0ZW6KNHFpHV" rel="nofollow">Rules of</a><br />
+<a href="https://chat.whatsapp.com/invite/DzvfpxUgpnSHkfsafSAuil" rel="nofollow">GAMING WITH PIYUSH subs</a><br />
+<a href="https://chat.whatsapp.com/invite/5ydjecVNTiI0XIBEfQ6huw" rel="nofollow">PUBG MOBILE: </a><br />
+<a href="https://chat.whatsapp.com/invite/C5QGQVlolBp3ODCbxaDJgD" rel="nofollow">PUBG Lovers</a><br />
+<a href="https://chat.whatsapp.com/invite/7hFiQfeYZ1cDOg91YxstWk" rel="nofollow">🎮 🗡🗡Headshot 🤺PUBG players🔥: </a><br />
+<a href="https://chat.whatsapp.com/invite/0ZpoFvgew1f3paN1HHqwOC" rel="nofollow">ROS ASIA SERVER😁😁</a><br />
+<a href="https://chat.whatsapp.com/invite/0kVaPShbV8zH26miSEzD32" rel="nofollow">PRO PUBG PLAYERS🔥😎: </a><br />
+<a href="https://chat.whatsapp.com/invite/4pnmdRSVwUQEidpbFdvM3b" rel="nofollow">PUBG player</a><br />
+<a href="https://chat.whatsapp.com/invite/55V8ZydcGkrAcEGD1aGV3j" rel="nofollow">PUBG DAILY TOURNAMENTS</a><br />
+<a href="https://chat.whatsapp.com/invite/C5L4OXiu4MQ8wdw77wFI61" rel="nofollow">PUBG lovers</a><br />
+<a href="https://chat.whatsapp.com/invite/J60X7MZn4OVBKH2OsxDsor" rel="nofollow">PUBG</a><br />
+<a href="https://chat.whatsapp.com/invite/LqlSQOvdb1fHDVLlhdLSaQ" rel="nofollow">PUBG KHELO 24×7</a><br />
+<a href="https://chat.whatsapp.com/invite/KCubn9oOShxBltPMhAW3Fw" rel="nofollow">NDIAN UNKNOWN BATTLE: </a><br />
+<a href="https://chat.whatsapp.com/invite/86qTuj6q4no9IyPFgFmnE4" rel="nofollow">Pubg tournament</a><br />
+<a href="https://chat.whatsapp.com/invite/BjF8JGG2b3SA7sTsBYUieh" rel="nofollow">PUBG forever:</a><br />
+<a href="https://chat.whatsapp.com/invite/HnL27WwkQIzBs19QTFNG4z" rel="nofollow">G-Pro eSports</a><br />
+<a href="https://chat.whatsapp.com/invite/EdEooEl11WOD2nVgLYs6nS" rel="nofollow">Pubg The Killers 💣: </a><br />
+<a href="https://chat.whatsapp.com/invite/CCAhUmm2qQE4zBFCohYzPR" rel="nofollow">Pubg tournament : </a><br />
+<a href="https://chat.whatsapp.com/invite/IrQ5XndJsKIAauJb17xy2F" rel="nofollow">🎮🤙🥇🎮RULES OF SURVIVAL🌏💯⚅</a><br />
+<a href="https://chat.whatsapp.com/invite/FagY79pDSo7GJS1b7LAZtJ" rel="nofollow">PUBG ROOM 1.0</a><br />
+<a href="https://chat.whatsapp.com/invite/IfsvhIqqKPWHI9vyUuusuM" rel="nofollow">PUBG Players</a><br />
+<a href="https://chat.whatsapp.com/invite/D3ljzrL5ICxGBZZC6C5xka" rel="nofollow">Vicky Pubg</a><br />
+<a href="https://chat.whatsapp.com/invite/6MFrtU9m0H1LWwGTgyotdx" rel="nofollow">🎮 Pubg தமிழ்: </a><br />
+<a href="https://chat.whatsapp.com/invite/6zFNppBmJmNJPehNufE2Rv" rel="nofollow">Dangerzone-PUBG: </a><br />
+<a href="https://chat.whatsapp.com/invite/5UI5l4uiGT55AyOQjACAGz" rel="nofollow">PUBG TOURNAMENT 2018: </a><br />
+<a href="https://chat.whatsapp.com/invite/LVjLbCZcqRfEQm5eORjRcF" rel="nofollow">Pubg Mobile Grp</a><br />
+<a href="https://chat.whatsapp.com/invite/11m0FVJVmCvKOAYZgu0PCA" rel="nofollow">PUBG Mobile SA</a><br />
+<a href="https://chat.whatsapp.com/invite/Gr6xFbeFCXH7T93jCCqOzB" rel="nofollow">Pubg Daily Cash💸💸💷💰</a><br />
+<a href="https://chat.whatsapp.com/invite/F1OseUGL0JkCroSPgZSFk3" rel="nofollow">PUBG Mobile</a><br />
+<a href="https://chat.whatsapp.com/invite/Hb4ys9dGLFK79Pg8UrFv6g" rel="nofollow">Teen Patti gold tournament</a><br />
+<a href="https://chat.whatsapp.com/invite/E99TvwxKmnL8TtRYUJVySu" rel="nofollow">PUBG😎</a><br />
+<a href="https://chat.whatsapp.com/invite/J9pktmfMhtn9dbWwdKKTbe" rel="nofollow">PUBG Tournaments</a><br />
+<a href="https://chat.whatsapp.com/invite/56KDuvwFmLq4Q5zTRA6kLE" rel="nofollow">CarryIsLive</a><br />
+<a href="https://chat.whatsapp.com/invite/Cvxsatf6cpLLeep3ljqCAD" rel="nofollow">PUBG : </a><br />
+<a href="https://chat.whatsapp.com/invite/5Xl6r3p0hb5DLoqkaVB4nD" rel="nofollow">Channel advertisement grp</a><br />
+<a href="https://chat.whatsapp.com/invite/HO3dLMN4db0G9xN0AhuT9N" rel="nofollow">Dynamo Fans </a><br />
+<a href="https://chat.whatsapp.com/invite/KFhZX4f6ySy6OTVIoQmPtJ" rel="nofollow">RULES OF SURVIVAL BR🇧🇷</a><br />
+<a href="https://chat.whatsapp.com/invite/KYdOSG22hr12nWRh5Ykugv" rel="nofollow">PUBG PROS</a><br />
+<a href="https://chat.whatsapp.com/invite/EIrU0xBWGtsGZOmAAu9cgE" rel="nofollow">Pubg Elite’s Of Gladiator</a><br />
+<a href="https://chat.whatsapp.com/invite/J7qD6pZ9lTy9sg1bSRHgYQ" rel="nofollow">gaming community mem</a><br />
+<a href="https://chat.whatsapp.com/invite/FQDCTcBpqClDF04nO2wCVq" rel="nofollow">⚔RULES OF SURVIVE</a><br />
+<a href="https://chat.whatsapp.com/invite/E3TMbty08IJDKxzoQPhM2F" rel="nofollow">🤺PUBG players🔥</a><br />
+<a href="https://chat.whatsapp.com/invite/Ff8fExEfbcpHGZbP6Rj71M" rel="nofollow">PUBG XBOX ONE BR:</a><br />
+<a href="https://chat.whatsapp.com/invite/Hd3oculSBSE3vq9xTYSnM3" rel="nofollow">PUBG Daily Tournaments</a><br />
+<a href="https://chat.whatsapp.com/invite/4tEZNbofaax8ebF0l18uP4" rel="nofollow">PUBGMobile Official</a><br />
 
 <br />
 The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
@@ -133,233 +133,233 @@ The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" targ
 
 In this section, I have shared a long list of active WhatsApp group links for news, current affairs and information. Joining these groups will enable you to stay upto date with current affairs and breaking news on a daily basis. Whether you're interested in National News, Politics, International News or even news from your own city or language, simply join the right groups and you'll start receiving news directly within WhatsApp. Isn't this great?! So get started and join some news related whatsapp groups.
 
-<div>The World's No👆🏻Technical🗣:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I1AlGJv71S2AcWWJB2NGmR" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/I1AlGJv71S2AcWWJB2NGmR</a></div>
-<div>World news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7wpZs0Qp9znLkd0PIJIAnR" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/7wpZs0Qp9znLkd0PIJIAnR</a></div>
-<div>News of Mahisagar: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7p4kqp5gHB37e3vP2fAYH2" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/7p4kqp5gHB37e3vP2fAYH2</a></div>
-<div>MAN UNITED NEWS SHARE: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JmJSq2fTjjOBwAHixXzdzG" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JmJSq2fTjjOBwAHixXzdzG</a></div>
-<div>Sports news and update: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DYTY4q2KbLT32wFdfducFe" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/DYTY4q2KbLT32wFdfducFe</a></div>
-<div>Rajasthani news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6JenmjrJn0mGP5FKDNA5xc" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/6JenmjrJn0mGP5FKDNA5xc</a></div>
-<div>Bollywood news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JVKjxH2RksT4WegCM5JFJB" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JVKjxH2RksT4WegCM5JFJB</a></div>
-<div>News For HAjiPUR NOW.: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2iUoow51RMbGX6zukS1NLQ" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2iUoow51RMbGX6zukS1NLQ</a></div>
-<div>NEWS CHANNEL AND ENTERTAINMENT: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AFURoo69L2bCTCRC2NpxpM" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/AFURoo69L2bCTCRC2NpxpM</a></div>
-<div>World: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/A4viDPI74N9Fqheg8w7Sak" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/A4viDPI74N9Fqheg8w7Sak</a></div>
-<div>Only news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BcxFaruQMVIAtqpDtA140C" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/BcxFaruQMVIAtqpDtA140C</a></div>
-<div>Simple News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ahv6uIfS4QICVBO8jsit0O" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Ahv6uIfS4QICVBO8jsit0O</a></div>
-<div>Zee News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FGcC7ZkrrL71qZGwpH1AMI" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FGcC7ZkrrL71qZGwpH1AMI</a></div>
-<div>team11prediction.com: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8MavcYXTvdlDWrQyKIgY85" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/8MavcYXTvdlDWrQyKIgY85</a></div>
-<div>Geo News Kashmir (GNK): <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0SVpzGh4Dwr5WFeF7HmnQ8" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0SVpzGh4Dwr5WFeF7HmnQ8</a></div>
-<div>Chat Group News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0djULQbC8Fm3jS6HYquGEb" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0djULQbC8Fm3jS6HYquGEb</a></div>
-<div>🌿 अपना हिन्दुस्तान🌿: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GnU56cIf5pe3oFRWt9jpKK" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/GnU56cIf5pe3oFRWt9jpKK</a></div>
-<div>Night News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6X1a50qAO5d5NkvGW8ff1v" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/6X1a50qAO5d5NkvGW8ff1v</a></div>
-<div>Bareilly News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AH3NyIDvNuU50ug8EUQXJU" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/AH3NyIDvNuU50ug8EUQXJU</a></div>
-<div>study&notes gk news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/D744TF4zC4a8abVMwHWT2K" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/D744TF4zC4a8abVMwHWT2K</a></div>
-<div>News Of Bhavnagar: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0nqrwrBH0RNJpWGuTP5dAg" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0nqrwrBH0RNJpWGuTP5dAg</a></div>
-<div>Pakistan Jobs.daily news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HD9pWiwRPKOFwicqn6KGXC" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/HD9pWiwRPKOFwicqn6KGXC</a></div>
-<div>News Of Sabarkantha news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KKPPN7HtPVSJP4EvDJ6kxy" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KKPPN7HtPVSJP4EvDJ6kxy</a></div>
-<div>H2I ACHIEVERS GROUP⭐⭐⭐:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2KCCPxMGggp574ulH1Lnkk" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2KCCPxMGggp574ulH1Lnkk</a></div>
-<div>Trading News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GKnwY7dTDjWBzf2XJUu6kS" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/GKnwY7dTDjWBzf2XJUu6kS</a></div>
-<div>Moto G's Group List News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3rYXYqILfyp5IjXg7NCx7m" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3rYXYqILfyp5IjXg7NCx7m</a></div>
-<div>News Of Motorcycle racing and many more group: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EXIqayQsvvtHXOYpBYxDqc" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/EXIqayQsvvtHXOYpBYxDqc</a></div>
-<div>JOB NEWS INDIA: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G3MG3xbPkG60Yu2feI3RDL" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/G3MG3xbPkG60Yu2feI3RDL</a></div>
-<div>iPhones newsgroup: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GRhBzbI4iTn7sWsJcKjfsi" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/GRhBzbI4iTn7sWsJcKjfsi</a></div>
-<div>JAI MATA DI NEWS GROUP: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4EQRew4HjFiAyzADhkG16i" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/4EQRew4HjFiAyzADhkG16i</a></div>
-<div>Everyday Something News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3i0YaNi6cn0B7TmrgV8r9b" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3i0YaNi6cn0B7TmrgV8r9b</a></div>
-<div>Akheda News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GuHLPwZ9vdcEzHZI6co0Pc" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/GuHLPwZ9vdcEzHZI6co0Pc</a></div>
-<div>UK NEWS: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BNOROEfe9z4DHX278WlUWz" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/BNOROEfe9z4DHX278WlUWz</a></div>
-<div>📲 Tech News on Whatsapp अलर्ट से जुड़े + : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0liamqxi5eXIk6A9eEEVXI" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0liamqxi5eXIk6A9eEEVXI</a></div>
-<div>Only Indian news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KjroC6vKRNmJHGzMBkUSnO" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KjroC6vKRNmJHGzMBkUSnO</a></div>
-<div>👑 Modi Raj 👑: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JX6Xf2qjIsh6lc6JmBcuI8" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JX6Xf2qjIsh6lc6JmBcuI8</a></div>
-<div>📰News Alert🌏: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Lenbr9XOjrAEMWkCC0ImUw" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Lenbr9XOjrAEMWkCC0ImUw</a></div>
-<div>👬Daily News Paper VTZ 1.1:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AzcrgaEIQ7l3acSzWwDBp8" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/AzcrgaEIQ7l3acSzWwDBp8</a></div>
-<div>BJP News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FnMcaCKJNAp7TP3pIPTQLa" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FnMcaCKJNAp7TP3pIPTQLa</a></div>
-<div>Gud news for leaders: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Bd94OFXTXuqETJ3OBblaSa" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Bd94OFXTXuqETJ3OBblaSa</a></div>
-<div>Viral News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Fvmi2CT3pD0FnzM7vSw1P9" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Fvmi2CT3pD0FnzM7vSw1P9</a></div>
-<div>UC news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HAxKuDcrvv0BFS5M7Y1FrW" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/HAxKuDcrvv0BFS5M7Y1FrW</a></div>
-<div>Tamil news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2HI3Rv2ftU8AAaIueeUih5" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2HI3Rv2ftU8AAaIueeUih5</a></div>
-<div>News For Banaskanth: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0omvWIqyZJp12CZ241LAwF" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0omvWIqyZJp12CZ241LAwF</a></div>
-<div>All News & Entertainment: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CxkkPCunfMpDB3RUsrpuen" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/CxkkPCunfMpDB3RUsrpuen</a></div>
-<div> NEWS: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2GyywgeP9zOJZGrHfRmZ8T" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2GyywgeP9zOJZGrHfRmZ8T</a></div>
-<div>NEWS 24 Hours 🥁: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EHpdD80SFlIBYSWDtwQGWr" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/EHpdD80SFlIBYSWDtwQGWr</a></div>
-<div>BBC Real News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3nywc8gZJGh4LV6IJihe4m" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3nywc8gZJGh4LV6IJihe4m</a></div>
-<div>News in Hindi India: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FHnhos6ffj26uv0mttqq7W" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FHnhos6ffj26uv0mttqq7W</a></div>
-<div>जम्मू कश्मीर DEAF NEWS:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CGWRCuGXEggLbVoVn66717" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/CGWRCuGXEggLbVoVn66717</a></div>
-<div>🗞️ఈరోజు వార్త📰...2: : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6Xp1tbEmjX9CF07UQCHRaA" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/6Xp1tbEmjX9CF07UQCHRaA</a></div>
-<div>👩‍💻News And Reviews 4 U Blog:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ls3xwe3sb5iIyZ6DunZvSa" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Ls3xwe3sb5iIyZ6DunZvSa</a></div>
-<div>News For Porbandar: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4BLV90fZN7vJVHddXI3bIM" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/4BLV90fZN7vJVHddXI3bIM</a></div>
-<div>News of MEHSANA: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2e3GXb8xnuB1q0dZcR3uVj" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2e3GXb8xnuB1q0dZcR3uVj</a></div>
-<div>No 1 India News only: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1lmnmPO9P3r6hY5bIcnRPO" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/1lmnmPO9P3r6hY5bIcnRPO</a></div>
-<div>News of BOTAD: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FfwNewZac71Dv5frm6VcGw" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FfwNewZac71Dv5frm6VcGw</a></div>
-<div>International News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4O4SxnF9BdSG2dfVNzRjSg" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/4O4SxnF9BdSG2dfVNzRjSg</a></div>
-<div>📡 news in India 📡: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KzcD1ZANRVuB5qOtsgthNc" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KzcD1ZANRVuB5qOtsgthNc</a></div>
-<div>STREET NEWS SURAT: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2TOmvtYBk4E8LJQQXI3c03" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2TOmvtYBk4E8LJQQXI3c03</a></div>
-<div>Latest News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CNmLlf9Lqo7KmuxztPZ4ni" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/CNmLlf9Lqo7KmuxztPZ4ni</a></div>
-<div>News 24: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9LXsz37182lKQPVnOJHSRp" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/9LXsz37182lKQPVnOJHSRp</a></div>
-<div>Uk News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LVAa3mZmusQInZlGflZnws" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/LVAa3mZmusQInZlGflZnws</a></div>
-<div>No 1 India: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I73EhHTZXDk3SJ9ubVmENU" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/I73EhHTZXDk3SJ9ubVmENU</a></div>
-<div>indian friend: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9LyMj2DIjkvJHejniDDLbq" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/9LyMj2DIjkvJHejniDDLbq</a></div>
-<div>Znews group : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DCjHuSsb1pa9iiZpWFt0VF" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/DCjHuSsb1pa9iiZpWFt0VF</a></div>
-<div>Tamil News & Information😎: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JbYvCkxI0qJC06XtSE6WIV" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JbYvCkxI0qJC06XtSE6WIV</a></div>
-<div>The Great Indian Army 🇮🇳🇮🇳:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8WY39TuLR928LgWoBwkxkS" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/8WY39TuLR928LgWoBwkxkS</a></div>
-<div>ZHOB NEWS 8🇵🇰" : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5cGNZwCpMj6L3qqP9TYU1N" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/5cGNZwCpMj6L3qqP9TYU1N</a></div>
-<div>English News & updates: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LkwOsMRmbxkCsWacqQJ1ii" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/LkwOsMRmbxkCsWacqQJ1ii</a></div>
-<div>EMPLOYMENT NEWS: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9PINKtdsmH5BT30EkTtxLR" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/9PINKtdsmH5BT30EkTtxLR</a></div>
-<div>Cricket News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LLk0m3AUgRb9IvHrO7VQhE" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/LLk0m3AUgRb9IvHrO7VQhE</a></div>
-<div>Update newsgroup : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FV6xLigAGLzC2spBOe6ZlN" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FV6xLigAGLzC2spBOe6ZlN</a></div>
-<div>Zee News: <a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/CjHvzvjLylN13hALJepAUH" rel="nofollow" rel="noreferrer">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/CjHvzvjLylN13hALJepAUH</a></div>
-<div>All News Network : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hz4eKJCcWdyETvuVNOgoG8" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Hz4eKJCcWdyETvuVNOgoG8</a></div>
-<div>News of Rajkot: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9vXFJbhjPcCE3UjkPdBZH3" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/9vXFJbhjPcCE3UjkPdBZH3</a></div>
-<div>Wwe news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DNgamghB33O5tD0onKjgg9" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/DNgamghB33O5tD0onKjgg9</a></div>
-<div>Technology News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/08IQ9cR2KUj3rsbFu4amOY" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/08IQ9cR2KUj3rsbFu4amOY</a></div>
-<div>Aajtak News: <a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GsBbgjf7ygEDiIYhEMWmbq" rel="nofollow" rel="noreferrer">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GsBbgjf7ygEDiIYhEMWmbq</a></div>
-<div>Levels in News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3WMqhiX3Qr1BzeKmlXD1h4" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3WMqhiX3Qr1BzeKmlXD1h4</a></div>
-<div>Punjab News – 24 /7: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8LOc8nLT97v85U9qV6Omo3" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/8LOc8nLT97v85U9qV6Omo3</a></div>
-<div>Z news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BBXQAsIHONa0S12rBmKGVF" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/BBXQAsIHONa0S12rBmKGVF</a></div>
-<div>Cricket News: <a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/KNSVq90oVtg0qkz9E0LJAN" rel="nofollow" rel="noreferrer">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/KNSVq90oVtg0qkz9E0LJAN</a></div>
-<div>Job news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EGugyyhdfo2LFjRBiYcykZ" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/EGugyyhdfo2LFjRBiYcykZ</a></div>
-<div>CLick Here to Join: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JOp2V27pefhHDF4x9L5Ugy" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JOp2V27pefhHDF4x9L5Ugy</a></div>
-<div>Technical Hero: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/57V7xQDQyLu6wJK3pKl5vj" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/57V7xQDQyLu6wJK3pKl5vj</a></div>
-<div>Raajneti: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Dw3wR1nNiLeHakDf4v1ErN" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Dw3wR1nNiLeHakDf4v1ErN</a></div>
-<div>News of SURENDRANAGAR: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3k7Y7wwoHCh1WWFpsEx0kY" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3k7Y7wwoHCh1WWFpsEx0kY</a></div>
-<div>Cricket news: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ByIDCgqxgsUFoePwTi8q3i" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/ByIDCgqxgsUFoePwTi8q3i</a></div>
-<div>Rj pal studies: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AckIV5v3X3B0r8tk3vOiDV" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/AckIV5v3X3B0r8tk3vOiDV</a></div>
-<div>News of KUTCH: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6LnqLGtVA4tFfp3bE4eBGb" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/6LnqLGtVA4tFfp3bE4eBGb</a></div>
-<div>Bhaskar: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1owq4YFdhFEIYek4kFbCLn" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/1owq4YFdhFEIYek4kFbCLn</a></div>
-<div>News BD: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ArefqlQjuDNDVjXs5EGxpf" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/ArefqlQjuDNDVjXs5EGxpf</a></div>
-<div>News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3R4tuXxbR6s7xPhi5Q9zTe" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/3R4tuXxbR6s7xPhi5Q9zTe</a></div>
-<div>Tamil News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BLLo0xkMz5792Phn0DURfB" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/BLLo0xkMz5792Phn0DURfB</a></div>
-<div>SUPERFAST NEWS 2: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I8ID9sboMYsGIK7mQivE5C" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/I8ID9sboMYsGIK7mQivE5C</a></div>
-<div>AmdAvad News: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KRyd0sYXe9rFKJI5C4X3p9" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KRyd0sYXe9rFKJI5C4X3p9</a></div>
-<div>CLICK HERE: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5MPJf9hpiTl4B0H3HCzYZl" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/5MPJf9hpiTl4B0H3HCzYZl</a></div>
-<div>Daily science: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FWM6G9yBhdZDdgHGpb6G08" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FWM6G9yBhdZDdgHGpb6G08</a></div>
-<div>💸💯Indian News & MLM Plan:: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KSWcG7Yb2L8KSFhTsSENGi" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KSWcG7Yb2L8KSFhTsSENGi</a></div>
-<div>Indian Groups: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JLXddDTsrWC6Om8rc0iD1J" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/JLXddDTsrWC6Om8rc0iD1J</a></div>
-<div>Tech 100: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ</a></div>
-<div>News Update🎬🎤: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KmdGmix8yAlE1Fx9IiJHEI" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KmdGmix8yAlE1Fx9IiJHEI</a></div>
-<div>News Of India: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FkHP5XxSy5X9nxxHb97d50" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/FkHP5XxSy5X9nxxHb97d50</a></div>
+जम्मू कश्मीर DEAF NEWS:: <a href="https://chat.whatsapp.com/invite/CGWRCuGXEggLbVoVn66717" rel="nofollow">https://chat.whatsapp.com/invite/CGWRCuGXEggLbVoVn66717</a><br />
+Technology News: <a href="https://chat.whatsapp.com/invite/8RbSaVfmAar2nc9s7uHypo" rel="nofollow">https://chat.whatsapp.com/invite/8RbSaVfmAar2nc9s7uHypo</a><br />
+News: <a href="https://chat.whatsapp.com/invite/3R4tuXxbR6s7xPhi5Q9zTe" rel="nofollow">https://chat.whatsapp.com/invite/3R4tuXxbR6s7xPhi5Q9zTe</a><br />
+The Great Indian Army 🇮🇳🇮🇳:: <a href="https://chat.whatsapp.com/invite/8WY39TuLR928LgWoBwkxkS" rel="nofollow">https://chat.whatsapp.com/invite/8WY39TuLR928LgWoBwkxkS</a><br />
+News Cricket live Score: <a href="https://chat.whatsapp.com/invite/FsFSDdDFwPl0b6U6gPiglo" rel="nofollow">https://chat.whatsapp.com/invite/FsFSDdDFwPl0b6U6gPiglo</a><br />
+Malayalam News Paper 01: <a href="https://chat.whatsapp.com/invite/A35GTmCSTvBC0jX9UmuD7Y" rel="nofollow">https://chat.whatsapp.com/invite/A35GTmCSTvBC0jX9UmuD7Y</a><br />
+Rj pal studies: <a href="https://chat.whatsapp.com/invite/AckIV5v3X3B0r8tk3vOiDV" rel="nofollow">https://chat.whatsapp.com/invite/AckIV5v3X3B0r8tk3vOiDV</a><br />
+Speak News (Zambia): <a href="https://chat.whatsapp.com/invite/2eqk8NLDQx24fdOLZ4IKou" rel="nofollow">https://chat.whatsapp.com/invite/2eqk8NLDQx24fdOLZ4IKou</a><br />
+Daily Science Today News: <a href="https://chat.whatsapp.com/invite/227KypxP2BT3IwD9Wotm70" rel="nofollow">https://chat.whatsapp.com/invite/227KypxP2BT3IwD9Wotm70</a><br />
+Uk News: <a href="https://chat.whatsapp.com/invite/LVAa3mZmusQInZlGflZnws" rel="nofollow">https://chat.whatsapp.com/invite/LVAa3mZmusQInZlGflZnws</a><br />
+Tamil News: <a href="https://chat.whatsapp.com/invite/89NtIYHqh33JIrhQFNEJt5" rel="nofollow">https://chat.whatsapp.com/invite/89NtIYHqh33JIrhQFNEJt5</a><br />
+⚽GUNNERS NEWS TALKS: : <a href="https://chat.whatsapp.com/invite/9B3rZZxjyXqDgBXTVcmjux" rel="nofollow">https://chat.whatsapp.com/invite/9B3rZZxjyXqDgBXTVcmjux</a><br />
+🏅🌹Cricket ke🏆 Divane 💐🏏:: <a href="https://chat.whatsapp.com/invite/626xy2dlGq12qhYw9qmeGy" rel="nofollow">https://chat.whatsapp.com/invite/626xy2dlGq12qhYw9qmeGy</a><br />
+Everyday Something News: <a href="https://chat.whatsapp.com/invite/3i0YaNi6cn0B7TmrgV8r9b" rel="nofollow">https://chat.whatsapp.com/invite/3i0YaNi6cn0B7TmrgV8r9b</a><br />
+News Of Motorcycle racing and many more group: <a href="https://chat.whatsapp.com/invite/EXIqayQsvvtHXOYpBYxDqc" rel="nofollow">https://chat.whatsapp.com/invite/EXIqayQsvvtHXOYpBYxDqc</a><br />
+Pencil drawings: <a href="https://chat.whatsapp.com/invite/8DTBPO4l4lYDthob0tEKe6" rel="nofollow">https://chat.whatsapp.com/invite/8DTBPO4l4lYDthob0tEKe6</a><br />
+Daily science: <a href="https://chat.whatsapp.com/invite/FWM6G9yBhdZDdgHGpb6G08" rel="nofollow">https://chat.whatsapp.com/invite/FWM6G9yBhdZDdgHGpb6G08</a><br />
+Usa news: <a href="https://chat.whatsapp.com/invite/DRh6pFdvDztHeBZrnKg5y5" rel="nofollow">https://chat.whatsapp.com/invite/DRh6pFdvDztHeBZrnKg5y5</a><br />
+Valsad News For Dang: <a href="https://chat.whatsapp.com/invite/IWYhpLFnwnhCPohs9Mt0u6" rel="nofollow">https://chat.whatsapp.com/invite/IWYhpLFnwnhCPohs9Mt0u6</a><br />
+No 1 India: <a href="https://chat.whatsapp.com/invite/I73EhHTZXDk3SJ9ubVmENU" rel="nofollow">https://chat.whatsapp.com/invite/I73EhHTZXDk3SJ9ubVmENU</a><br />
+Sport news:: <a href="https://chat.whatsapp.com/invite/BoTIFJ9wxQjArFNQ6libDa" rel="nofollow">https://chat.whatsapp.com/invite/BoTIFJ9wxQjArFNQ6libDa</a><br />
+Future Technology: <a href="https://chat.whatsapp.com/invite/9j0OliGhsmbEhBPafEzp66" rel="nofollow">https://chat.whatsapp.com/invite/9j0OliGhsmbEhBPafEzp66</a><br />
+News 24: <a href="https://chat.whatsapp.com/invite/9LXsz37182lKQPVnOJHSRp" rel="nofollow">https://chat.whatsapp.com/invite/9LXsz37182lKQPVnOJHSRp</a><br />
+Levels in News: <a href="https://chat.whatsapp.com/invite/3WMqhiX3Qr1BzeKmlXD1h4" rel="nofollow">https://chat.whatsapp.com/invite/3WMqhiX3Qr1BzeKmlXD1h4</a><br />
+💐📰News Of Jamnagar: <a href="https://chat.whatsapp.com/invite/2rO7eM0BGU59HDFblZXPjE" rel="nofollow">https://chat.whatsapp.com/invite/2rO7eM0BGU59HDFblZXPjE</a><br />
+Cricket News: <a href="https://chat.whatsapp.com/invite/LLk0m3AUgRb9IvHrO7VQhE" rel="nofollow">https://chat.whatsapp.com/invite/LLk0m3AUgRb9IvHrO7VQhE</a><br />
+News new rawla mandi: <a href="https://chat.whatsapp.com/invite/FH2Y1KRkL2sGq5RAkHnqnP" rel="nofollow">https://chat.whatsapp.com/invite/FH2Y1KRkL2sGq5RAkHnqnP</a><br />
+Malayalam Latest News: <a href="https://chat.whatsapp.com/invite/AYSKN7mbREFK2ghOdBEuWq" rel="nofollow">https://chat.whatsapp.com/invite/AYSKN7mbREFK2ghOdBEuWq</a><br />
+Bollywood news : <a href="https://chat.whatsapp.com/invite/1tn6ujgECCQIH4bRnYzFd9" rel="nofollow">https://chat.whatsapp.com/invite/1tn6ujgECCQIH4bRnYzFd9</a><br />
+SMART NEWS : <a href="https://chat.whatsapp.com/invite/Heb5Dom4CyO13rr6yawdGd" rel="nofollow">https://chat.whatsapp.com/invite/Heb5Dom4CyO13rr6yawdGd</a><br />
+Geo News Kashmir (GNK): <a href="https://chat.whatsapp.com/invite/0SVpzGh4Dwr5WFeF7HmnQ8" rel="nofollow">https://chat.whatsapp.com/invite/0SVpzGh4Dwr5WFeF7HmnQ8</a><br />
+Status Group: <a href="https://chat.whatsapp.com/invite/B2RqnEkQNz952jLokllDwK" rel="nofollow">https://chat.whatsapp.com/invite/B2RqnEkQNz952jLokllDwK</a><br />
+Latest News: <a href="https://chat.whatsapp.com/invite/CNmLlf9Lqo7KmuxztPZ4ni" rel="nofollow">https://chat.whatsapp.com/invite/CNmLlf9Lqo7KmuxztPZ4ni</a><br />
+News Of Gandhinagar: <a href="https://chat.whatsapp.com/invite/IzypYj4PCJIETBc1ec9NfZ" rel="nofollow">https://chat.whatsapp.com/invite/IzypYj4PCJIETBc1ec9NfZ</a><br />
+డైలీ న్యూస్ పేపర్స్ 🌹: <a href="https://chat.whatsapp.com/invite/4rw5ly5Y89EANWsysBDZf4" rel="nofollow">https://chat.whatsapp.com/invite/4rw5ly5Y89EANWsysBDZf4</a><br />
+Chat Group News: <a href="https://chat.whatsapp.com/invite/0djULQbC8Fm3jS6HYquGEb" rel="nofollow">https://chat.whatsapp.com/invite/0djULQbC8Fm3jS6HYquGEb</a><br />
+News of Ignou: <a href="https://chat.whatsapp.com/invite/CK7taSfuAKLJ5lvXIRalZI" rel="nofollow">https://chat.whatsapp.com/invite/CK7taSfuAKLJ5lvXIRalZI</a><br />
+Bjp news: <a href="https://chat.whatsapp.com/invite/9DMZ5A94PMwFZHLyjVH9qy" rel="nofollow">https://chat.whatsapp.com/invite/9DMZ5A94PMwFZHLyjVH9qy</a><br />
+"Daily News Update"??: <a href="https://chat.whatsapp.com/invite/0ZRKfzfceMYDWcR5xM4MWN" rel="nofollow">https://chat.whatsapp.com/invite/0ZRKfzfceMYDWcR5xM4MWN</a><br />
+New Panjab: <a href="https://chat.whatsapp.com/invite/FH6bU32mBHL177KBugp3ou" rel="nofollow">https://chat.whatsapp.com/invite/FH6bU32mBHL177KBugp3ou</a><br />
+Tech 100: <a href="https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ" rel="nofollow">https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ</a><br />
+Trend Congress News: <a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/LPID0e7cAUvJhwRcMwjBEE" rel="nofollow">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/LPID0e7cAUvJhwRcMwjBEE</a><br />
+Znews group : <a href="https://chat.whatsapp.com/invite/DCjHuSsb1pa9iiZpWFt0VF" rel="nofollow">https://chat.whatsapp.com/invite/DCjHuSsb1pa9iiZpWFt0VF</a><br />
+HOB NEWS 10: : <a href="https://chat.whatsapp.com/invite/6uHkHF1JLfQJxIR0odMXi8" rel="nofollow">https://chat.whatsapp.com/invite/6uHkHF1JLfQJxIR0odMXi8</a><br />
+NEWS 24 Hours 🥁: <a href="https://chat.whatsapp.com/invite/EHpdD80SFlIBYSWDtwQGWr" rel="nofollow">https://chat.whatsapp.com/invite/EHpdD80SFlIBYSWDtwQGWr</a><br />
+District Badaun News: <a href="https://chat.whatsapp.com/invite/H3jeaZXyDeh1YZk7FzW4W6" rel="nofollow">https://chat.whatsapp.com/invite/H3jeaZXyDeh1YZk7FzW4W6</a><br />
+TheSubeditor – Tamil News: <a href="https://chat.whatsapp.com/invite/IhT0xQYuj2nB6X1rEdkIiT" rel="nofollow">https://chat.whatsapp.com/invite/IhT0xQYuj2nB6X1rEdkIiT</a><br />
+KKR fan club group: <a href="https://chat.whatsapp.com/invite/KLiqZhIN0MgB2biw67YS3y" rel="nofollow">https://chat.whatsapp.com/invite/KLiqZhIN0MgB2biw67YS3y</a><br />
+International news: <a href="https://chat.whatsapp.com/invite/BZCeRI0VyEDJxKEW8Yq35g" rel="nofollow">https://chat.whatsapp.com/invite/BZCeRI0VyEDJxKEW8Yq35g</a><br />
+News of CHHOTAUDEPUR: <a href="https://chat.whatsapp.com/invite/BRfwVmxZMhzChVag9qv1nO" rel="nofollow">https://chat.whatsapp.com/invite/BRfwVmxZMhzChVag9qv1nO</a><br />
+🔤Reet related news 2018:: <a href="https://chat.whatsapp.com/invite/0hPrfHwZQVeDDDrUttECde" rel="nofollow">https://chat.whatsapp.com/invite/0hPrfHwZQVeDDDrUttECde</a><br />
+BREAKING News: <a href="https://chat.whatsapp.com/invite/0zdqUSbN8qlCP47gCdMwtO" rel="nofollow">https://chat.whatsapp.com/invite/0zdqUSbN8qlCP47gCdMwtO</a><br />
+News of Madhya Pradesh: <a href="https://chat.whatsapp.com/invite/4wTgPlEBTtXBqcp8U4YzLM" rel="nofollow">https://chat.whatsapp.com/invite/4wTgPlEBTtXBqcp8U4YzLM</a><br />
+News of BOTAD: <a href="https://chat.whatsapp.com/invite/FfwNewZac71Dv5frm6VcGw" rel="nofollow">https://chat.whatsapp.com/invite/FfwNewZac71Dv5frm6VcGw</a><br />
+Pakistan Jobs.daily news: <a href="https://chat.whatsapp.com/invite/HD9pWiwRPKOFwicqn6KGXC" rel="nofollow">https://chat.whatsapp.com/invite/HD9pWiwRPKOFwicqn6KGXC</a><br />
+Tamil News & Information😎: <a href="https://chat.whatsapp.com/invite/JbYvCkxI0qJC06XtSE6WIV" rel="nofollow">https://chat.whatsapp.com/invite/JbYvCkxI0qJC06XtSE6WIV</a><br />
+USA News: <a href="https://chat.whatsapp.com/invite/6k82Hjp3mWKID5YRpkinWZ" rel="nofollow">https://chat.whatsapp.com/invite/6k82Hjp3mWKID5YRpkinWZ</a><br />
+Hindi News ( Alert ): <a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GKwl3OXEaTuINUfZe4G79c" rel="nofollow">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GKwl3OXEaTuINUfZe4G79c</a><br />
+All India job news: <a href="https://chat.whatsapp.com/invite/E9J4JSrujXP45HFU3YorJz" rel="nofollow">https://chat.whatsapp.com/invite/E9J4JSrujXP45HFU3YorJz</a><br />
+Wwe news: <a href="https://chat.whatsapp.com/invite/DNgamghB33O5tD0onKjgg9" rel="nofollow">https://chat.whatsapp.com/invite/DNgamghB33O5tD0onKjgg9</a><br />
+⚽Arsenal news and team inf: : <a href="https://chat.whatsapp.com/invite/CrnNdmxCEuv9isfBIz6SGA" rel="nofollow">https://chat.whatsapp.com/invite/CrnNdmxCEuv9isfBIz6SGA</a><br />
+SUPERFAST NEWS 2: <a href="https://chat.whatsapp.com/invite/I8ID9sboMYsGIK7mQivE5C" rel="nofollow">https://chat.whatsapp.com/invite/I8ID9sboMYsGIK7mQivE5C</a><br />
+Tech news: <a href="https://chat.whatsapp.com/invite/BQnXwIyWENzCScXbT2xEAT" rel="nofollow">https://chat.whatsapp.com/invite/BQnXwIyWENzCScXbT2xEAT</a><br />
+News of MEHSANA: <a href="https://chat.whatsapp.com/invite/2e3GXb8xnuB1q0dZcR3uVj" rel="nofollow">https://chat.whatsapp.com/invite/2e3GXb8xnuB1q0dZcR3uVj</a><br />
+News Of Sabarkantha news: <a href="https://chat.whatsapp.com/invite/KKPPN7HtPVSJP4EvDJ6kxy" rel="nofollow">https://chat.whatsapp.com/invite/KKPPN7HtPVSJP4EvDJ6kxy</a><br />
+Jankalyan Morcha: <a href="https://chat.whatsapp.com/invite/EVLgYfWPJwhIal8ouTR7lj" rel="nofollow">https://chat.whatsapp.com/invite/EVLgYfWPJwhIal8ouTR7lj</a><br />
+BJP News: <a href="https://chat.whatsapp.com/invite/FnMcaCKJNAp7TP3pIPTQLa" rel="nofollow">https://chat.whatsapp.com/invite/FnMcaCKJNAp7TP3pIPTQLa</a><br />
+study&notes gk news: <a href="https://chat.whatsapp.com/invite/D744TF4zC4a8abVMwHWT2K" rel="nofollow">https://chat.whatsapp.com/invite/D744TF4zC4a8abVMwHWT2K</a><br />
+News Update🎬🎤: <a href="https://chat.whatsapp.com/invite/KmdGmix8yAlE1Fx9IiJHEI" rel="nofollow">https://chat.whatsapp.com/invite/KmdGmix8yAlE1Fx9IiJHEI</a><br />
+Aajtak News: <a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GsBbgjf7ygEDiIYhEMWmbq" rel="nofollow">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GsBbgjf7ygEDiIYhEMWmbq</a><br />
+Punjab News – 24 /7: <a href="https://chat.whatsapp.com/invite/8LOc8nLT97v85U9qV6Omo3" rel="nofollow">https://chat.whatsapp.com/invite/8LOc8nLT97v85U9qV6Omo3</a><br />
+Study Hub: <a href="https://chat.whatsapp.com/invite/Ia7ViMEvatH0ixlZ9qj9Qv#" rel="nofollow">https://chat.whatsapp.com/invite/Ia7ViMEvatH0ixlZ9qj9Qv#</a><br />
+SMART NEWS 📰: <a href="https://chat.whatsapp.com/invite/2XghP60bhDz2daisHepOXo" rel="nofollow">https://chat.whatsapp.com/invite/2XghP60bhDz2daisHepOXo</a><br />
+Android news : <a href="https://chat.whatsapp.com/invite/1JuF17RfIN75EFurqpdkk4" rel="nofollow">https://chat.whatsapp.com/invite/1JuF17RfIN75EFurqpdkk4</a><br />
+Job News: <a href="https://chat.whatsapp.com/invite/4TR12CLyATrINjwnp5VtCL" rel="nofollow">https://chat.whatsapp.com/invite/4TR12CLyATrINjwnp5VtCL</a><br />
+Today news daily: <a href="https://chat.whatsapp.com/invite/L746711j3dxEbYKcjLfLtw" rel="nofollow">https://chat.whatsapp.com/invite/L746711j3dxEbYKcjLfLtw</a><br />
+Sports news of India: <a href="https://chat.whatsapp.com/invite/6oiL6EiAV6tEJfkU4LRmOR" rel="nofollow">https://chat.whatsapp.com/invite/6oiL6EiAV6tEJfkU4LRmOR</a><br />
+JAI MATA DI NEWS GROUP: <a href="https://chat.whatsapp.com/invite/4EQRew4HjFiAyzADhkG16i" rel="nofollow">https://chat.whatsapp.com/invite/4EQRew4HjFiAyzADhkG16i</a><br />
+Simple News: <a href="https://chat.whatsapp.com/invite/Ahv6uIfS4QICVBO8jsit0O" rel="nofollow">https://chat.whatsapp.com/invite/Ahv6uIfS4QICVBO8jsit0O</a><br />
+Zee News: <a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/CjHvzvjLylN13hALJepAUH" rel="nofollow">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/CjHvzvjLylN13hALJepAUH</a><br />
+Link to Join: <a href="https://chat.whatsapp.com/invite/J50ymke7ayZExJSsHjcDrm" rel="nofollow">https://chat.whatsapp.com/invite/J50ymke7ayZExJSsHjcDrm</a><br />
+News Of Bhavnagar: <a href="https://chat.whatsapp.com/invite/0nqrwrBH0RNJpWGuTP5dAg" rel="nofollow">https://chat.whatsapp.com/invite/0nqrwrBH0RNJpWGuTP5dAg</a><br />
+CLICK HERE: <a href="https://chat.whatsapp.com/invite/5MPJf9hpiTl4B0H3HCzYZl" rel="nofollow">https://chat.whatsapp.com/invite/5MPJf9hpiTl4B0H3HCzYZl</a><br />
+Bareilly News: <a href="https://chat.whatsapp.com/invite/AH3NyIDvNuU50ug8EUQXJU" rel="nofollow">https://chat.whatsapp.com/invite/AH3NyIDvNuU50ug8EUQXJU</a><br />
+State News: <a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/DDzMrHnAi5O49iBCASdGfe" rel="nofollow">https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/DDzMrHnAi5O49iBCASdGfe</a><br />
+📰News Alert🌏: <a href="https://chat.whatsapp.com/invite/Lenbr9XOjrAEMWkCC0ImUw" rel="nofollow">https://chat.whatsapp.com/invite/Lenbr9XOjrAEMWkCC0ImUw</a><br />
+CLick Here to Join: <a href="https://chat.whatsapp.com/invite/JOp2V27pefhHDF4x9L5Ugy" rel="nofollow">https://chat.whatsapp.com/invite/JOp2V27pefhHDF4x9L5Ugy</a><br />
+team11prediction.com: <a href="https://chat.whatsapp.com/invite/8MavcYXTvdlDWrQyKIgY85" rel="nofollow">https://chat.whatsapp.com/invite/8MavcYXTvdlDWrQyKIgY85</a><br />
+FOUNDATION:: <a href="https://chat.whatsapp.com/invite/LVgDv8gqWJ4H6B3TfAEqRQ" rel="nofollow">https://chat.whatsapp.com/invite/LVgDv8gqWJ4H6B3TfAEqRQ</a><br />
+India News WhatsApp group : <a href="https://chat.whatsapp.com/invite/KxYfVyxzgPx6W2WB9OYZxM" rel="nofollow">https://chat.whatsapp.com/invite/KxYfVyxzgPx6W2WB9OYZxM</a><br />
+Night News: <a href="https://chat.whatsapp.com/invite/6X1a50qAO5d5NkvGW8ff1v" rel="nofollow">https://chat.whatsapp.com/invite/6X1a50qAO5d5NkvGW8ff1v</a><br />
+Latest News: <a href="https://chat.whatsapp.com/invite/FvlTjoWfcDHHTXi3UcHqCe" rel="nofollow">https://chat.whatsapp.com/invite/FvlTjoWfcDHHTXi3UcHqCe</a><br />
+Trading News: <a href="https://chat.whatsapp.com/invite/GKnwY7dTDjWBzf2XJUu6kS" rel="nofollow">https://chat.whatsapp.com/invite/GKnwY7dTDjWBzf2XJUu6kS</a><br />
+World news: <a href="https://chat.whatsapp.com/invite/7wpZs0Qp9znLkd0PIJIAnR" rel="nofollow">https://chat.whatsapp.com/invite/7wpZs0Qp9znLkd0PIJIAnR</a><br />
+No 1 India News only: <a href="https://chat.whatsapp.com/invite/1lmnmPO9P3r6hY5bIcnRPO" rel="nofollow">https://chat.whatsapp.com/invite/1lmnmPO9P3r6hY5bIcnRPO</a><br />
+Juna News: <a href="https://chat.whatsapp.com/invite/E9mldsqiwoLL39yqmi33wx" rel="nofollow">https://chat.whatsapp.com/invite/E9mldsqiwoLL39yqmi33wx</a><br />
+Technical hero: <a href="https://chat.whatsapp.com/invite/G4xwMLeEG055krrVEVoH2g" rel="nofollow">https://chat.whatsapp.com/invite/G4xwMLeEG055krrVEVoH2g</a><br />
+RCB the King: <a href="https://chat.whatsapp.com/invite/K9FGioD6t3RAQ9xZQJlPyV" rel="nofollow">https://chat.whatsapp.com/invite/K9FGioD6t3RAQ9xZQJlPyV</a><br />
+DAILY TECH NEWS: <a href="https://chat.whatsapp.com/invite/Ba9HjVgalof6i1e59DXniU" rel="nofollow">https://chat.whatsapp.com/invite/Ba9HjVgalof6i1e59DXniU</a><br />
+Bhaskar: <a href="https://chat.whatsapp.com/invite/1owq4YFdhFEIYek4kFbCLn" rel="nofollow">https://chat.whatsapp.com/invite/1owq4YFdhFEIYek4kFbCLn</a><br />
+Z News: <a href="https://chat.whatsapp.com/invite/6GBJdrYRhpPAruVA3UGRtU" rel="nofollow">https://chat.whatsapp.com/invite/6GBJdrYRhpPAruVA3UGRtU</a><br />
+JOB NEWS INDIA: <a href="https://chat.whatsapp.com/invite/G3MG3xbPkG60Yu2feI3RDL" rel="nofollow">https://chat.whatsapp.com/invite/G3MG3xbPkG60Yu2feI3RDL</a><br />
+BBC Real News: <a href="https://chat.whatsapp.com/invite/3nywc8gZJGh4LV6IJihe4m" rel="nofollow">https://chat.whatsapp.com/invite/3nywc8gZJGh4LV6IJihe4m</a><br />
 
 #### Politics
 
 Specifically interested staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Then join the groups focussed on politics and politicians to get all types of news, memes and information about them.
 
-<p><span>🚩4साफ नियत सही विकास: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/38m2z9y4fHe7pLWdGKSOGp" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🚩कट्टर हिन्दू 🚩🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IZV3WyyPgkJ6vQfNeaIFtG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩विश्व युवा हिन्दू महासंघ🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5RP57sl9e9KD715DEBczc9" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩3सरकारी एवं प्राइवेट योजना: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5uz9gSFuNOB66vgJurBBir" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🏹भगवा ध्वज रक्षक 67🏹🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3O8V799AniB5SwqfCLcUMY" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩100BJP DAK KANNADA: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2MMbAa5WDJOIQYBURhdTLX" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩भाजपा मिशन 2019 👉(450): &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G39y80gxLmBDOdXcO5vbFM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Raebareli ke chhore: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FEBjaIC3UmX6CK33nbp5UG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩हिन्दु जनजागृति समिति 🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5pO2agcHMSr6Fx8XMjJdth" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>⚔️🚩जय,🚩श्री,🚩राम🚩⚔️: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2AoUBffFisDCHjcSIZmYGh" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>SMART NEWS 📰&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2XghP60bhDz2daisHepOXo" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩गौशाला से राष्ट्र निर्माण: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HfwDhpFmSiSLrtj3AAlRSz" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩मोदी 🙏नामा 🇮🇳🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AqLpouWdhFrHX41Wfg6oHL" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🔥🔥🔥 भक्त महाकाल के 🔥🔥🔥: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8XNfPqtWHs1B9K7darJagX" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩जय श्री राम॥: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8Nkb5H8kyoj0vsFNGlcpln" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/D98ayjYvWPY0CUY4Fqwot8" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP UTTARA KANNADA: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5DOzGCVtaaBKIyA4uF4RPp" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩”एक सोच नई सोच (रज़ि)00711: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5IxIhdgGzMDAdw68B4AzKl" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🐆🚩 वन्दे मातरम्🇮🇳 🐅: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5fXWQIDko5lH1Cl8S29MXC" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🌹कायस्थ एकता समाज परिवार🌹: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GVQsHcQEBblIzKyBhbPdlt" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP SHIMOGA: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3d6FUY7sBCeCJoMZ7g5JIa" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩हिंदू एकता जिंदाबाद: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7mTrpfz8MDRBNv5FCnuYBN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP CHIKKABALLAPUR: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3iG0qP2CNdqJvQXscMvCU1" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0euckmUMVmFEfyvRJG5tVG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Trend BJP&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/FaP4ko9nBxrKjKwZ6y2g9f" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩👆Only one hindu 🚩group🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Lv0K0VPS9eT3dlyNpBd4Vt" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩💐माळमाथा निधन वार्ता💐: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DZpLw3FLD1tBV8NuEpCT4M" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Trending (News)&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/BE5fEupzqZjB4IrsLCrSC7" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩♨🚩”विश्व हिन्दू परिषद”🚩🕉: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DTB8jbnTPlp2IU9RlpVBYc" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩💚⛳ ,भगवा वादळ,⛳💚: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Bs4JbD20sX0FuWDM6fCehw" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩राष्ट्रीय भगवा वाहीनी: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7RX0fq4vW56AxkewOECLuL" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP BAGALKOT: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3f1RGjtIeeVFIfZDrBzuS1" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP KOLAR: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2dkwbH5wrOS6Eakwo53lzQ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩 🏹भगवा ध्वज रक्षक 70🏹 🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9OsigdD0ChvEjogjR5Pks7" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Hindu yuva vahini: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3l9r8j8nfG7HZYsYmog9tk" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Gau maata ki jai🙏🙏 🙏: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HbdoOALZJr20l9fLwJrx2o" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩हिन्दू राष्ट्र🚩🚩🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FnzqFJs9oGB9cdOLutbnRa" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP HAVERI: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6lrPKdF0GEi0dpw041ygej" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🌻🌻🌻बजरंगी ग्रुप🌹🌹🌷🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ELlzp3lq0gfCS3qdjWBF5e" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩नरेंद्र मोदी विचार मंच: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Jqy4M4EpkJ3CPqjEVcOfMl" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩I.T.S.M VIRATNAGAR WARD: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8jgCaiDHkiJB3wh01haFi2" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FSYPvTEjCwnKF6s9vBNOoM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩2019 Mission Sirf BJP♥: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KEwquq68xTlEwF4dnfyy8S" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩जाट बॉय 36 ru: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/58SSzRZBDgi3IKdwfVsD2J" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP BIDAR: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1KqGZGgmASoIYuvzy4szz3" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP DHARWAD: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8aR6kjVfX4pBlV5yi7ucTM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳🇮🇳हम सब भारतवासी🇮🇳🇮🇳🙏🙏: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IKEFc1LFEZgEZungjRNGb2" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🌷bjp Discussion group: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KKHAzOm6fKb2s2kQCc3InM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Vadodara Junction: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KsaosRsR6lD0S7AbPtTs1o" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩180हिन्दू राष्ट्र भारत🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4YZVbZaJ8O8EK3X0hsKMLt" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>The trompt rule in political&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EciJx85TMGWK3lckVSK8uo" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Jay Shree Ram Bhiiiiiii🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9aBikHMvVdp0PnePWnmGoc" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🚩🕉🇮🇳जय श्री राम 🇮🇳🕉🚩🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KtPFq9xscyTArY2pycrraM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Misson2019 मोदी जीते गे💐💐: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IHAJCrismKJ84HigZ8V3GY" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I3zy2konkNf0WFrh91OuZN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩 कटर हिन्दू 🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0YqimeIw6F2ABiw1LaxCUN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩modi boys: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/38bUKOQYyrT12mcsYWHarJ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Cricket News&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/KNSVq90oVtg0qkz9E0LJAN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Amar Ujala&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/KhydroVJCwO349diyiJ1pa" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳 दिल है हिंदुस्तानी 🇮🇳: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EDdz7P9yUqZBIdLjlJ5WNk" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🌷BJP🌷 supporters💯: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HG6MPkpdgXoAWUMHwb2qwh" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩I Support Narendra Modi: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JISEqy88yd9DBxQVK8Miun" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩2अबकीव बार मोदीय सरकार: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5M9spRtbgovLGvi7OjiQOO" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩हर हर महादेव 🚩 🏹: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GcXEME10ojB69jVXoXVpij" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩राष्ट्रीय स्वयंसेवक संघ: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DXI1pTBY2Mn52h76oLjTHd" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Indian Update&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FFid0E3Hf2W5vpuSyvlv2a" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FsY5GxOFzMHC62ZfCbK2Ow" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Modi: The Game Changer: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ey6JeGld2bLD9QnKMg0YsW" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩नरेंद्र मोदी BhaKT🚩CluB🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DF4lzxbynShIHDSQvQtdyW" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩नौजवान भारत सभा: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GnkwxxSPesdDZEFphSgvuP" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩भाजपा लक्ष्य 19: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ab2Vp3uDttHFKO4UmQcZHG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP BNG NORTH: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AZjnwfIlvoPEDswvxlbByO" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩😎 डेंजरस जाट पश्चिम आला ⚔️: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5FDPRobUtVvDZ9T85mCxVD" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩भगवा दिलो की धड़कन🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5tREKrO1IIH8V4ZRKw7YwO" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>State News&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/DDzMrHnAi5O49iBCASdGfe" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🌷MODI FANS GROUP..: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Bj8sWWA4SXa6Jkmd9MBtgN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩👉🚩MODI भक्त B.J.P🚩👈: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/13hfDAjDCQd7QHvBMRebDI" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6eCrtV9CMKyJvkBTXMnP8f" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Modi G&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HiW9GjcQFV6EiWwd8CFJsr" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩 ⚔ बजरंग दल ⚔🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HvBe4TPvatd8OnUVMatjTE" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳 राजनीति 🇮🇳🇮🇳: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GjiAgylCOb6A26WfqSeZtq" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🌹ႪქႲ ႽႮႲႲტRႠႽ 🌹: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0Xzwup9qBvq2WqcLZWROTs" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩31🚩🚩जय महाकाल हरि ॐ🚩🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CVJPlOdu7XRAwJKKiweF2h" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩राष्ट्रीय स्वयंसेवक संघ: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DfRUKPOJzP9GYh1KG786DL" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP CHIKKODI: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5ycrxUdLW3i6dLhce2txBK" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩💯💯MoDi_LoVeR🎻🎻: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EJD3rvVCn7yC60Egxwgfto" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🏹भगवा ध्वज रक्षक 66🏹🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9XhISbCI6TZL7uRiJ6fzqR" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳एक ता हमारी ताकत🇮🇳: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KgIEB9ELVLNGilS1h0iijM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP MANDYA: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7kjbdrbzLy54KK3Qqvfext" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩All INDIA BJP: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5lwMv8zTcxJ7GFvBPXenrn" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP CHITRADURGA: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9W3jiR1xJumFOHc7l5fEbG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩ब्राहम्ण संसार🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AaS37Jxs0fF9LaLelxwBT1" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LCz4rfLPkeuDuJwtCOX8tA" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Hundustani bjp: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JMOmXgmXUDp9KFlxtCvFlt" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩♨🚩”हिंदू युवा वाहिनी”🚩🕉: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BLPvtzyVuk7BpCjM8py00a" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>ONLY BJP&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EEvHQAKT6szDXmBJKwHpMe" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Life nothing without u🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JS7ooDUhvRBATz9WMoIt1Z" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩I Support RSS🇮🇳: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/97FKprpLFTDE2bwXQ98gFe" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJPकार्यकर्ता तैयारी 2019: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FjUw1ffS6HBL1qRPOqoJYN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩Thara baap aaya tha: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/INeuTlAC63zBoxzTTMf3SC" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳HINDU MAHASANGH🇮🇳🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4PNYtaKkciILOGT0K1m4tP" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩भगत सिंह की फौज ✊🏻: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5nEqyqYsKOHEte4qoSYJtb" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Trend Congress News&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/LPID0e7cAUvJhwRcMwjBEE" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Alert All Time&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/Dd74gTmNNG607tvCir7iD0" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🇮🇳🚩🕉 भगवा हिन्दुस्तान 🕉🚩🇮🇳: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JCnnfRiEhRt1H89OnyWU4c" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩5हिन्दू एकता मंच: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ASImoJtSWocERHw4siRpXD" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩FRIENDS FOREVER: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1C9n6gZoeCuGWlApsnZtW4" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🦋🦋🚩भगवा राज🚩🦋🦋:&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1F46OGR989c4fWIofKAl6v" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩 जय श्री राम 🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hurl9tkRbWLHptZuJlS76i" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KovC0LzCDOg8GChou1Nb6X" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩हिन्दुवादी खबरें 🚩🚩🚩: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8ILQqlbP6GiJRmKhRByX5o" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Gandu bjp wife's sex&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FGx7hC2FVkSHT6Bz8F0sZv" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP TUMKUR: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/APdqvsuKdfHELPiBDHQiMF" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🚩हिन्दू युवा वाहनी: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7YHfS8LdlzsApLG2jJskKr" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩BJP RAICHUR: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5YIeWaqkvXP7yqsOEZjDzb" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🚩🇮🇳कर्म भूमि🔥🔥🔥: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/A8vaBtF1WjXDYe2jHjo11S" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EzKtizaUeoQHmfTaFo2lHg" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>जय श्री राम&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KvXeirsIDzn58mT2PQoxtV" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>👆राष्ट्रीय जनता दल(RJD)👆: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/94CTDR2LMLSAu2o60l1DXl" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<div style="display:flex; padding: 5px"><div>🚩I.T.S.M VIRATNAGAR WARD: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8jgCaiDHkiJB3wh01haFi2" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BNG NORTH: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AZjnwfIlvoPEDswvxlbByO" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩💐माळमाथा निधन वार्ता💐: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DZpLw3FLD1tBV8NuEpCT4M" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🐄 गो सेवा अभियान 🐄: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/7jRpsmSPycL9X1xY9JP8kp" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिंदू_एकता✊🏻💪🏻GrOuP🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3jPCNt4bhdtKR3imZWW7o9" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩⛳भगवा⛳ Force ⛳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/13plVpTYIQW53PJuVyerW7" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩भाजपा मिशन 2019 👉(450): &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/G39y80gxLmBDOdXcO5vbFM" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩www.bjpdevdham.org: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4hOyZhgqj3XDTlsrJYpSLz" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/D98ayjYvWPY0CUY4Fqwot8" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP DHARWAD: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8aR6kjVfX4pBlV5yi7ucTM" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP HAVERI: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/6lrPKdF0GEi0dpw041ygej" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Aajtak News&nbsp;&nbsp;&nbsp;</div><div><a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/GsBbgjf7ygEDiIYhEMWmbq" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Gau maata ki jai🙏🙏 🙏: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/HbdoOALZJr20l9fLwJrx2o" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩✌🏼✌🏼darshan .boys ❤: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Bn0pq2S7IZdDXIKDuJv1K6" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🇮🇳🚩🕉 भगवा हिन्दुस्तान 🕉🚩🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JCnnfRiEhRt1H89OnyWU4c" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩All INDIA BJP: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5lwMv8zTcxJ7GFvBPXenrn" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩नरेंद्र मोदी विचार मंच: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Jqy4M4EpkJ3CPqjEVcOfMl" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩छात्र एकता जिन्दा बाद BUI: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/780cToMe1mk5jEcVEacU1b" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🗡⛳हिंदू राजपूत ब्रदर्स ⛳🗡: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/18pPXbzvQlx88Iz1Nd2WGK" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🚩हिन्दू युवा संस्थान 🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/ArgoUx3QoLf5uDwk0knNWu" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩B J P🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Aff0KWXfJnJBfDz1I4XdOP" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩ಭಕ್ತರ ಬಳಗ: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JUZkNTCJiAX5MKYoRfu9JO" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Modi: The Game Changer: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Ey6JeGld2bLD9QnKMg0YsW" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>BJP Freinds&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KvaL7f19AjABHIZ1eLSr1n" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Misson2019 मोदी जीते गे💐💐: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/IHAJCrismKJ84HigZ8V3GY" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩1मोदी सेना 😊💪 Jai Ho: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/GsrjVMuJ0SA3tbj7kEWkna" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳कर्म भूमि🔥🔥🔥: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/A8vaBtF1WjXDYe2jHjo11S" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩62❤❤हम सब HINDU एक हैं❤❤: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5IAIMFxUjw49kKq8UBtVeY" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Amar Ujala&nbsp;&nbsp;&nbsp;</div><div><a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/KhydroVJCwO349diyiJ1pa" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩केसरी हिन्दुत्व: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/LqIQVhxV3cLE7XBloqQvIh" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩मोदी 🙏नामा 🇮🇳🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AqLpouWdhFrHX41Wfg6oHL" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩राष्ट्रीय स्वयंसेवक संघ: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DXI1pTBY2Mn52h76oLjTHd" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🎠🚩हर हर मोदी भगवा सेना 🚩🎠: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5Wl6dJgdTpw7UbkSPX8EI5" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🌷Congress 4 Youth: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JLfMI8kHaQlD1MK6Lq9ojb" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>ONLY BJP&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EEvHQAKT6szDXmBJKwHpMe" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩2019 Mission Sirf BJP♥: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KEwquq68xTlEwF4dnfyy8S" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩modi boys: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/38bUKOQYyrT12mcsYWHarJ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🏹भगवा ध्वज रक्षक 68🏹🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0gu8AlqHkC14b651hwox5s" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BELLARY: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3xIlzo1JGLBKcAE4EE7Svl" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Jay Shree Ram Bhiiiiiii🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9aBikHMvVdp0PnePWnmGoc" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/LCz4rfLPkeuDuJwtCOX8tA" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिंदू युवा शक्ति (चौक): &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5BscDbnAVP5HJ8uXR257y0" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🌺🌺Only🇮🇳 BJP🌺🌺: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5uOflTO6Efn94zScniJY9B" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP RAICHUR: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5YIeWaqkvXP7yqsOEZjDzb" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩ब्राहम्ण संसार🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AaS37Jxs0fF9LaLelxwBT1" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩I Support Narendra Modi: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JISEqy88yd9DBxQVK8Miun" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩None: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3MSMallJ6MDBLK10gC4IKc" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BIJAPUR: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9oA4KaBfnK9BXyNjU3p6di" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳 दिल है हिंदुस्तानी 🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EDdz7P9yUqZBIdLjlJ5WNk" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🚩राष्ट्रीय हिंदू एकता 🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/L8X1nsgkFUcEa6HxMTeAmf" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Nagaram bjp. Party: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DT6WBwrldUNFmr4tPGJDNv" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EzKtizaUeoQHmfTaFo2lHg" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳🇮🇳हम सब भारतवासी🇮🇳🇮🇳🙏🙏: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/IKEFc1LFEZgEZungjRNGb2" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP SHIMOGA: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3d6FUY7sBCeCJoMZ7g5JIa" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩राजस्थानकीराजनीतिकखबर24ह: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1YjTVkbx4IpKmuFTs7eRzi" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩31🚩🚩जय महाकाल हरि ॐ🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CVJPlOdu7XRAwJKKiweF2h" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩राष्ट्रीय स्वयंसेवक संघ: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DfRUKPOJzP9GYh1KG786DL" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🚩संघ परिवार मेरठ 🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/75omjW7k6ZB4Pc7r3MXjxL" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BNG RURAL: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0KwLkiG9QXGBqTqQo1N2Ee" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩💯💯MoDi_LoVeR🎻🎻: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EJD3rvVCn7yC60Egxwgfto" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Life nothing without u🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JS7ooDUhvRBATz9WMoIt1Z" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🕉🕉🕉Hindu jagran🕉🕉🕉: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/50eIdJDQFig8P899xbnDbY" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳कट्टर हिन्दू 🇮🇳(भा०ज०पा)🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KFyteYbZ1Hr3KOhAJGl4uB" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Mission 350+(bjp): &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4yoNnZPhgoJDs2Io9Fki25" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Indian Politics&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/HHVBqc4uYypKdsZ5xZh2R5" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩सत्य सनातन हिन्दू धर्म: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KwIVicbrQb93wputtr5DPM" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🚩🕉🇮🇳जय श्री राम 🇮🇳🕉🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KtPFq9xscyTArY2pycrraM" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩जय श्री राम॥: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8Nkb5H8kyoj0vsFNGlcpln" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Modi Sena Gujarat 〽: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/7ISYUILcMUxLnHNLsckZU1" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Bjp&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4fSAKcphbZYL0WCoKwjV4H" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0euckmUMVmFEfyvRJG5tVG" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩💯कट्टर हिंदु 💯🚩🇮🇳🇮🇳🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Iv5NL85FeL06KN1g6KiiGN" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩3सरकारी एवं प्राइवेट योजना: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5uz9gSFuNOB66vgJurBBir" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिन्दु जनजागृति समिति 🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5pO2agcHMSr6Fx8XMjJdth" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Raebareli ke chhore: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FEBjaIC3UmX6CK33nbp5UG" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩💐🙏🕉हिन्दू सेना🕉🙏💐: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3Jtdm8CzvyoKLy0xyIMsmm" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>⚔️🚩जय,🚩श्री,🚩राम🚩⚔️: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2AoUBffFisDCHjcSIZmYGh" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩4साफ नियत सही विकास: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/38m2z9y4fHe7pLWdGKSOGp" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩श्रीराम हिन्दू सेना(रजि.): &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FOFYeFhi5d4AknTm7YxQeS" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Youth 🚩support🚩 modi: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CuHtgMFrgT3IIhR71tCLMU" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP UTTARA KANNADA: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5DOzGCVtaaBKIyA4uF4RPp" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP UDUPI & C”MLORE: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/A1OXDaOFCR76ZUxLtBYif9" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🏹भगवा ध्वज रक्षक 69🏹🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2BDZlrEq7MI33y7FH2xr41" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩भारतीये जनता पार्टी: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FTQF0qt8JZl4g3eBkRubxE" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>I Support modi&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/BC0FZz2BxVtJ6YwOGkAjMQ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP🚩RSS 🚩boy’s 🚩🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1DvLxGfmfOLIMaoTx9NlpN" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BIDAR: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1KqGZGgmASoIYuvzy4szz3" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🌹ႪქႲ ႽႮႲႲტRႠႽ 🌹: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0Xzwup9qBvq2WqcLZWROTs" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>जय श्री राम&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KvXeirsIDzn58mT2PQoxtV" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिन्दू राष्ट्र🚩🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FnzqFJs9oGB9cdOLutbnRa" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Politics WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5wHzvCWQilpBP2n9lcTTSJ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳एक ता हमारी ताकत🇮🇳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KgIEB9ELVLNGilS1h0iijM" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩Hindu yuva vahini: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3l9r8j8nfG7HZYsYmog9tk" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩”एक सोच नई सोच (रज़ि)00711: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5IxIhdgGzMDAdw68B4AzKl" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>SMART NEWS 📰&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2XghP60bhDz2daisHepOXo" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP BAGALKOT: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/3f1RGjtIeeVFIfZDrBzuS1" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Bjp news&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9DMZ5A94PMwFZHLyjVH9qy" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳HINDU MAHASANGH🇮🇳🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4PNYtaKkciILOGT0K1m4tP" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩नरेंद्र मोदी 2019 काशी 8: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8uao9nvI6Rt1e6GG4UymAZ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩BJP KOPPAL: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/53CkyG0B11x8ZYMyT483VA" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Trend BJP&nbsp;&nbsp;&nbsp;</div><div><a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/FaP4ko9nBxrKjKwZ6y2g9f" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Vote for Congress Party&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/LflaJBcqhZe78U6QQ5HDPI" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>BJP News&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FnMcaCKJNAp7TP3pIPTQLa" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩2.JAI SHREE MAHAKAL GROUP: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1R6miqHodtK0j42e54pf4K" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩भगत सिंह की फौज ✊🏻: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5nEqyqYsKOHEte4qoSYJtb" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🚩कट्टर हिन्दू 🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/IZV3WyyPgkJ6vQfNeaIFtG" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩राम भक्त⛳⛳⛳⛳⛳⛳⛳: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8PCjTo0T84m3hkr9ieozMn" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩2अबकीव बार मोदीय सरकार: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5M9spRtbgovLGvi7OjiQOO" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩जय हिन्दू राष्ट्र: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Gj3DU67ElBf9W6EhOIjsgA" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिन्दुवादी खबरें 🚩🚩🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8ILQqlbP6GiJRmKhRByX5o" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🇮🇳Political Debate🇮🇳: : &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/E7vr2kLjPJcENCmrn7h4ck" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩దొంతిరి ఁశీధర్ యూవసైన్యం: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Lq7rbm0WJHRHcHlVUtsD00" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Online Samaj&nbsp;&nbsp;&nbsp;</div><div><a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/LJ5WJJiqwxULI3G8rEKI2m" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Trend News&nbsp;&nbsp;&nbsp;</div><div><a href="https://web.archive.org/web/20190417164839/https://chat.whatsapp.com/invite/IPo4ala3iM6Cm5TjeKuwuJ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩नरेंद्र मोदी BhaKT🚩CluB🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DF4lzxbynShIHDSQvQtdyW" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩🌻🌻🌻बजरंगी ग्रुप🌹🌹🌷🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/ELlzp3lq0gfCS3qdjWBF5e" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩भगवा दिलो की धड़कन🚩: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5tREKrO1IIH8V4ZRKw7YwO" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩मोदी अगेन 25 6 2020: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9xpcxAZqoFZJD5TVlo3PwK" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🚩हिंदू एकता जिंदाबाद: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/7mTrpfz8MDRBNv5FCnuYBN" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
 
 <br />
 You'll find many more News WhatsApp Groups here.
@@ -368,60 +368,60 @@ You'll find many more News WhatsApp Groups here.
 
 Fond of movies and want to find friends who like similar movies as well? Want to discuss and review the latest movies? Maybe you want to discover the best movies in any Indian language or state. Or you want to simply watch and share viral video clips and songs from famous movies. Then you must join the following whatsapp groups for movie buffs.
 
-<p><span>masti zone&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Fgkbwp1QyOK0tymMNUIK74" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Bollywood News&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/14XeV0kCIfkJqlIov2idHK" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://www.blogger.com/Follow%20this%20link%20to%20join%20my%20WhatsApp%20group:%20https://chat.whatsapp.com/invite/HXSEe5DdOo9D4Bd9MureJU" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>JOIN GROUP&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/300TZTYWLzOElUbQ5cwses" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Desi Boys&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9seqGVjBULM2jEWqDRyGxC" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>💑Movies only 3: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CEc0palOwkn2qfovnGTxoG" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Bollywood World&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EPifXvFe72l6QCidxq20sB" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>X3XX Local Movies&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9nfLjPRLEsD95yRxx8Y74p" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🔤Movie club2 English:&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9q0wG3uZvXV7btxcXqszOZ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Disha Patani Lovers&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KgqAYlc2YfHDkVMSez4j8g" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🇮🇳&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9Dlk5AzznE42j1vFJ6RKic" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movie Group 4&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3Y3p7Dwsiqm2waEyUmjScM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>😎Indian Movie Addicted Boys: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KG3xinGAEW0BWwbY6yhLT2" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6Y4YO4r0JLNJsFunixEh0v" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Arjit Singh Songs&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9ym6UpRUzCR6irRJDZPhf0" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Only Song&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HzaaE0QwTz82HrZOpG2hOr" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Android Hacking&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1GoRb9HfDpXGmr23zG9ntX" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>🇮🇳&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Iago9zVonpY78YvUe32VoB" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>👫Movies Group 🔮: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CWBsT4o9s3PE2QQNJKLWke" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>8: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4jtpgeraKS3K5G2B0vIL5t" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Salman Khan Fans Club&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FMWcSJvHTa95ZWxw8yuoiz" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>MOVIES GROUP&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/48xf1JwSlFVEKbFVo0eXeM" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>PayTm WhatsApp Group Link&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8H0GWvOGj2oL0w4lOl28sD" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Only Movies Links  😯 &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I6oZ7taWqEB4hzBXxJU3iP" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies Point&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JhC802C10B0IjB7LwPVDWV" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>SRK Fans&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2P7EmVHOtaZCkBQwWJFfn6" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>💿🎬 HD Movies 720p&1080p 📺: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CYIzKoi3aORAiXNGo0xGrR" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>All Movies Mostly unrated&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BjG99424av62SBlrWbmM1u" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>HD Movies 2019&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7wnG03REdisJeBU7nzSClc" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>4: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hysj6OQ3FN248yNUr4D6z0" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5uiYLyhJttR4WMRJEXABgk" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Hollywood World&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hj4FCapD8MUClhW3G6vlKu" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movie bazaar &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KLyxiPhCcHG8ZtPHu5XvV9" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Technical Android&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AZ3Xt8HTWf67kX6dKPVlsm" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>15:&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CRgnLurVTvN7puVX5M1DCN" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Entertainment World&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6kvyRKTZlehJaCvFv98Dyi" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>click here to Join&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HoFJxAsH0yMGp55ZT1YhNZ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Entertainment&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DTvnaFTGx120kXuK0bBwql" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies only&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Lv0lAxdYcIgI4Sv0LhwWQY" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IHt8MFbLRan6MRJtwr8F4l" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>HD Movies Link 4 &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/L0iQyJz5ZKLJxvt4mKaTbd" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Song Group&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CgLQapmrtnTGDgNvjF7D5B" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Tollywood Updates&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ed76X3T4mrLGNJL6f5muJJ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Hollywood Movies&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BxF8K0zoTvYGciRrD5ZkpZ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Hd movie link&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BoX8i1KtDSm3C0BY4FrIXe" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FNGxpDnq3N9BOX5Eh1gGfI" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Samantha Friends Club&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KtKQpK3xCYsIShrI9Xfcfg" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>video group&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KGKXa13dERE5NpqH72ChQ7" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movie Group 6&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8oqsc9pAijEKhHAbsD2y8z" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Whatsapp Masti Group&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0EyX8TEu20QDod0THxsV0s" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FYNhrNipqLv089NIkV1OUT" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ds9d4ZPnAOfGfgNZ6BFUJf" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Mohd Rafi&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2n3HYCDl4jdDKye4fi8SID" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>JOIN GROUP&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JUU3YNCQy3TKes7ENClAj2" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<div style="display:flex; padding: 5px"><div>X3XX Local Movies&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9nfLjPRLEsD95yRxx8Y74p" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>4: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Hysj6OQ3FN248yNUr4D6z0" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/HY13n9wFLlg4R9AnMbdedJ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Technical Android&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AZ3Xt8HTWf67kX6dKPVlsm" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Comedy, masti & fun&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DTcG28XXdzcD4nl6hNrsrH" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Arjit Singh Songs&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9ym6UpRUzCR6irRJDZPhf0" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movie Links&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4sNkfYKhpNYHA5yxhI77Ol" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🇮🇳&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Iago9zVonpY78YvUe32VoB" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>CINEMAS&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5ZpqU8jKozILHiFCnCq0qF" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Malayalam movie&nbsp;&nbsp;&nbsp;</div><div><a href="http://chat.whatsapp.com/invite/9gaptJ6vdf5LWfoisPDXLc" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Tamil movie&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/IXThbLqF8Sj6oLnciGWefU" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Music&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/LhNaTkQid6LIvHotEWm1m8" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Samantha Friends Club&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KtKQpK3xCYsIShrI9Xfcfg" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Mohd Rafi&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2n3HYCDl4jdDKye4fi8SID" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>👫Movies Group 🔮: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CWBsT4o9s3PE2QQNJKLWke" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>HD Movies Link 4 &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/L0iQyJz5ZKLJxvt4mKaTbd" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies Point&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JhC802C10B0IjB7LwPVDWV" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Surya fans club – &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1janZjZBtcs4kMYhFSmdMI" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/IHt8MFbLRan6MRJtwr8F4l" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>New Malayalam movie&nbsp;&nbsp;&nbsp;</div><div><a href="http://chat.whatsapp.com/invite/Jm2QIZXe5vH6tYXqdMPkYq" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Disha Patani Lovers&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KgqAYlc2YfHDkVMSez4j8g" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>💑Movies only 3: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CEc0palOwkn2qfovnGTxoG" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>😎Indian Movie Addicted Boys: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KG3xinGAEW0BWwbY6yhLT2" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>masti zone&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Fgkbwp1QyOK0tymMNUIK74" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Malayalam movie series&nbsp;&nbsp;&nbsp;</div><div><a href="http://chat.whatsapp.com/invite/KeqeIfz7LZRBejPXV47XFF" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies world&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Dfc54I4bQtk3rUifaie6eV" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Torrent movies update: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/C8bIalUlIfR58vJ2NcM2XE" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movie Group 7&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AdCHm8JY4ua8zPnYOnzcMY" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>JOIN GROUP&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JUU3YNCQy3TKes7ENClAj2" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FYNhrNipqLv089NIkV1OUT" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>PUBG movie +18&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/BeE8Pg3aXB4IyNHD5Y5dPy" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>video group&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KGKXa13dERE5NpqH72ChQ7" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>SRK Fans&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2P7EmVHOtaZCkBQwWJFfn6" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Hollywood World&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Hj4FCapD8MUClhW3G6vlKu" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Sad Songs&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/15ysOXhpoNRH91ELDFDAYI" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Latest Movies&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4smZTGMpq7aFmANG8Z443M" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>HD Movies 2019&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/7wnG03REdisJeBU7nzSClc" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies Links Free&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EzHwpFZpUqeBGlALgrPFMT" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Desi Boys&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9seqGVjBULM2jEWqDRyGxC" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>15:&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CRgnLurVTvN7puVX5M1DCN" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Funny videos&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DHZw47IdEVwDSridLTm88L" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>South Indian World&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Hv3MKkgcNQZLQRkxw2chp7" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>JOIN GROUP&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/300TZTYWLzOElUbQ5cwses" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies Download Links&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/K7Lc7mLBDXo2dsXkmi0wgA" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Whatsapp Masti Group&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0EyX8TEu20QDod0THxsV0s" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Hot Photoshoots/Bollywood&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0JYF7iwrKhI0iEqe5Fv6pF" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>18+ movies&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Jzt9lmf3ZYQBilM2vUBAHL" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>download all new movies and TV shows from our whatsapp group link &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/GXXS4881dqK7fGokipKE73" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/1Uprl7NZG9nKM9OMjuoFja" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Join our music group – &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/ItsZaJLRAIG7lCjZ4gUm60" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies &nbsp;&nbsp;&nbsp;</div><div><a href="https://www.blogger.com/Follow%20this%20link%20to%20join%20my%20WhatsApp%20group:%20https://chat.whatsapp.com/invite/HXSEe5DdOo9D4Bd9MureJU" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>🔤Movie club2 English:&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/9q0wG3uZvXV7btxcXqszOZ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Movies WhatsApp Group India&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/6Y4YO4r0JLNJsFunixEh0v" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<div style="display:flex; padding: 5px"><div>Raees Fans  😆 &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2v9IbDbd3Rv4pbh3Z5wrmS" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
 
 <br />
 Lots more movie whatsapp group links here.
@@ -431,72 +431,72 @@ Lots more movie whatsapp group links here.
 
 What better than some beautiful and thoughtful shayari and ghazals delivered on WhatsApp through the day. No doubt it is really hard to find good Shayari WhatsApp Group Links on the internet. But you know what - we have searched all over the internet and found the best active WhatsApp group links for sharing shayari.
 
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://www.blogger.com/Follow%20this%20link%20to%20join%20my%20WhatsApp%20group:%20https://chat.whatsapp.com/invite/HbKhwzN4QQC6pZ8HvL6aEU" rel="nofollow" rel="noreferrer">Love Shayari </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ceb8hRFTlmqBwyFg9zwDFc" rel="nofollow" rel="noreferrer">jony ki kahani </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8AW4k3GCdXSEEYf3N8fbJ8" rel="nofollow" rel="noreferrer">Lovely Shayari Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GwHgAjnSfHhBprms0XfX4B" rel="nofollow" rel="noreferrer">✍मेहफिल-ऐ-शायरी✍</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LsGrN098Pc7IjQGxYrnaVS" rel="nofollow" rel="noreferrer">Dil Ki Baat Shayari Ke Saath</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0v07DZL2NpnFuu37cEVqSm" rel="nofollow" rel="noreferrer">Hindi Shayari & Jokes</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0M9xd0JYPmQ5DcC8qXl0EN" rel="nofollow" rel="noreferrer">Earn to end</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/B37MTt9T0SeD5Oy10ePQYn" rel="nofollow" rel="noreferrer">Pakistani Shayari Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/B1H0c63GRK39c6K0bXTd86" rel="nofollow" rel="noreferrer">🌹Dosti Hi Sabkuchh Hai🌹✅</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ARof63UPDR251NgshZJhkb" rel="nofollow" rel="noreferrer">❤Mehfil-E-Mushayera❤</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BsXxfFLi3go2S0ZVRanoWu" rel="nofollow" rel="noreferrer"> shayari group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HifbzlnmFzZIRMU0UMMdu0" rel="nofollow" rel="noreferrer">शायरो की महेफिल </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CjXBAVrDjSB51xzjEVDoj9" rel="nofollow" rel="noreferrer">Tε૨α ɱε૨α ρყαα૨ (Sτατυѕ)</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9ForDdSVuLy5yLa8ASu5tS" rel="nofollow" rel="noreferrer">🧗🏻‍♀Gully boy 🤾‍♀</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4J9wrdqKBiT74Lr9TZZDuZ" rel="nofollow" rel="noreferrer">😍शायरों की महफ़िल😍</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3MPv3iBMBuwKQdPMwbAJtK" rel="nofollow" rel="noreferrer">SHAYARI SANJANA KI</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/12WB0EAYsLULRqUw40ljMc" rel="nofollow" rel="noreferrer">Daily Quotes</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JvR7uL61GuECz7Y16qo96S" rel="nofollow" rel="noreferrer">Mehfil-E-Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BTHykRGIc0M0GOqsMX1lMP" rel="nofollow" rel="noreferrer">Heart Touching Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/80AnHDvvU0hERxpahEBVFh" rel="nofollow" rel="noreferrer">6. Only Indian people WhatsApp Group links</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4R5fmJxWqUWF3rl3e5g5EP" rel="nofollow" rel="noreferrer">Captain Cool</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ll8JlRLcaEcG3p7XDsnhzv" rel="nofollow" rel="noreferrer">Dil Se Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5Zn8Ez23mtVD6RBUcCrbs2" rel="nofollow" rel="noreferrer">Hindi India Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7H8mFedWAmt58nuRjrTn1N" rel="nofollow" rel="noreferrer">No mind</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I5wRAzmFfDY8E2CsPwq8K2" rel="nofollow" rel="noreferrer">💔💘💝Only Shayari 💞💘❤</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G4LW0CldrNy6CWqCdCY7D1" rel="nofollow" rel="noreferrer">Mehfil-E-Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8NGosBGFk2uCICypkGFujc" rel="nofollow" rel="noreferrer">VK Fans Club</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BqO9RxhljAG00gIWEdM1dx" rel="nofollow" rel="noreferrer">Shayari Boy</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/94dNY9IiztLGiYJa8mW2co" rel="nofollow" rel="noreferrer">Bewafa Dard Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9GgDIo0CXCL5TnZmJF1MAC" rel="nofollow" rel="noreferrer">Only Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7X6IWGnNNgp1hlYlHBuw1h" rel="nofollow" rel="noreferrer">The lover boys whatsapp group </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ht2aQeQWxa96gNU9n68" rel="nofollow" rel="noreferrer">Jokes ans shyri</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IomRQqcyO7HAerwPBXfNh0" rel="nofollow" rel="noreferrer">VIP group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8hwvWKpO2On9Z94K1Ahok5" rel="nofollow" rel="noreferrer">🤝🏻 नगमा💞प्यार💞का💞</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6Uxx8RAaipsF48VrmmHDBW" rel="nofollow" rel="noreferrer">Dilwalo Ka Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/H2nbB53vSY4LNnT7NsDyue" rel="nofollow" rel="noreferrer">WHATSAPP ROBOT</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7HNTZI3N0Lh4ZGkBy5ZK1h" rel="nofollow" rel="noreferrer">Shayari for Boys & Girls</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AwUF5Hv564Q2e5Cn6vl0ps" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/47OFDechWUb3NzjPK0Mb6O" rel="nofollow" rel="noreferrer">Urdu Poetry </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9Ygl8hRHgcT4S2nK7O9IGa" rel="nofollow" rel="noreferrer">मोहब्बत करार bewafai</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7ZFWIJlItpS9EljRfiGWDZ" rel="nofollow" rel="noreferrer">✍🏻📝 अधूरी ज़िन्दगी📝 ✍🏻📲📲</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EWiQdoeGDFnL2uKMm9OCSL" rel="nofollow" rel="noreferrer">2 Line Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4FHwvnoCzFr6zRgrpx05S1" rel="nofollow" rel="noreferrer">Chat WhatsApp Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7hrOr6g3IoILGUJ1E8FFdx" rel="nofollow" rel="noreferrer">💕शायरी की डायरी 💞</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7qL3CXeAUEhHDP6CDxSrab" rel="nofollow" rel="noreferrer">Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/L9cYu2V2VX65zizBMhFceP" rel="nofollow" rel="noreferrer">Shayari WhatsApp Groups India</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6XBOMRLGzCBJ8gDxCcmO3M" rel="nofollow" rel="noreferrer">1.Indian whatsapp link</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4kwLAuMsRSRBzbMZn7zMCi" rel="nofollow" rel="noreferrer">Friends forever</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AZofJg4k2pZ9S5yuVo4k6C" rel="nofollow" rel="noreferrer">Shayarana Aalam</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GRQf5yHaWYEDJtg8qD1MKu" rel="nofollow" rel="noreferrer">❤दिल की बात💚</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KXIvtzxMgMZL7RRxCg29p1" rel="nofollow" rel="noreferrer">Shayari WhatsApp Groups India</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9SIMfw3P6BcGD9yudsDpXw" rel="nofollow" rel="noreferrer">Cricket Troll World</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5bmDdyWvTs9DZ7aGIS8T2E" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7nuPB3LoMF4KyGT7YRQnR2" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5U1LJn1ea7h6A8Qg76I03M" rel="nofollow" rel="noreferrer">शायरी २</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7FkWQocf6C9GYpk9PZWuQ7" rel="nofollow" rel="noreferrer">यादे गुलज़ार साहब की</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/C3Usvf5TXavLEK47CqvE3k" rel="nofollow" rel="noreferrer">Shayari WhatsApp Groups India</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3Lsvznqh1G1BlcJysSKVDo" rel="nofollow" rel="noreferrer">🌹💔ķîňğ🥀Šhâýâřî</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LZyAp0JSw6yD4eH247y2Gm" rel="nofollow" rel="noreferrer">Khaamosiyo ke alfaaz</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EkVP5ufqcOY9nTMN7HlsCg" rel="nofollow" rel="noreferrer">💓💘💞💔Shayri is heart💘💔💖</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5n4gH3Pbrsd9ch9JAqP0go" rel="nofollow" rel="noreferrer">Luknow King </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hq9E7h8zSCML9M4JNg7crq" rel="nofollow" rel="noreferrer">All Language Shayari</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LATry2FPkue3ttoflQoGka" rel="nofollow" rel="noreferrer">शायरों की दुनिया💯❤</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2UFID6SQXcX6vT0CJtRlIR" rel="nofollow" rel="noreferrer">जोक और शायरी</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KtQCsJpof5KB1H5gMzeUjq" rel="nofollow" rel="noreferrer">Hindi Shayari & Quotes</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6SvLub2Txeg5SAWENVhYv7" rel="nofollow" rel="noreferrer">Lucky Family</a></div>
+<a href="https://chat.whatsapp.com/invite/7hrOr6g3IoILGUJ1E8FFdx" rel="nofollow">💕शायरी की डायरी 💞</a><br />
+<a href="https://chat.whatsapp.com/invite/Ll8JlRLcaEcG3p7XDsnhzv" rel="nofollow">Dil Se Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/94dNY9IiztLGiYJa8mW2co" rel="nofollow">Bewafa Dard Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/7FkWQocf6C9GYpk9PZWuQ7" rel="nofollow">यादे गुलज़ार साहब की</a><br />
+<a href="https://chat.whatsapp.com/invite/BTHykRGIc0M0GOqsMX1lMP" rel="nofollow">Heart Touching Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/LFTuyV38AGmHjJAPqihq9F" rel="nofollow">Shayri Only Not Anything Else </a><br />
+<a href="https://chat.whatsapp.com/invite/7nuPB3LoMF4KyGT7YRQnR2" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/6SvLub2Txeg5SAWENVhYv7" rel="nofollow">Lucky Family</a><br />
+<a href="https://chat.whatsapp.com/invite/AZofJg4k2pZ9S5yuVo4k6C" rel="nofollow">Shayarana Aalam</a><br />
+<a href="https://chat.whatsapp.com/invite/9GgDIo0CXCL5TnZmJF1MAC" rel="nofollow">Only Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/9ForDdSVuLy5yLa8ASu5tS" rel="nofollow">🧗🏻‍♀Gully boy 🤾‍♀</a><br />
+<a href="https://chat.whatsapp.com/invite/8AW4https://chat.whatsapp.com/KtQCsJpof5KB1H5gMzeUjqk3GCdXSEEYf3N8fbJ8" rel="nofollow">Join Now</a><br />
+<a href="https://www.blogger.com/Follow%20this%20link%20to%20join%20my%20WhatsApp%20group:%20https://chat.whatsapp.com/invite/HbKhwzN4QQC6pZ8HvL6aEU" rel="nofollow">Love Shayari </a><br />
+<a href="https://chat.whatsapp.com/invite/C3Usvf5TXavLEK47CqvE3k" rel="nofollow">Shayari WhatsApp Groups India</a><br />
+<a href="https://chat.whatsapp.com/invite/EkVP5ufqcOY9nTMN7HlsCg" rel="nofollow">💓💘💞💔Shayri is heart💘💔💖</a><br />
+<a href="https://chat.whatsapp.com/invite/GwHgAjnSfHhBprms0XfX4B" rel="nofollow">✍मेहफिल-ऐ-शायरी✍</a><br />
+<a href="https://chat.whatsapp.com/invite/7H8mFedWAmt58nuRjrTn1N" rel="nofollow">No mind</a><br />
+<a href="https://chat.whatsapp.com/invite/5n4gH3Pbrsd9ch9JAqP0go" rel="nofollow">Luknow King </a><br />
+<a href="https://chat.whatsapp.com/invite/Ceb8hRFTlmqBwyFg9zwDFc" rel="nofollow">jony ki kahani </a><br />
+<a href="https://chat.whatsapp.com/invite/0v07DZL2NpnFuu37cEVqSm" rel="nofollow">Hindi Shayari & Jokes</a><br />
+<a href="https://chat.whatsapp.com/invite/4J9wrdqKBiT74Lr9TZZDuZ" rel="nofollow">😍शायरों की महफ़िल😍</a><br />
+<a href="https://chat.whatsapp.com/invite/8AW4k3GCdXSEEYf3N8fbJ8" rel="nofollow">Lovely Shayari Group</a><br />
+<a href="https://chat.whatsapp.com/invite/4kwLAuMsRSRBzbMZn7zMCi" rel="nofollow">Friends forever</a><br />
+<a href="https://chat.whatsapp.com/invite/FWz55Dd1jE53GNQJ0dV97y" rel="nofollow">WhatsApp Group Link Chat</a><br />
+<a href="https://chat.whatsapp.com/invite/B1H0c63GRK39c6K0bXTd86" rel="nofollow">🌹Dosti Hi Sabkuchh Hai🌹✅</a><br />
+<a href="https://chat.whatsapp.com/invite/84LiMWRUqoR0UthnvPxVba" rel="nofollow">2. Only Indian Whatsapp Group Invite link</a><br />
+<a href="https://chat.whatsapp.com/invite/12WB0EAYsLULRqUw40ljMc" rel="nofollow">Daily Quotes</a><br />
+<a href="https://chat.whatsapp.com/invite/7ZFWIJlItpS9EljRfiGWDZ" rel="nofollow">✍🏻📝 अधूरी ज़िन्दगी📝 ✍🏻📲📲</a><br />
+<a href="https://chat.whatsapp.com/invite/47OFDechWUb3NzjPK0Mb6O" rel="nofollow">Urdu Poetry </a><br />
+<a href="https://chat.whatsapp.com/invite/KXIvtzxMgMZL7RRxCg29p1" rel="nofollow">Shayari WhatsApp Groups India</a><br />
+<a href="https://chat.whatsapp.com/invite/5Zn8Ez23mtVD6RBUcCrbs2" rel="nofollow">Hindi India Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/GRQf5yHaWYEDJtg8qD1MKu" rel="nofollow">❤दिल की बात💚</a><br />
+<a href="https://chat.whatsapp.com/invite/Hq9E7h8zSCML9M4JNg7crq" rel="nofollow">All Language Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/7X6IWGnNNgp1hlYlHBuw1h" rel="nofollow">The lover boys whatsapp group </a><br />
+<a href="https://chat.whatsapp.com/invite/L9cYu2V2VX65zizBMhFceP" rel="nofollow">Shayari WhatsApp Groups India</a><br />
+<a href="https://chat.whatsapp.com/invite/DkuenceFAB58p71aWowMDa" rel="nofollow">Dhoni Fan</a><br />
+<a href="https://chat.whatsapp.com/invite/5bmDdyWvTs9DZ7aGIS8T2E" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/7qL3CXeAUEhHDP6CDxSrab" rel="nofollow">Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/LsGrN098Pc7IjQGxYrnaVS" rel="nofollow">Dil Ki Baat Shayari Ke Saath</a><br />
+<a href="https://chat.whatsapp.com/invite/IomRQqcyO7HAerwPBXfNh0" rel="nofollow">VIP group</a><br />
+<a href="https://chat.whatsapp.com/invite/8z4RE4AghpT2gUgvbaWBtx" rel="nofollow">💛💚Jashn-E-Shyari💚💛</a><br />
+<a href="https://chat.whatsapp.com/invite/I5wRAzmFfDY8E2CsPwq8K2" rel="nofollow">💔💘💝Only Shayari 💞💘❤</a><br />
+<a href="https://chat.whatsapp.com/invite/EvLsmbOx2hdE9VqxYZ46Qk" rel="nofollow">Shayari Is My Life </a><br />
+<a href="https://chat.whatsapp.com/invite/5YvZfDDRvKs0pMeRPyDKHE" rel="nofollow">Andaz-E-Shayar</a><br />
+<a href="https://chat.whatsapp.com/invite/AwUF5Hv564Q2e5Cn6vl0ps" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/H2nbB53vSY4LNnT7NsDyue" rel="nofollow">WHATSAPP ROBOT</a><br />
+<a href="https://chat.whatsapp.com/invite/LZyAp0JSw6yD4eH247y2Gm" rel="nofollow">Khaamosiyo ke alfaaz</a><br />
+<a href="https://chat.whatsapp.com/invite/86F4JO8g9l89icEuhmoJS6" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/8hwvWKpO2On9Z94K1Ahok5" rel="nofollow">🤝🏻 नगमा💞प्यार💞का💞</a><br />
+<a href="https://chat.whatsapp.com/invite/7HNTZI3N0Lh4ZGkBy5ZK1h" rel="nofollow">Shayari for Boys & Girls</a><br />
+<a href="https://chat.whatsapp.com/invite/G4LW0CldrNy6CWqCdCY7D1" rel="nofollow">Mehfil-E-Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/CchztA9DP7MG2vnncuNNso" rel="nofollow">Only Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/9SIMfw3P6BcGD9yudsDpXw" rel="nofollow">Cricket Troll World</a><br />
+<a href="https://chat.whatsapp.com/invite/4FHwvnoCzFr6zRgrpx05S1" rel="nofollow">Chat WhatsApp Group</a><br />
+<a href="https://chat.whatsapp.com/invite/BqO9RxhljAG00gIWEdM1dx" rel="nofollow">Shayari Boy</a><br />
+<a href="https://chat.whatsapp.com/invite/9Ygl8hRHgcT4S2nK7O9IGa" rel="nofollow">मोहब्बत करार bewafai</a><br />
+<a href="https://chat.whatsapp.com/invite/6XBOMRLGzCBJ8gDxCcmO3M" rel="nofollow">1.Indian whatsapp link</a><br />
+<a href="https://chat.whatsapp.com/invite/8NGosBGFk2uCICypkGFujc" rel="nofollow">VK Fans Club</a><br />
+<a href="https://chat.whatsapp.com/invite/BKLYlvNiyhc1MNxZQQkLCY" rel="nofollow">💞Ⓜehfil~E~🅰Aashiqui 💞</a><br />
+<a href="https://chat.whatsapp.com/invite/4R5fmJxWqUWF3rl3e5g5EP" rel="nofollow">Captain Cool</a><br />
+<a href="https://chat.whatsapp.com/invite/ARof63UPDR251NgshZJhkb" rel="nofollow">❤Mehfil-E-Mushayera❤</a><br />
+<a href="https://chat.whatsapp.com/invite/0M9xd0JYPmQ5DcC8qXl0EN" rel="nofollow">Earn to end</a><br />
+<a href="https://chat.whatsapp.com/invite/2UFID6SQXcX6vT0CJtRlIR" rel="nofollow">जोक और शायरी</a><br />
+<a href="https://chat.whatsapp.com/invite/6Uxx8RAaipsF48VrmmHDBW" rel="nofollow">Dilwalo Ka Group</a><br />
+<a href="https://chat.whatsapp.com/invite/9KqTpSpUqmcBkSZr1kh3gb" rel="nofollow">Andaz A Shayari</a><br />
+<a href="https://chat.whatsapp.com/invite/5U1LJn1ea7h6A8Qg76I03M" rel="nofollow">शायरी २</a><br />
 
 <br />
 If you're fond of shayari, a lot more shayari whatsapp group links are here.
@@ -506,92 +506,92 @@ If you're fond of shayari, a lot more shayari whatsapp group links are here.
 Would you like to earn money while sitting at home? You can do that easily nowadays by making money online, provided you are willing to put in effort to learn. All you have to do is identify your interest area - areas where you believe you have additional knowledge over others. Then you can start blogs, or groups or even youtube channels - all of which pays out ad money to the creator when they have lots of views and subscribers. This is not all - there are many more ways to make money online. Join some of these groups which discuss strategies to earn money online.
 
 
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CYJPl9ZBalg4qc5O6dsi9C" rel="nofollow" rel="noreferrer">Way to earn bitcoin</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Lux2FBAoIzG9meulwr0SpF" rel="nofollow" rel="noreferrer">PART TIME JOB EARN MONEY REAL</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4xsYlPhJCLmATRxQiEp0GM" rel="nofollow" rel="noreferrer">Home Based Part time Job</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FHI3GDFfsi78WbeGsVsjWe" rel="nofollow" rel="noreferrer">Earn fast paytm cash</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6bkluwzqAtMEzTiSsydS8J" rel="nofollow" rel="noreferrer">Paisa kamao</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CRNpUCEVUtpKbcl9Ep2vKo" rel="nofollow" rel="noreferrer">Paytm MONEY Marketing</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DaON0DMgy106cBoZ3wpsvW" rel="nofollow" rel="noreferrer">Click Here to Join</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GM15hCPrWMM9RLDIikjW4i" rel="nofollow" rel="noreferrer">Paytm earn app</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DZA5gJfBxv1Hd6HyNNwaDX" rel="nofollow" rel="noreferrer">4FUN APK erne money 100rs </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ES0ssGSrkwwKTzcd1dlZHe" rel="nofollow" rel="noreferrer">Part-time job earn 20000: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HY77I2pGb8rKP8fvICvFW4" rel="nofollow" rel="noreferrer">Social Adsense Money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ID943NA2IYQ1rM9Z0wQRzR" rel="nofollow" rel="noreferrer">OLA Coupon</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4MJkHZentFrFkr841uhJSo" rel="nofollow" rel="noreferrer">Online INCOME Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3Da0LNGXz2y3ji4rYbpKGJ" rel="nofollow" rel="noreferrer">Earn lakhs</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GReLtg6FnzCLGGI665DJ8q" rel="nofollow" rel="noreferrer">😎Earn money tricks💲💲💵: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JTLAnYpAY6hH0XbUCsTTb3" rel="nofollow" rel="noreferrer">Refer And Earn </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FnML12kHH3IKUPVY72ODLS" rel="nofollow" rel="noreferrer">Zwerl Chat and Earn Free</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/55VudRCpy9R6AIm1KxNoE7" rel="nofollow" rel="noreferrer">Online money earnings </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/F6RRjueUghMC2YcPXUPe7H" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2oZudGQGcaW5k6tx4lSGVt" rel="nofollow" rel="noreferrer">BTC/Earn money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CJSKgJlvHLwAMg6AgrMoqi" rel="nofollow" rel="noreferrer">Pubg Money custom group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DjG31vOYrNLHQdp5dUMVON" rel="nofollow" rel="noreferrer">💸💯Money Earning By OneAd:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3C9bBaAF4c3HnpTZFCpdlL" rel="nofollow" rel="noreferrer">Online job👍</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ" rel="nofollow" rel="noreferrer">Tech 100</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FBFm8I2LyGuImYLrLy2Vv5" rel="nofollow" rel="noreferrer">💸💯Make money easy risk free:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EDCBbOYgFszHYcmpn0i2rt" rel="nofollow" rel="noreferrer">Money Earning Apps</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CXIXL0IioLOGsNAWEoKv04" rel="nofollow" rel="noreferrer">Visa of any country</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I7TrGSJd0Cn7nT8vDQlBbe" rel="nofollow" rel="noreferrer">Earn money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DjF2K6qsVzTGlOewg7e6JR" rel="nofollow" rel="noreferrer">Make money online</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/IknZd1ZcErEDS1nHNRZCmK" rel="nofollow" rel="noreferrer">REAL CASINO ERAN MONEY</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/K4QDJyPVo87AWzzwS9rGZq" rel="nofollow" rel="noreferrer"> Free recharge tricks</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CmYjZ6jiiva3JDuI5HhhIs" rel="nofollow" rel="noreferrer">Smart earn today launch</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/A60YPuxXjGs2zTHjZH0N5D" rel="nofollow" rel="noreferrer">Earn Bitcoin</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KFs8anmk3y2719vamKJXVx" rel="nofollow" rel="noreferrer">Earn money easily</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4XiuFmlrHQK35CJT1aU2Y7" rel="nofollow" rel="noreferrer">😜Earn While You Learn: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AinkG2XCvrg2UBOOD21Jgq" rel="nofollow" rel="noreferrer">Earn tech</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JckaV3qGfhELT3jmoS2kZn" rel="nofollow" rel="noreferrer">Make Money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FGyvgB670Ri9obXWhjjfxcP" rel="nofollow" rel="noreferrer">WWE network</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Hd84cONlR60IRzkTAHl1dB" rel="nofollow" rel="noreferrer">Online earn online jobs</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/57Puw5C2JdOCJ4Kvov8x3g" rel="nofollow" rel="noreferrer">CLOUD MONEY HELP: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/24IcpZ3M9asE7cEpFuK7M4" rel="nofollow" rel="noreferrer">WhatsApp Groups India</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2JD0zswhU0N4GupyXGXaNE" rel="nofollow" rel="noreferrer">Smart Earn</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/87eJ3woJ5TBDOnx0BfxqrA" rel="nofollow" rel="noreferrer">Easy money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4oPmT6AECVaJzX7Le0NzMA" rel="nofollow" rel="noreferrer">Vitamin Money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Klts7hh6Xpf1V2WbBe1ier" rel="nofollow" rel="noreferrer">S*xual contact????????????????</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Ic2aprowAsoH8YdSOVH0Bu" rel="nofollow" rel="noreferrer">Earn Money On Mobile</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KKaTCQxwG0rLBLu6PmZ7wQ" rel="nofollow" rel="noreferrer">Earn bitcoin every minute</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8H0GWvOGj2oL0w4lOl28sD" rel="nofollow" rel="noreferrer">PayTm WhatsApp Group Link</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JA0Yi0b3jCgJU2JUGdPYGh" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EIxewJxT2cfLjw0NGF3K5y" rel="nofollow" rel="noreferrer">Only real earning</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HSjRITkb0s16Drob5PFUxT" rel="nofollow" rel="noreferrer">ADMOB ADSENSE GROUP EARN</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DFLyhP4bxdLI3RcVMSZ6Hi" rel="nofollow" rel="noreferrer">Champ cash</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/DLmebcrPkAuGMSA4O691BW" rel="nofollow" rel="noreferrer">Earn daily 0.001 bitcoin</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Fvq59hIQdCL7ttB0nm7IE4" rel="nofollow" rel="noreferrer">Adult Whatsapp Groups links</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HIYxb82s5rIFL90r3DmhAN" rel="nofollow" rel="noreferrer">Earning money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BjkZo1X3MxiCb22kexFDN6" rel="nofollow" rel="noreferrer">Earn Money Daily</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8RSA0IKU7F41qx8Gx80NUV" rel="nofollow" rel="noreferrer">💰Money with PUBG 🔫</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GbpfhbIZhK1JwvI9QHtEry" rel="nofollow" rel="noreferrer">Earn Real Paytm cash</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CseoaRZxg4Q5eyHwZeviPS" rel="nofollow" rel="noreferrer">Follow this link to join my Earn money free WhatsApp group: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FRspXe4D3DJA9yHHRl3Juz" rel="nofollow" rel="noreferrer">Online free earn money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/291ym6hQ0QzCjJwTPCPoxo" rel="nofollow" rel="noreferrer">IPL betting double money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5tOWQMQz9Pp7kWxlqmJh0A" rel="nofollow" rel="noreferrer">💰Earn your spend: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8NfVXTCpSdHLXjuQiJXvh7" rel="nofollow" rel="noreferrer">Hames kanji</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4bH32k8LUgz5CRLc2UADzQ" rel="nofollow" rel="noreferrer">Databuddy earning group1</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/ASuYJybV1fKD7T5nLtde7N" rel="nofollow" rel="noreferrer">Tum meri pagal</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/11VIb45K70q5SUYcvLJYsx" rel="nofollow" rel="noreferrer">Bitcoin trading signals</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/F1AM01GIwBIGDbsd5xbcwV" rel="nofollow" rel="noreferrer">Champion💲 Money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/HbIpJd2XYB4FrRdLL2lFUA" rel="nofollow" rel="noreferrer">Coolbiz earn money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FDumloE2WMQ1xl3bZmPOUU" rel="nofollow" rel="noreferrer">Aone Paying Since 2017</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LiqxAKzOK6Y6OKeGKqBdkp" rel="nofollow" rel="noreferrer">💸Earn money online💸</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5AvUTe0PKgXCEJrnKi0L5o" rel="nofollow" rel="noreferrer">My Loot Wala</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EXYFohaMe2fGBeYoeBK3iQ" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/9k14usmf0BB4tTsMBzX8kq" rel="nofollow" rel="noreferrer">Earn 500 In 1 Day: </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BWwI03liLSe4VWqhHvYM5k" rel="nofollow" rel="noreferrer">💰make money at home:</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/87Q9qzlC3Tr60zehNJWibo" rel="nofollow" rel="noreferrer">WhatsApp Groups India</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/3gmnljcS4ym3Huk4QFU8uz" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/7wYU7vs85TZEmdHbg9u073" rel="nofollow" rel="noreferrer">Earning money</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4aODA8rsUav9bXXw9CRGH7" rel="nofollow" rel="noreferrer">Join Now</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LIujgkzbSZrGyJdYLyuyuT" rel="nofollow" rel="noreferrer">Online Money WhatsApp Group Link</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/87Q9qzlC3Tr60zehNJWibohttps://chat.whatsapp.com/invite/87Q9qzlC3Tr60zehNJWibo" rel="nofollow" rel="noreferrer">Money team</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LGFXeMWP2REErvbXepRWbr" rel="nofollow" rel="noreferrer">Paytm Money Earn </a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4bOfRY4SYSM16hZfaaFkha" rel="nofollow" rel="noreferrer">Fun zone</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KW7cy6MEIwIHGGBSdlUTvz" rel="nofollow" rel="noreferrer">Earning money Group</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0QrFru62eQG3pX6eJUzPvl" rel="nofollow" rel="noreferrer">Mart4Youth {Wholesale}</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Bp2O8iCmkmTKj9rJlkdcQD" rel="nofollow" rel="noreferrer">Champcash Learn & Earn</a></div>
-<div style="padding:0.5rem 0"><a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BTM4q4XsoRK2pi5v0hVCqq" rel="nofollow" rel="noreferrer">Earn tech</a></div>
+<a href="https://chat.whatsapp.com/invite/A60YPuxXjGs2zTHjZH0N5D" rel="nofollow">Earn Bitcoin</a><br />
+<a href="https://chat.whatsapp.com/invite/FnML12kHH3IKUPVY72ODLS" rel="nofollow">Zwerl Chat and Earn Free</a><br />
+<a href="https://chat.whatsapp.com/invite/F1AM01GIwBIGDbsd5xbcwV" rel="nofollow">Champion💲 Money</a><br />
+<a href="https://chat.whatsapp.com/invite/9zlkKIQrOcW2B18hgb3CyM" rel="nofollow">Onead Job</a><br />
+<a href="https://chat.whatsapp.com/invite/0UcQGQMb4fh8YXkp63IjUs" rel="nofollow">WhatsApp Groups India</a><br />
+<a href="https://chat.whatsapp.com/invite/3gmnljcS4ym3Huk4QFU8uz" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/KnKHsAvsCjhKluI8p3YNkN" rel="nofollow">Earn Money Online GN.23</a><br />
+<a href="https://chat.whatsapp.com/invite/JckaV3qGfhELT3jmoS2kZn" rel="nofollow">Make Money</a><br />
+<a href="https://chat.whatsapp.com/invite/DaDjLlUvYfc3bGxu50wxRm" rel="nofollow">👬Online earn money:</a><br />
+<a href="https://chat.whatsapp.com/invite/5AvUTe0PKgXCEJrnKi0L5o" rel="nofollow">My Loot Wala</a><br />
+<a href="https://chat.whatsapp.com/invite/0fNBktY76f34wVUGi4dbKq" rel="nofollow">Part Time Job for Fresher</a><br />
+<a href="https://chat.whatsapp.com/invite/AinkG2XCvrg2UBOOD21Jgq" rel="nofollow">Earn tech</a><br />
+<a href="https://chat.whatsapp.com/invite/LiqxAKzOK6Y6OKeGKqBdkp" rel="nofollow">💸Earn money online💸</a><br />
+<a href="https://chat.whatsapp.com/invite/Dz4pYnd67BCBgzSYPVCRPP" rel="nofollow">🌍Online💵पैसा Earn📲 💯🆓</a><br />
+<a href="https://chat.whatsapp.com/invite/79QpMTTK9uZ2inXSKn6aSV" rel="nofollow">Ghar Ghar ki Kahani</a><br />
+<a href="https://chat.whatsapp.com/invite/4bOfRY4SYSM16hZfaaFkha" rel="nofollow">Fun zone</a><br />
+<a href="https://chat.whatsapp.com/invite/DLmebcrPkAuGMSA4O691BW" rel="nofollow">Earn daily 0.001 bitcoin</a><br />
+<a href="https://chat.whatsapp.com/invite/KCLrlL1MfxIBlgUX2Uyvl4" rel="nofollow">🎓Q/A Earn paytm Cash 🏆:</a><br />
+<a href="https://chat.whatsapp.com/invite/CRNpUCEVUtpKbcl9Ep2vKo" rel="nofollow">Paytm MONEY Marketing</a><br />
+<a href="https://chat.whatsapp.com/invite/4IC8zIwqc2e3kbD7inf61o" rel="nofollow">Make Money Online</a><br />
+<a href="https://chat.whatsapp.com/invite/HkKF7Srqya12dGjctX9Xqp" rel="nofollow">Buy Online</a><br />
+<a href="https://chat.whatsapp.com/invite/LNnWtknHun300uow6aCQm1" rel="nofollow">Paisa Kamao</a><br />
+<a href="https://chat.whatsapp.com/invite/24IcpZ3M9asE7cEpFuK7M4" rel="nofollow">WhatsApp Groups India</a><br />
+<a href="https://chat.whatsapp.com/invite/GReLtg6FnzCLGGI665DJ8q" rel="nofollow">😎Earn money tricks💲💲💵: </a><br />
+<a href="https://chat.whatsapp.com/invite/4aODA8rsUav9bXXw9CRGH7" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/HIYxb82s5rIFL90r3DmhAN" rel="nofollow">Earning money</a><br />
+<a href="https://chat.whatsapp.com/invite/EXnCjRHBzy9I5ElDcjw2nH" rel="nofollow">PoSiTiVe ThInKiNg</a><br />
+<a href="https://chat.whatsapp.com/invite/Ioo1uNCQaQtIY0W22Ur40M" rel="nofollow">Desi friends</a><br />
+<a href="https://chat.whatsapp.com/invite/EDCBbOYgFszHYcmpn0i2rt" rel="nofollow">Money Earning Apps</a><br />
+<a href="https://chat.whatsapp.com/invite/FGj7GeF4APBJoh7GLoCuRz" rel="nofollow">Cash Junction</a><br />
+<a href="https://chat.whatsapp.com/invite/GVUVIv1XgpeCVL5FLLFIxc" rel="nofollow">Pocket Money </a><br />
+<a href="https://chat.whatsapp.com/invite/4XiuFmlrHQK35CJT1aU2Y7" rel="nofollow">😜Earn While You Learn: </a><br />
+<a href="https://chat.whatsapp.com/invite/C0eH1CKhUcXJbjxrFO91r2" rel="nofollow">Earn grp: </a><br />
+<a href="https://chat.whatsapp.com/invite/5tOWQMQz9Pp7kWxlqmJh0A" rel="nofollow">💰Earn your spend: </a><br />
+<a href="https://chat.whatsapp.com/invite/I7TrGSJd0Cn7nT8vDQlBbe" rel="nofollow">Earn money</a><br />
+<a href="https://chat.whatsapp.com/invite/FRspXe4D3DJA9yHHRl3Juz" rel="nofollow">Online free earn money</a><br />
+<a href="https://chat.whatsapp.com/invite/Bh8YEujrJSP3zTppyD0LZg" rel="nofollow">Click Here</a><br />
+<a href="https://chat.whatsapp.com/invite/KW7cy6MEIwIHGGBSdlUTvz" rel="nofollow">Earning money Group</a><br />
+<a href="https://chat.whatsapp.com/invite/K4QDJyPVo87AWzzwS9rGZq" rel="nofollow"> Free recharge tricks</a><br />
+<a href="https://chat.whatsapp.com/invite/CYJPl9ZBalg4qc5O6dsi9C" rel="nofollow">Way to earn bitcoin</a><br />
+<a href="https://chat.whatsapp.com/invite/Hd84cONlR60IRzkTAHl1dB" rel="nofollow">Online earn online jobs</a><br />
+<a href="https://chat.whatsapp.com/invite/7wYU7vs85TZEmdHbg9u073" rel="nofollow">Earning money</a><br />
+<a href="https://chat.whatsapp.com/invite/Fz2VNp5R9i10gQuJipXrqZ" rel="nofollow">Tech 100</a><br />
+<a href="https://chat.whatsapp.com/invite/3Da0LNGXz2y3ji4rYbpKGJ" rel="nofollow">Earn lakhs</a><br />
+<a href="https://chat.whatsapp.com/invite/LQ4GOtN3CK3IqvSe3YgUXU" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/LeiLYpiHBsiFZHhGy6VAFk" rel="nofollow">Picasa jism</a><br />
+<a href="https://chat.whatsapp.com/invite/ACqgT3GsvwQAA0ghEFYPIs" rel="nofollow">😎Earn by home 💵: </a><br />
+<a href="https://chat.whatsapp.com/invite/4wr0jMLxGQgEmcVaMeYdTi" rel="nofollow">PAYTM CASH </a><br />
+<a href="https://chat.whatsapp.com/invite/8H0GWvOGj2oL0w4lOl28sD" rel="nofollow">PayTm WhatsApp Group Link</a><br />
+<a href="https://chat.whatsapp.com/invite/Fl4VENgAI6pHipvXwKPZhA" rel="nofollow">Earn Free Paytm Cash</a><br />
+<a href="https://chat.whatsapp.com/invite/CixynvvW2nn0vMXobovRjC" rel="nofollow">👩‍💻EARN MONEY:</a><br />
+<a href="https://chat.whatsapp.com/invite/2oZudGQGcaW5k6tx4lSGVt" rel="nofollow">BTC/Earn money</a><br />
+<a href="https://chat.whatsapp.com/invite/CmYjZ6jiiva3JDuI5HhhIs" rel="nofollow">Smart earn today launch</a><br />
+<a href="https://chat.whatsapp.com/invite/L0FfGRpWfa5Aku1J2O8pN9" rel="nofollow">Earn Unlimited Money 🤑:</a><br />
+<a href="https://chat.whatsapp.com/invite/DOFj4A7QnOfBrBZTX3J6BH" rel="nofollow">Form his feet</a><br />
+<a href="https://chat.whatsapp.com/invite/HkMVn8saI5k2sOJZdBYXs9" rel="nofollow">Earn daily Rs 500 paytm</a><br />
+<a href="https://chat.whatsapp.com/invite/CXIXL0IioLOGsNAWEoKv04" rel="nofollow">Visa of any country</a><br />
+<a href="https://chat.whatsapp.com/invite/DjG31vOYrNLHQdp5dUMVON" rel="nofollow">💸💯Money Earning By OneAd:</a><br />
+<a href="https://chat.whatsapp.com/invite/Ic2aprowAsoH8YdSOVH0Bu" rel="nofollow">Earn Money On Mobile</a><br />
+<a href="https://chat.whatsapp.com/invite/4bH32k8LUgz5CRLc2UADzQ" rel="nofollow">Databuddy earning group1</a><br />
+<a href="https://chat.whatsapp.com/invite/Fiiv3nu0WdoIawImLoMpbz" rel="nofollow">Earn money by tez</a><br />
+<a href="https://chat.whatsapp.com/invite/BIvu51JWtcl8i86Ob4gnso" rel="nofollow">🎯Earn money: </a><br />
+<a href="https://chat.whatsapp.com/invite/DaON0DMgy106cBoZ3wpsvW" rel="nofollow">Click Here to Join</a><br />
+<a href="https://chat.whatsapp.com/invite/97okrdfLMC6FP5OCxotP9D" rel="nofollow">Youthoobers</a><br />
+<a href="https://chat.whatsapp.com/invite/HY77I2pGb8rKP8fvICvFW4" rel="nofollow">Social Adsense Money</a><br />
+<a href="https://chat.whatsapp.com/invite/DjF2K6qsVzTGlOewg7e6JR" rel="nofollow">Make money online</a><br />
+<a href="https://chat.whatsapp.com/invite/FDumloE2WMQ1xl3bZmPOUU" rel="nofollow">Aone Paying Since 2017</a><br />
+<a href="https://chat.whatsapp.com/invite/87eJ3woJ5TBDOnx0BfxqrA" rel="nofollow">Easy money</a><br />
+<a href="https://chat.whatsapp.com/invite/2JD0zswhU0N4GupyXGXaNE" rel="nofollow">Smart Earn</a><br />
+<a href="https://chat.whatsapp.com/invite/Fvq59hIQdCL7ttB0nm7IE4" rel="nofollow">Adult Whatsapp Groups links</a><br />
+<a href="https://chat.whatsapp.com/invite/FNOHrPz88Cp1KTz7LZssfY" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/IknZd1ZcErEDS1nHNRZCmK" rel="nofollow">REAL CASINO ERAN MONEY</a><br />
+<a href="https://chat.whatsapp.com/invite/6bkluwzqAtMEzTiSsydS8J" rel="nofollow">Paisa kamao</a><br />
+<a href="https://chat.whatsapp.com/invite/57Puw5C2JdOCJ4Kvov8x3g" rel="nofollow">CLOUD MONEY HELP: </a><br />
+<a href="https://chat.whatsapp.com/invite/FHI3GDFfsi78WbeGsVsjWe" rel="nofollow">Earn fast paytm cash</a><br />
+<a href="https://chat.whatsapp.com/invite/F6RRjueUghMC2YcPXUPe7H" rel="nofollow">Join Now</a><br />
+<a href="https://chat.whatsapp.com/invite/Klts7hh6Xpf1V2WbBe1ier" rel="nofollow">S*xual contact????????????????</a><br />
+<a href="https://chat.whatsapp.com/invite/EIxewJxT2cfLjw0NGF3K5y" rel="nofollow">Only real earning</a><br />
+<a href="https://chat.whatsapp.com/invite/4rEoJJlPx29AQ4h1kypOE2" rel="nofollow">Coolebiz team group</a><br />
+<a href="https://chat.whatsapp.com/invite/7ZkzBbY6zix4Hx1xxablXG" rel="nofollow">Bitcoin purchase</a><br />
+<a href="https://chat.whatsapp.com/invite/9zKYX5mYmyiFtonBbZONAR" rel="nofollow">Easy job earn money: </a><br />
+<a href="https://chat.whatsapp.com/invite/GZKpuOdbhT8HcbCO7egY0a" rel="nofollow">Auto Money Guru</a><br />
+<a href="https://chat.whatsapp.com/invite/0M9xd0JYPmQ5DcC8qXl0EN" rel="nofollow">Earn to end</a><br />
+<a href="https://chat.whatsapp.com/invite/4BJ0O5HSCuAJpnaKloiDNp" rel="nofollow">Member in motivated</a><br />
+<a href="https://chat.whatsapp.com/invite/Ly1QEQJMUagJORUeQsViP1" rel="nofollow">Learn and earn</a><br />
+<a href="https://chat.whatsapp.com/invite/4MJkHZentFrFkr841uhJSo" rel="nofollow">Online INCOME Group</a><br />
 
 
 A lot more WhatsApp group links for online earning is here.
