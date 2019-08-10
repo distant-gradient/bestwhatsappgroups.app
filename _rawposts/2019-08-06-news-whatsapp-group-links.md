@@ -1,18 +1,25 @@
 ---
 layout: post
-!! insert_title_with_updated_date("title:  1000+ **PUBG** WhatsApp Group Links") !!
-description: "Join and share 1000+ PUBG groups on whatsapp to discuss game strategy or find new friends and players."
+!! insert_title_with_updated_date("title:  2500+ **LATEST NEWS** WhatsApp Group Links") !!
+description: "Join and share 1000+ News groups on whatsapp to stay in touch with current affairs, politics, business and sports."
 !! insert_updated_date()
-image: assets/images/pubg-group-links-2019.jpg
-author: ab 
-tags: [ whatsapp groups, pubg, pubg tournaments, whatsapp groups join links]
-featured: true
+image: assets/images/news-group-links-2019.jpg
+author: db 
+tags: [ whatsapp groups, news, whatsapp group join links ]
+featured: false 
 hidden: false
 comments: false 
 rating: 
-summary: Hello PUBG lovers, this article has been specifically written for you. We have collected over <strong>1000+ whatsapp group links</strong> for your favourite online mobile game - <b>PUBG</b>. If you've been searching for friends to play PUBG with or a group to share and discuss PUBG strategies, your search ends with this post. So go ahead and join as many groups as you like - for <strong>free!</strong>
+summary: Do you want lastest news and affairs delivered to you directly on WhatsApp? Then this article is for you. We have collected over <strong>2500+ whatsapp group links for news and current affairs</strong> and listed them in the post below. If you've been searching for groups that will bring to you the latest news on cricket, politics, bollywood or business, look no futher. Go ahead and explore the list below and join as many groups as you like - for <strong>free!</strong> 
 
 ---
+
+
+As you all know, WhatsApp is by far the best application out there for chatting or calling. Every family member, friend and even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. It is no surprise really that hundreds of millions of Indians are hooked to WhatsApp chat app. 
+
+Even though we use WhatsApp daily for chatting with friends and family, did you know that there are thousands of WhatsApp groups on different topics. Lots of people join these groups to share and receive interesting content as well as make new friends with similar interests. 
+
+Just like there are groups for cricket, PUBG, Movies, Memes / Jokes, etc, there are groups for News and Current Affairs. You can now find and join these groups to get the latest 
 
 Looking to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? We’ve got you covered with a rich collection of fun and engaging WhatsApp group links. 
 
