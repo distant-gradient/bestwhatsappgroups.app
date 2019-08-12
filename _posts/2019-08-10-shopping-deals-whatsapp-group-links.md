@@ -2,7 +2,7 @@
 layout: post
 title:  9000+ **SHOPPING LOOT DEALS & TRICKS** WhatsApp Group Links | August 2019
 description: "Receive best deals and loot offers for shopping your favourite items from e-commerce websites as well as stores near you"
-last_modified_at: 2019-08-10
+last_modified_at: 2019-08-12
 image: assets/images/deals-whatsapp-group-links-2019.jpg
 author: ab
 tags: [ whatsapp groups, deals, shopping deals, whatsapp group join links, loot offers, loot deals, amazon, flipkart, paytm offers ]
@@ -29,60 +29,60 @@ Now that we know how shopping deal whatsapp groups can be beneficial to both buy
 
 Below you will find 7000+ whatsapp groups links which provide discount offers and loot deals for online and offline shopping in India.You can specifically shortlist groups depending on your brand or platform preferences. We would suggest that you check out all options and join as many groups as you would like to. So let's take a look at the list:
 
-<div style="display:flex; padding: 5px"><div>Paytm Deal & Loots&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Earning Tips and Tricks: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Es67c2codtX7W4hiDQ8tIO" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Junction &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Cs51k7cF45G0ODzVNSMUno" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Clearance Deal For Stock Join Now&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/JynA8qCXrO4F43z9Z17k6M" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Groups Links&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FCTbpk79D4C1Wd0PVyESME" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Redmi bookers &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/4DkhdedursL77zK8Jrlcdf" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Original Carding only: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/DBTBM699cv03Kdqk6k1NGq" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Only OTP &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0SMRbhfxmi1JpeJwKJWuFo" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Best Loot Deals&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/FtuRLRP0tIwHR5jj0FHgZS" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot WhatsApp Group&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/BDn0HJ97vy2KZh6dWlbOai" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Join Now&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Hub&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/6sGwdZpPrFnHFzUyi4ra8e" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Discount Deals&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KIPKoQe6c1OFDJItG3m2ZG" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div> Click Here to Join&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>🔴💥Loot & Deal Spot-2💥🔴&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/CdpWoKDy87pJhIWHgfPPAh" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Yaari🤑🤑🤑&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/2GSwPdTWZc0411Ttv5lwBf" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Zone🤑&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/Kbm3VbEgnQb91greMNB2SK" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Loot Deals & offers&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/LO2HPX98rkE2fIkuPI6F34" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>AndroPc- Loot,Deals,Guide: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/8X5pHM8vB2s8ItRUx6pwi5" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Daily Loot App&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/H4xvzCYZQlR7X9n5kMI4mE" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Join Now&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>COOL TRICKS: &nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/5UK68oNcXhNHH0ycDRaTAg" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>PayPal Loot 🎁 Info&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
-<div style="display:flex; padding: 5px"><div>Paytm Loot Offer&nbsp;&nbsp;&nbsp;</div><div><a href="https://chat.whatsapp.com/invite/EBBAw7TMDL0IGT8e5cxvDc" rel="nofollow"> <button class="btn btn-success"> Join Now </button></a></div></div>
+<p><span>Loot WhatsApp Group&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/BDn0HJ97vy2KZh6dWlbOai" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Online Loot Deals&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I4kluG5lo7oBkobZwPClJt" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Loot Groups Links&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FCTbpk79D4C1Wd0PVyESME" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>🔴💥Loot & Deal Spot-2💥🔴&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/CdpWoKDy87pJhIWHgfPPAh" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Hacking Masters: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/74Z9nKilIRaI0asB9UoQJm" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Online Money WhatsApp Group Link&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LIujgkzbSZrGyJdYLyuyuT" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span> Click Here to Join&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Paytm unlimited loot&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/60v6EDdVdSjGUGqB0ZAxdb" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>LOOT DEALS&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/GiEKFcHPRaHI7RgcLyoziQ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>My Loot Wala&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5AvUTe0PKgXCEJrnKi0L5o" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Paytm Deal & Loots&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Tech Darbar &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/J0JnZRVZfdkCvSrNyTEozP" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Join Now&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>AndroPc- Loot,Deals,Guide: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/8X5pHM8vB2s8ItRUx6pwi5" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Loothub4u(Deals & Loot): &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/03NQE8DzrQUBfgoOJlXb9j" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Join WhatsApp Groups&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1H5vltmv23f4MnHuOE6Xma" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Join Now&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Latest Deals & Offers&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/FvJU7IuNQ5yFgqOzXVyP91" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Online Loot Offers&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EijSbq0EeluC0PXIfiGUkH" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Clearance Deal For Stock Join Now&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/JynA8qCXrO4F43z9Z17k6M" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Daily Loot Deals&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5cs8W9kUmVTJNc39ArL7dJ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>PayPal Loot 🎁 Info&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Application Loot Script&nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/14QyUAmfIecB8VqopcrHnY" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Free Ka Maal Tricks: &nbsp;&nbsp;&nbsp;<a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/E7W8DStsvjID1jEi0gPIzS" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 
 <br />
 ## Discount Offers on Mobile
 
 If you haven't found what you're looking for yet, we have got some more options for jobs WhatsApp groups listed below. Browse and join as many as you like.
 
-PayPal Loot 🎁 Info: <a href="https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX" rel="nofollow">https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX</a><br />
-Original Carding only: : <a href="https://chat.whatsapp.com/invite/DBTBM699cv03Kdqk6k1NGq" rel="nofollow">https://chat.whatsapp.com/invite/DBTBM699cv03Kdqk6k1NGq</a><br />
-Hacking Masters: : <a href="https://chat.whatsapp.com/invite/74Z9nKilIRaI0asB9UoQJm" rel="nofollow">https://chat.whatsapp.com/invite/74Z9nKilIRaI0asB9UoQJm</a><br />
-Daily Loot Deals: <a href="https://chat.whatsapp.com/invite/5cs8W9kUmVTJNc39ArL7dJ" rel="nofollow">https://chat.whatsapp.com/invite/5cs8W9kUmVTJNc39ArL7dJ</a><br />
-COOL TRICKS: : <a href="https://chat.whatsapp.com/invite/5UK68oNcXhNHH0ycDRaTAg" rel="nofollow">https://chat.whatsapp.com/invite/5UK68oNcXhNHH0ycDRaTAg</a><br />
-Paytm Deal & Loots: <a href="https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ" rel="nofollow">https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ</a><br />
-Online Money WhatsApp Group Link: <a href="https://chat.whatsapp.com/invite/LIujgkzbSZrGyJdYLyuyuT" rel="nofollow">https://chat.whatsapp.com/invite/LIujgkzbSZrGyJdYLyuyuT</a><br />
-Paytm Loot Offer: <a href="https://chat.whatsapp.com/invite/EBBAw7TMDL0IGT8e5cxvDc" rel="nofollow">https://chat.whatsapp.com/invite/EBBAw7TMDL0IGT8e5cxvDc</a><br />
-Click Here to Join: <a href="https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR" rel="nofollow">https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR</a><br />
-Daily Loot App: <a href="https://chat.whatsapp.com/invite/H4xvzCYZQlR7X9n5kMI4mE" rel="nofollow">https://chat.whatsapp.com/invite/H4xvzCYZQlR7X9n5kMI4mE</a><br />
-Join Now: <a href="https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn" rel="nofollow">https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn</a><br />
-Free Ka Maal Tricks: : <a href="https://chat.whatsapp.com/invite/E7W8DStsvjID1jEi0gPIzS" rel="nofollow">https://chat.whatsapp.com/invite/E7W8DStsvjID1jEi0gPIzS</a><br />
-Loot Deals & offers: <a href="https://chat.whatsapp.com/invite/LO2HPX98rkE2fIkuPI6F34" rel="nofollow">https://chat.whatsapp.com/invite/LO2HPX98rkE2fIkuPI6F34</a><br />
-Discount Deals: <a href="https://chat.whatsapp.com/invite/KIPKoQe6c1OFDJItG3m2ZG" rel="nofollow">https://chat.whatsapp.com/invite/KIPKoQe6c1OFDJItG3m2ZG</a><br />
-Online Loot Deals: <a href="https://chat.whatsapp.com/invite/I4kluG5lo7oBkobZwPClJt" rel="nofollow">https://chat.whatsapp.com/invite/I4kluG5lo7oBkobZwPClJt</a><br />
-Tech Darbar : <a href="https://chat.whatsapp.com/invite/J0JnZRVZfdkCvSrNyTEozP" rel="nofollow">https://chat.whatsapp.com/invite/J0JnZRVZfdkCvSrNyTEozP</a><br />
-Latest Deals & Offers: <a href="https://chat.whatsapp.com/invite/FvJU7IuNQ5yFgqOzXVyP91" rel="nofollow">https://chat.whatsapp.com/invite/FvJU7IuNQ5yFgqOzXVyP91</a><br />
-Loot WhatsApp Group: <a href="https://chat.whatsapp.com/invite/BDn0HJ97vy2KZh6dWlbOai" rel="nofollow">https://chat.whatsapp.com/invite/BDn0HJ97vy2KZh6dWlbOai</a><br />
-Join Now: <a href="https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328" rel="nofollow">https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328</a><br />
-Earning Tips and Tricks: : <a href="https://chat.whatsapp.com/invite/Es67c2codtX7W4hiDQ8tIO" rel="nofollow">https://chat.whatsapp.com/invite/Es67c2codtX7W4hiDQ8tIO</a><br />
-Amazon Loot WhatsApp Group : <a href="https://chat.whatsapp.com/invite/K7n5BwEXKBNEZkUwxHJvlt" rel="nofollow">https://chat.whatsapp.com/invite/K7n5BwEXKBNEZkUwxHJvlt</a><br />
-Loot Junction : <a href="https://chat.whatsapp.com/invite/Cs51k7cF45G0ODzVNSMUno" rel="nofollow">https://chat.whatsapp.com/invite/Cs51k7cF45G0ODzVNSMUno</a><br />
-Best Loot Deals: <a href="https://chat.whatsapp.com/invite/FtuRLRP0tIwHR5jj0FHgZS" rel="nofollow">https://chat.whatsapp.com/invite/FtuRLRP0tIwHR5jj0FHgZS</a><br />
-Deal via admin: <a href="https://chat.whatsapp.com/invite/2F0S0DPkNBcLM6OfnDmDwj" rel="nofollow">https://chat.whatsapp.com/invite/2F0S0DPkNBcLM6OfnDmDwj</a><br />
+<div>Join Now: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/0dDsq7UDBFJ7Pag2B6k328</a></div>
+<div>Daily Loot App: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/H4xvzCYZQlR7X9n5kMI4mE" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/H4xvzCYZQlR7X9n5kMI4mE</a></div>
+<div>Amazon Loot WhatsApp Group : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/K7n5BwEXKBNEZkUwxHJvlt" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/K7n5BwEXKBNEZkUwxHJvlt</a></div>
+<div>Loot tricks and deals: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2YRjhVWJAQLHLEWu8c0CKr" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2YRjhVWJAQLHLEWu8c0CKr</a></div>
+<div>Online Loot Deals: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/I4kluG5lo7oBkobZwPClJt" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/I4kluG5lo7oBkobZwPClJt</a></div>
+<div> Click Here to Join: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/EqWgwCxzI6Y8BqoSFi4fdR</a></div>
+<div>My Loot Wala: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5AvUTe0PKgXCEJrnKi0L5o" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/5AvUTe0PKgXCEJrnKi0L5o</a></div>
+<div>Flipkart & Amazon Shopper: : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/15aQsc3evRsJ6v8D9nO6ZL" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/15aQsc3evRsJ6v8D9nO6ZL</a></div>
+<div>Hacking Masters: : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/74Z9nKilIRaI0asB9UoQJm" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/74Z9nKilIRaI0asB9UoQJm</a></div>
+<div>Join WhatsApp Groups: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/1H5vltmv23f4MnHuOE6Xma" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/1H5vltmv23f4MnHuOE6Xma</a></div>
+<div>Redmi bookers : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/4DkhdedursL77zK8Jrlcdf" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/4DkhdedursL77zK8Jrlcdf</a></div>
+<div>Paytm Deal & Loots: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/AvSYFfjG7fz8t2zueA4TLZ</a></div>
+<div>PayPal Loot 🎁 Info: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KhWRIZJ1JNf973PqBPG3CX</a></div>
+<div>Join Now: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/KibbkvAcwYK2iK8l3RHntn</a></div>
+<div>Tech Darbar : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/J0JnZRVZfdkCvSrNyTEozP" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/J0JnZRVZfdkCvSrNyTEozP</a></div>
+<div>Loot Deals & offers: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/LO2HPX98rkE2fIkuPI6F34" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/LO2HPX98rkE2fIkuPI6F34</a></div>
+<div>Ashu Bedsheets: : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/6FRSizTf7xkD1pO3jKY4af" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/6FRSizTf7xkD1pO3jKY4af</a></div>
+<div>Loot Zone🤑: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/Kbm3VbEgnQb91greMNB2SK" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/Kbm3VbEgnQb91greMNB2SK</a></div>
+<div>Daily Loot Deals: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/5cs8W9kUmVTJNc39ArL7dJ" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/5cs8W9kUmVTJNc39ArL7dJ</a></div>
+<div>Loothub4u(Deals & Loot): : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/03NQE8DzrQUBfgoOJlXb9j" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/03NQE8DzrQUBfgoOJlXb9j</a></div>
+<div>Best Deals Loots Discount: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/G9A1X5JiLNsBRs0vQ8hLlR" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/G9A1X5JiLNsBRs0vQ8hLlR</a></div>
+<div>Free Ka Maal Tricks: : <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/E7W8DStsvjID1jEi0gPIzS" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/E7W8DStsvjID1jEi0gPIzS</a></div>
+<div>Loot Yaari🤑🤑🤑: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/2GSwPdTWZc0411Ttv5lwBf" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/2GSwPdTWZc0411Ttv5lwBf</a></div>
+<div>Paytm Loot Offer: <a class="restrict-width-parent" href="https://chat.whatsapp.com/invite/EBBAw7TMDL0IGT8e5cxvDc" rel="nofollow" rel="noreferrer">https://chat.whatsapp.com/invite/EBBAw7TMDL0IGT8e5cxvDc</a></div>
 
 <br />
 
