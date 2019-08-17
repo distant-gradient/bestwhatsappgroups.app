@@ -50,6 +50,7 @@ When you join groups, it is important to be a good member of the group. Most of 
 
 So what are you waiting for? Start exploring the unlimited list of **active whatsapp groups**.
 
+<br />
 ## **PUBG** WhatsApp Group Joining Links
 
 Below is a huge list of active groups for PUBG fans and gamers. You can join as many groups as you'd like for free and then use them to discuss gaming strategies, opinions and views. You can also use these groups to find and join tournaments and try to earn some money online while also enjoying playing PUBG. So if you're passionate about PUBG and want to find similar friends, go ahead and join a few of the groups listed below.  
@@ -60,21 +61,30 @@ Below is a huge list of active groups for PUBG fans and gamers. You can join as 
 The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
 
 
+<br />
 ## **News** WhatsApp Group Links
 
 In this section, I have shared a long list of active WhatsApp group links for news, current affairs and information. Joining these groups will enable you to stay upto date with current affairs and breaking news on a daily basis. Whether you're interested in National News, Politics, International News or even news from your own city or language, simply join the right groups and you'll start receiving news directly within WhatsApp. Isn't this great?! So get started and join some news related whatsapp groups. 
 
 !! insert_group_list(["o", "news"], "News WhatsApp Group India", "link", [0,50]) 
 
+<br />
+The complete list of <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">WhatsApp groups for NEWS & CURRENT AFFAIRS is here</a>.
+
+
+
+
+<br />
 #### Politics
 
-Specifically interested staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Then join the groups focussed on politics and politicians to get all types of news, memes and information about them.
+Specifically interested in staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Then join the groups focussed on politics and politicians to get all types of news, memes and information about them.
 
 !! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,50]) 
 
 <br />
-You'll find many more News WhatsApp Groups here.
+You'll find many more <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">News & Politics WhatsApp Groups here</a>.
 
+<br />
 ## **Movies** WhatsApp Groups
 
 Fond of movies and want to find friends who like similar movies as well? Want to discuss and review the latest movies? Maybe you want to discover the best movies in any Indian language or state. Or you want to simply watch and share viral video clips and songs from famous movies. Then you must join the following whatsapp groups for movie buffs.
@@ -84,7 +94,19 @@ Fond of movies and want to find friends who like similar movies as well? Want to
 <br />
 Lots more movie whatsapp group links here.
 
+<br />
+## **Shopping and Deals** WhatsApp Group Links
 
+Are you crazy about online shopping and finding deals that save you a lot of money? If yes - then you've come to the absolute right place. Friends, for you we have collected thousands of shopping whatsapp groups that find and share the best loot and deals from all online sites such as Flipkart, Amazon, Myntra, snapdeal and all others. Join some of these groups to discover the best discounts on all products you want to buy.
+
+!! insert_group_list(["o", "shopping", "shop", "deals", "loot", "discount"], "Shopping WhatsApp Groups India", "anchor", [0,80]) 
+
+
+<br />
+You'll find many many more <a href="{{site.baseurl}}/shopping-deals-whatsapp-group-links" target="_blank">Online Shopping, Discounts, Deals, Loot WhatsApp Groups here</a>.
+
+
+<br />
 ## **Shayari** WhatsApp Groups
 
 What better than some beautiful and thoughtful shayari and ghazals delivered on WhatsApp through the day. No doubt it is really hard to find good Shayari WhatsApp Group Links on the internet. But you know what - we have searched all over the internet and found the best active WhatsApp group links for sharing shayari. 
@@ -94,17 +116,20 @@ What better than some beautiful and thoughtful shayari and ghazals delivered on 
 <br />
 If you're fond of shayari, a lot more shayari whatsapp group links are here.
 
+<br />
 ## **Online Money Making** WhatsApp Group Links (Earn Money Online)
 
 Would you like to earn money while sitting at home? You can do that easily nowadays by making money online, provided you are willing to put in effort to learn. All you have to do is identify your interest area - areas where you believe you have additional knowledge over others. Then you can start blogs, or groups or even youtube channels - all of which pays out ad money to the creator when they have lots of views and subscribers. This is not all - there are many more ways to make money online. Join some of these groups which discuss strategies to earn money online. 
 
 
-!! insert_group_list(["o", "earn", "money"], "WhatsApp Groups India", "anchor", [0,50]) 
+!! insert_group_list(["o", "earn", "money"], "Earn Money WhatsApp Groups India", "anchor", [0,50]) 
 
 
+<br />
 A lot more WhatsApp group links for online earning is here.
 
 
+<br />
 ## WhatsApp Groups Joining Links Collection
 
 I hope you all liked the huge collection of 10000+ active public WhatsApp group links. I tried to cover as many different categories and languages as I could think. Hopefully, you found and joined more than a few groups of your interest. You can always find more WhatsApp group links in different categories by going to the dedicated post for each category. 

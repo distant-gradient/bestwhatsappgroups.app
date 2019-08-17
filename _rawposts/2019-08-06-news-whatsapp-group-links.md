@@ -10,94 +10,142 @@ featured: false
 hidden: false
 comments: false 
 rating: 
-summary: Do you want lastest news and affairs delivered to you directly on WhatsApp? Then this article is for you. We have collected over <strong>2500+ whatsapp group links for news and current affairs</strong> and listed them in the post below. If you've been searching for groups that will bring to you the latest news on cricket, politics, bollywood or business, look no futher. Go ahead and explore the list below and join as many groups as you like - for <strong>free!</strong> 
+summary: Do you want lastest news and current affairs delivered to you directly on WhatsApp? Then this article is for you. We have collected over <strong>2500+ whatsapp group links for news and current affairs</strong> and listed them in the post below. If you've been searching for groups that will bring to you the latest news on cricket, politics, bollywood or business, look no further. Go ahead and explore the list below and join as many groups as you like - for <strong>free!</strong> 
 
 ---
 
 
-As you all know, WhatsApp is by far the best application out there for chatting or calling. Every family member, friend and even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. It is no surprise really that hundreds of millions of Indians are hooked to WhatsApp chat app. 
+As you all know, WhatsApp is a popular app. It has more than 1 billion downloads and is by far the best application out there for chatting or calling. Every family member, friend and even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. 
 
-Even though we use WhatsApp daily for chatting with friends and family, did you know that there are thousands of WhatsApp groups on different topics. Lots of people join these groups to share and receive interesting content as well as make new friends with similar interests. 
+While WhatsApp is popular all over the world, it is especially popular in India. Given its many great featres, it is no surprise that hundreds of millions of Indians are using WhatsApp chat app on a daily basis. 
 
-Just like there are groups for cricket, PUBG, Movies, Memes / Jokes, etc, there are groups for News and Current Affairs. You can now find and join these groups to get the latest 
+Did you know that one of whatsapp's brilliant features is groups and that there are thousands of WhatsApp groups on different topics, created and made for Indians by Indians. Lakhs of people from different cities of India are joining these groups to share and receive interesting content as well as make new friends with similar interests. 
 
-Looking to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? We’ve got you covered with a rich collection of fun and engaging WhatsApp group links. 
+Just like there are groups for cricket, <a href="{{site.baseurl}}/pubg-whatsapp-group-links" target="_blank">PUBG</a>, <a href="{{site.baseurl}}/job-alerts-whatsapp-group-links" target="_blank">Government Job Alerts</a>, <a href="{{site.baseurl}}/shopping-deals-whatsapp-group-links" target="_blank">Shopping Deals</a>, Movies, Memes / Jokes, etc, there are groups for News and Current Affairs. 
 
-WhatsApp groups are fun and popular because you get to join the conversations and help shape them by discussing and sharing what you love about a common topic of interest. 
+We have created an exhaustive list of 2500+ WhatsApp group links for latest news and current affairs. In this post, you can find and join these news groups to get the latest information from all over the country and the world.
 
-Using the links mentioned on this platform you can join any group without the permission of the group admin. What this means is that you no longer need to be added by the group admins, instead, you can directly tap the link of your favourite WhatsApp group, from the list of links given below, and be part of a community of like-minded individuals. 
+Using the links mentioned on this page, you can discover and join any news group without the prior permission of the group admin. What this means is that you no longer need to request the whatsapp group admin to add you to the group, Instead, it is very easy for you to directly tap the link of your favourite news and current affairs WhatsApp groups, from the list of group links given below, and immediately become a part of a community of people who love to read and share latest news.  
 
-Isn’t this an attractive way to make new friends? Since there are no restrictions to the number of WhatsApp groups a person can join, you can choose to join any number, as long as you find them relevant to your interests. The best part - no need for any account or login and its <strong>completely free!</strong>
-
-
-## PUBG
-
-Let’s now move along and take a look at all the WhatsApp groups that you can easily join for PUBG. Unaware of what PUBG stands for? We’ll help you out.
-
-<strong>PUBG, PlayerUnknown's Battlegrounds,</strong> is an online mobile game that has become very popular with teenagers and even adults around the world. It has quickly become one of the top games to download from the play store, and has already been downloaded by hundreds of millions of people. 
-
-For those who do not know, PUBG is a multiplayer battle game in which players are dropped onto an island, which consists of any of the <b>three maps: Erangel, Miramar and Sanhok,</b> and the player has to attempt to be the last survivor on that island. PUBG allows solo, duo as well as multiplayer gaming wherein a team of up to four players are allowed. Each game has a total of 100 players and takes no longer than 30 minutes on average. There are a number of events/rules which keep occurring during the course of the game to make it interesting. These include things such as the following:
-
--  dynamic allocation of maps, 
-- shrinkage of playable area every few minutes towards a random location, in turn increasing the chance of encounters, 
-- need for players to search buildings and other sites to find weapons, vehicles, armor etc.
-- need for combat and situational awareness for quick adaptation to the present state of the game. 
-
-The above-mentioned and many more such events make PUBG a highly engaging game. At the same time, PUBG has created an <b>enormous community of players</b>. This is why so many WhatsApp groups created for PUBG lovers and fans. Once you are a part of these whatsapp groups, you can share your own tips & tricks to help others play PUBG perfectly. At the same time, you can also become a pro player by using tricks provided by others in the group.  
-
-We wanted to help each one of you find PUBG WhatsApp groups easily so that your network can grow regardless of the level at which you currently play. Even if you are a PUBG beginner, the groups provide you a chance to ask queries regarding the game once you get started and the PUBG pros can help by responding to you quickly. 
-
-Now that we have a clear understanding regarding the ease of joining WhatsApp groups by merely clicking on links, as well as that of PUBG and what it entails, we shall finally move on to the list you have all been waiting to browse. Remember, all you need to do is click on the link and join it. As soon as you do so, you will immediately begin to enjoy the contents of the group amongst a community of people who share your interests. 
-
-Note: Once you get better, you can find PUBG tournament groups on the list and can earn money by participating in the tournaments listed on the group. We have also provided a separate list of groups for PUBG tournaments.
-
-So let’s get started. 
+Friends, isn’t this an great way to meet new people who are interested in the same sort of news as you are? And as there are no restrictions to the number of groups an individual can join, you can choose to join any number of groups, as long as you find them interesting. The best part - no need for any account or login and its <strong>completely free!</strong>
 
 
-## PUBG WhatsApp Group Rules
+## How to join WhatsApp Groups for News?
 
-Once you join these PUBG groups, it is important to be a good community member. All the members of PUBG groups are active and they talk about PUBG gameplay and other related aspects. You can also create squads and play together with members. Most importantly, remember to follow the below rules.
+Joining hundreds of whatsapp groups has never been easier. As mentioned in the sections above, all you need to do is follow a few simple steps to join open groups on whatsapp for news and information.
 
-- No Adult content (18+)
-- No Fighting
-- No Spamming
-- Only PUBG gamers allowed
-- Do not change group makeover
-- No bad words or abuse
-- Respect everyone
-- Chat and message only on PUBG related topics
-- lastly, lets Play PUBG always 🙂
+Below are the steps to follow -
+
+Listed below are thousands of whatsapp groups for news and current affairs
+- First, make sure that Whatsapp is installed in your mobile phone.
+- Scroll down in the article and choose your favorite groups from the list.
+- Then, simply click on the link. 
+- Choose "WhatsApp" from the list of apps to open. A pop-up will open with the group details like picture and name. 
+- Finally, join the group by clicking on the green "Join Group" button.
+- Note that if you do not like a group or the news content being shared on those groups, feel free to leave that group and explore other groups from the list below.
+
+
+## News WhatsApp Group Rules
+
+It is very crucial to be a good member of any WhatsApp groups that you are a part of, espectially if the groups are for serious topics like news and information. Most of the members of the groups will be nice, respectful and actively sharing news articles and videos.
+
+Make sure you follow all the rules for news whatsapp groups.
+
+- Only News readers are allowed in the groups.
+- Do not spam. And do not promote any products.
+- Do not share any personal information in the group.
+- Be respectful. Give and get respect from others members of the group.
+- Share only relevant news content. Do not share any unnecessary or irrelevant images or videos in the group.
+- Do not share ant form of promotional content such as social media links, shopping links, etc.
+- Have useful conversations. Do not chit chat in the group.
+- Do not share any religious content in the group.
+- Do not use abusive words or hurtful language or bad words in the groups.
+- Do not share adult content (18+) in the news whatsapp groups.
+- Always obey the rules of the individual groups.
+- Send only important news infomation in the group, that you think others will like. 
+- Chat and message only on topics related to the groups.
+- Do not dominate any one in the group
+- Lastly, have fun always 🙂
+
+So those were all the rules that you should keep in mind while joining whatsapp groups for news and current affairs. Now what are you waiting for - go ahead and join as many whatsapp groups as you would like and stay updated with current affairs and latest news.
+
+
+## Best WhatsApp Groups for News India 2019
+
+Reading news is a great habit. People who regularly read news are the people who can have great conversations, crack job interviews and demand respect from others around them. And one of the best way to stay up to date with the latest news is to join active whatsapp groups that share news regularly. Some of the most active groups for Indian news and politics are listed below.
+
+!! insert_group_list(["o", "news"], "News Group India", "anchor", [0,60]) !!
+
+<br />
+## Hindi News WhatsApp Groups
+
+If you prefer to follow the latest news and information Hindi, we have plenty of groups for you to select and join. Not only will you receive news and updates from all regions, districts, towns and cities in India, but also international news will be provided in Hindi. Not just that, news from popular and large Hindi newspapers and publications will also be shared on these groups.
+
+
+!! insert_group_list(["a", "hindi", "news"], "Hindi News WhatsApp Group India", "button", [0,100]) 
+
+
+## Politics WhatsApp Groups
+
+Interested in staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Or are you interested in American or European political news? In either case, join the groups focussed on politics and politicians to get all types of news, memes and information about them.
+
+!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,100]) 
+
+## Cricket News WhatsApp Group Links
+
+Are you a cricket fan and want to follow latest cricket news not just from Indian Cricket Team but also from IPL (Indian Premier League) or regional cricket teams or international cricket teams like Australia, Pakistan, or England. Then you've come to the right place since we have lots of groups for cricket news.
+
+!! insert_group_list(["a", ["o", "ipl", "cricket"], "news"], "Cricket News WhatsApp Group", "anchor", [0,100]) 
 
 
 <br />
-## PUBG Whatsapp Group Links India 
+## Tamil News WhatsApp Groups
 
-Below you will find 500+ whatsapp groups links for PUBG gamers, that you can join for free. You can use the groups in many ways. For instance, you can group chat with other members to share opinions and views on PUBG. Not just that, these groups are a great place to share PUBG videos, strategies, images and even memes. You can always share any tricks to help others play PUBG better. Not to mention, that you can also improve your own skill level by learning from other member's tricks and gameplay strategies. To get the most out of the groups, make sure you're an active participent and genuinely try and help others and be nice. If you are one of them, then go ahead and join PUBG related groups now.
+If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
-!! insert_group_list(["a", "pubg", ["n", ["o", "tournament", "tournaments", "tourney", "money", "tournament's"]]], "PUBG WhatsApp Group India", "button", [0,50]) 
 
-<br />
-## PUBG Groups on Mobile 
-
-Some more online mobile groups for PUBG on WhatsApp are listed below. Browse and join as many as you like.
-
-!! insert_group_list(["a", "pubg", ["n", ["o", "tournament", "tournaments", "tourney", "money", "tournament's"]]], "PUBG WhatsApp Group India", "link", [50,100]) 
+!! insert_group_list(["a", "tamil", "news"], "Tamil News WhatsApp Group India", "anchor", [0,100]) 
 
 <br />
-## PUBG Tournaments WhatsApp Group Links India
+## Kannada News WhatsApp Groups
 
-Playing PUBG is not only a great way to test your skill level against quality players, but its also a great way to make money online. Assuming your PUBG gameplay has improved and you are now ready to start playing tournaments in order to earn some money, look through the list below to find whatsapp groups for <b>PUBG tournaments.</b>
+If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
-!! insert_group_list(["a", "pubg", ["o", "tournament", "tournaments", "tourney", "money", "tournament's"]], "PUBG Tournaments India") !!
+
+!! insert_group_list(["a", "kannada", "news"], "Tamil News WhatsApp Group India", "button", [0,100]) 
+
 
 <br />
-## PUBG WhatsApp Groups Joining Links 
+## Bangla News WhatsApp Groups
 
-By now, you may have found the Active WhatsApp groups of your choice in the PUBG category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+If you prefer to follow the latest news and information Bengali, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in West Bengal, but also national and international news will be shared in Bengali. Not just that, news from popular Bengali newspapers and publications will also be shared on these groups.
 
-If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
-We hope that you liked and found the desired WhatsApp group links posted in the list above. If you found this post helpful, then share this post with your friends, family to help them find groups of their interest. 
+!! insert_group_list(["a", ["o", "bangla", "bengali"], "news"], "Bangla News WhatsApp Group India", "link", [0,100]) 
+
+<br />
+## Marathi News WhatsApp Groups
+
+If you prefer to follow the latest news and information in your language that is Marathi, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Maharastra, but also national and international news will be provided in your favorite language - Marathi. Not just that, news from popular Marathi newspapers and publications will also be shared on these groups.
+
+
+!! insert_group_list(["a", "marathi", "news"], "Marathi News WhatsApp Group India", "anchor", [0,100]) 
+
+
+
+
+
+<br />
+<br />
+## LATEST NEWS WhatsApp Groups Joining Links 
+
+By now, you must have found lots of active WhatsApp groups of your choice to stay updated with news, information and current affairs. I hope these groups help you reach your goals - whether it is preparing for an exam, improving your general knowledge or simply staying updated with whats happening in the country. 
+
+If you are interested in other topics such as PUBG, Jobs, Shopping, Memes, Jokes, PUBG Tournaments, Movies, Politics, etc, we have shared 10,000+ whatsapp group links for these and many other topics. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+
+If you think we should feature any whatsapp groups you or your friends are maintaining, please do share the group link by <a href="{{ site.baseurl}}/submit-whatsapp-group">submitting a new whatsapp group here</a>.
+
+We hope that you liked and found lots of WhatsApp group links for news, posted in the list above. If you found this post helpful, then do share this site with your friends, family to help them find groups of their interest. 
 
 <br />
 <br />
