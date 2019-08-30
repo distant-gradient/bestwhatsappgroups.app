@@ -51,22 +51,11 @@ When you join groups, it is important to be a good member of the group. Most of 
 So what are you waiting for? Start exploring the unlimited list of **active whatsapp groups**.
 
 <br />
-## **PUBG** WhatsApp Group Joining Links
-
-Below is a huge list of active groups for PUBG fans and gamers. You can join as many groups as you'd like for free and then use them to discuss gaming strategies, opinions and views. You can also use these groups to find and join tournaments and try to earn some money online while also enjoying playing PUBG. So if you're passionate about PUBG and want to find similar friends, go ahead and join a few of the groups listed below.  
-
-!! insert_group_list(["o", "pubg"], "PUBG Tournaments India", "anchor", [0,30]) !!
-
-<br />
-The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
-
-
-<br />
 ## **News** WhatsApp Group Links
 
 In this section, I have shared a long list of active WhatsApp group links for news, current affairs and information. Joining these groups will enable you to stay upto date with current affairs and breaking news on a daily basis. Whether you're interested in National News, Politics, International News or even news from your own city or language, simply join the right groups and you'll start receiving news directly within WhatsApp. Isn't this great?! So get started and join some news related whatsapp groups. 
 
-!! insert_group_list(["o", "news"], "News WhatsApp Group India", "link", [0,50]) 
+!! insert_group_list(["o", "news"], "News WhatsApp Group India", "link", [0,50], ['news', 'bjp']) 
 
 <br />
 The complete list of <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">WhatsApp groups for NEWS & CURRENT AFFAIRS is here</a>.
@@ -79,12 +68,24 @@ The complete list of <a href="{{site.baseurl}}/news-whatsapp-group-links" target
 
 Specifically interested in staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Then join the groups focussed on politics and politicians to get all types of news, memes and information about them.
 
-!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,50]) 
+!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,50], ['bjp']) 
 
 <br />
 You'll find many more <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">News & Politics WhatsApp Groups here</a>.
 
+
 <br />
+## **PUBG** WhatsApp Group Joining Links
+
+Below is a huge list of active groups for PUBG fans and gamers. You can join as many groups as you'd like for free and then use them to discuss gaming strategies, opinions and views. You can also use these groups to find and join tournaments and try to earn some money online while also enjoying playing PUBG. So if you're passionate about PUBG and want to find similar friends, go ahead and join a few of the groups listed below.  
+
+!! insert_group_list(["o", "pubg"], "PUBG Tournaments India", "anchor", [0,30]) !!
+
+<br />
+The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
+
+
+
 ## **Movies** WhatsApp Groups
 
 Fond of movies and want to find friends who like similar movies as well? Want to discuss and review the latest movies? Maybe you want to discover the best movies in any Indian language or state. Or you want to simply watch and share viral video clips and songs from famous movies. Then you must join the following whatsapp groups for movie buffs.
