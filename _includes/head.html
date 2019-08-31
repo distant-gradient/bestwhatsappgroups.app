@@ -111,9 +111,9 @@
     
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <script async src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+  <script> alert("Referrer here: ",document.URL) </script>
 
 </head>
-
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script>
@@ -126,4 +126,4 @@ ga('send', 'pageview');
 </script>
 {% endif %}
 
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+{%capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
