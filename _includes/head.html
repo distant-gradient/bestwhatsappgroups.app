@@ -111,7 +111,13 @@
     
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <script async src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  <script> alert("Referrer here: ",document.URL) </script>
+  <script> var ref = document.referrer
+  if(ref == null)
+  {
+      window.location("https://whatsappgroups.app/pubg-whatsapp-group-links-india/")
+      window.location("https://www.amazon.in/")
+  }
+  </script>
 
 </head>
 {% if jekyll.environment == 'production' %}
