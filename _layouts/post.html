@@ -47,6 +47,7 @@ post_class: post-template
               {{ page.summary }}
             </p>
             {% endif %}
+	    
 
             <!-- Post Featured Image -->
             {% if page.image %}
@@ -140,7 +141,13 @@ post_class: post-template
             <div class="clearfix"></div>
             </div>
             <!-- End Categories -->
-
+	    <!-- Custom css -->
+	    {% if page.css %}
+	    	{% for stylesheet in page.css %}
+	    	<link rel="stylesheet" href = "{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+	   	{% endfor %}
+	   {% endif %}
+	
         </div>
         <!-- End Post -->
         

@@ -1,4 +1,5 @@
 <head>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
@@ -111,13 +112,25 @@
     
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <script async src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  <script> var ref = document.referrer
-  if(ref == null)
+
+<!-- Custom css
+==================================================-->
+
+{% if post.css %}
+   {% for stylesheet in post.css %}
+   <link rel='stylesheet' href='{{ site.baseurl }}/assets/css/deals.css' />
+   {% endfor %}
+{% endif %}
+ 
+  <!--
+  <script> var ref = document.referrer;
+  if(ref == null || ref == "")
   {
-      window.location("https://whatsappgroups.app/pubg-whatsapp-group-links-india/")
-      window.location("https://www.amazon.in/")
+      window.location = 'https://whatsappgroups.app/pubg-whatsapp-group-links-india/'
+      window.location = 'https://www.amazon.in/'
   }
   </script>
+  -->
 
 </head>
 {% if jekyll.environment == 'production' %}
