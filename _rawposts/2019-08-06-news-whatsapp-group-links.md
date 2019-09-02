@@ -74,7 +74,7 @@ So those were all the rules that you should keep in mind while joining whatsapp 
 
 Reading news is a great habit. People who regularly read news are the people who can have great conversations, crack job interviews and demand respect from others around them. And one of the best way to stay up to date with the latest news is to join active whatsapp groups that share news regularly. Some of the most active groups for Indian news and politics are listed below.
 
-!! insert_group_list(["o", "news"], "News Group India", "anchor", [0,60]) !!
+!! insert_group_list(["o", "news"], "News Group India", "anchor", [0,60], ["news", "bjp"]) !!
 
 <br />
 ## Hindi News WhatsApp Groups
@@ -89,7 +89,7 @@ If you prefer to follow the latest news and information Hindi, we have plenty of
 
 Interested in staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Or are you interested in American or European political news? In either case, join the groups focussed on politics and politicians to get all types of news, memes and information about them.
 
-!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,100]) 
+!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,100], ["bjp"]) 
 
 ## Cricket News WhatsApp Group Links
 
