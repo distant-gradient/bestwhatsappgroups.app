@@ -147,7 +147,12 @@ post_class: post-template
 	    	<link rel="stylesheet" href = "{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
 	   	{% endfor %}
 	   {% endif %}
-	
+	    <!-- Custom js -->
+ 	   {% if page.js %}
+		{% for javascript in page.js %}
+		<script type ="text/javascript" src = "{{ site.baseurl }}/assets/js/{{ javascript }}.js"></script>
+		{% endfor %}
+	   {% endif %}
         </div>
         <!-- End Post -->
         
@@ -175,7 +180,6 @@ post_class: post-template
 {% endif %}
 <!--End Comments
 ================================================== -->
-
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->

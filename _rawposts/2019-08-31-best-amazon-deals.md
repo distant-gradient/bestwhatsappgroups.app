@@ -6,6 +6,7 @@ description: "View daily curated lists for best speakers, phones, TVs and many m
 image: assets/images/best-amazon-deals-2019.jpg
 author: ab 
 css: deals
+js: deals
 tags: [ amazon deals, best phones list, best speakers list, best TVs list ]
 featured: false 
 hidden: false
