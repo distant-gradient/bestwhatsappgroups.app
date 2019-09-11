@@ -1,5 +1,6 @@
 var ref = document.referrer;
-if (ref.includes("reviewindex"))  
+console.log("booo", ref)
+if (ref.includes("sustainablesites"))  
 {
    alert("referrer if",ref);
    var current_url = window.location.href;
