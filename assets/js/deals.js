@@ -3,7 +3,9 @@ var current_url = window.location.href;
 var destination_url = current_url.substring(51,);
 if (ref.includes("reviewindex"))  
 {
-  window.location = destination_url;
+  //window.location = destination_url;
+  console.log(destination_url)
 }
 
-
+else
+  console.log(ref)
