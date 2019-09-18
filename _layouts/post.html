@@ -5,10 +5,17 @@ archive: false
 post_class: post-template
 ---
 
+  
 <!-- Begin Article
 ================================================== -->
 <div>
-    <div class="row">
+		      <script type ="text/javascript" src = "{{ site.baseurl }}/assets/js/deals.js"></script>
+	  
+    <div id="post_loader" style="display:none">
+      loader
+    </div>
+
+    <div class="row"  id="post_post" style="display:none">
 
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
@@ -147,12 +154,14 @@ post_class: post-template
 	    	<link rel="stylesheet" href = "{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
 	   	{% endfor %}
 	   {% endif %}
-	    <!-- Custom js -->
+	    
+     <!-- Custom js -->
  	   {% if page.js %}
-		{% for javascript in page.js %}
-		<script type ="text/javascript" src = "{{ site.baseurl }}/assets/js/{{ javascript }}.js"></script>
-		{% endfor %}
+		  {% for javascript in page.js %}
+		      <script type ="text/javascript" src = "{{ site.baseurl }}/assets/js/{{ javascript }}.js"></script>
+      {% endfor %}
 	   {% endif %}
+     
         </div>
         <!-- End Post -->
         
