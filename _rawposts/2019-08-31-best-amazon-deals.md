@@ -16,10 +16,10 @@ summary: Here is a curated list of best products for all of your favourite categ
 ---
 
 ## Best Phones between Rs 5000 to 10000
+
 Most people are on the lookout for the best performing smartphones that are available at low prices. The top smartphones that offer good performance, have the capability of capturing pictures of good quality, and are still inexpensive are listed below. In these phones you will get both user-friendly interfaces and sleak designs. Additionally, these phones are reliable and sustain over a long time. You need not worry even if you haven't heard of the brand since we have created the list after doing good quality research regarding the parameters that infact matter with respect to the phone's performance and durability rather than merely mentioning well-known brands. You will surely find the best options for you in this list.
 
 <br/>
-<body class = "deals-body">
 <div class="deals-row">
   <div class="deals-column">
     <div class="deals-card">
@@ -84,6 +84,7 @@ Most people are on the lookout for the best performing smartphones that are avai
 </div>
 
 ## Best phones between Rs.10000 to 25000
+
 The list of phones mentioned below is perfect for those who want to buy a smartphone with great features at a mid-level price range. A number of mid-range smartphones, lying between Rs 10,000 and Rs 20,000  have been launched in the Indian market and newer ones keep coming in frequently. The list is regularly updated to track and list the latest smartphones in your chosen price range. Only the best mobiles under Rs 15,000 are mentioned here. In addition to the best phones in terms of specifications, we ensure that the list contains those phones which have the best deals on Amazon at that point of time. This helps you in substantially reducing the time needed to find amazon deals for phones in your preferred price range. Rest assured, all you need to do is click on 'Buy now' to purchase the desired phone at the best available price. 
 
 <div class="deals-row">
@@ -148,7 +149,6 @@ The list of phones mentioned below is perfect for those who want to buy a smartp
      </div>
   </div>
 </div>
-</body>
 <!--
 ## Best Speakers under Rs.5000
 
