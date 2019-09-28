@@ -1,7 +1,7 @@
 ---
 layout: post
 !! insert_title_with_updated_date("title:  10000+ Active WhatsApp Group Links") !!
-description: "Find and join hundreds of whatsapp groups based on your interests or submit your whatsapp groups. Groups for Jokes, Memes, Friends, Politics, Cricket, and many more."
+description: "Find and join unlimited whatsapp groups based on your interests or submit your whatsapp groups. Groups for Jokes, Memes, Friends, Politics, Cricket, and many more."
 !! insert_updated_date()
 image: assets/images/whatsapp-group-links.jpg
 author: db 
@@ -10,13 +10,13 @@ featured: true
 hidden: false
 comments: false
 rating:
-summary: "Find, join and share the best indian whatsapp group links for cricket, news, masti, friends, memes, jokes, shayari, politics, etc. We have created a public collection of <strong>10000+ active whatsapp group invite links</strong> for you to choose from. Not just that, we have hundreds of indian group link for every Indian language such as Hindi, Tamil, Bengali, Kannada, Malyalam, Marathi, etc, covering every part of India."
+summary: "Find, join and share the best indian unlimited whatsapp group links for cricket, news, masti, friends, memes, jokes, shayari, politics, etc. We have created a public collection of <strong>10000+ active whatsapp group invite links</strong> for you to choose from. Not just that, we have hundreds of indian group link for every Indian language such as Hindi, Tamil, Bengali, Kannada, Malyalam, Marathi, etc, covering every part of India."
 
 ---
 
 You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. In fact, if you run a small business, you can use the Whatsapp Business app to conduct all your customer interactions through whatsapp. Finding potential customers also has never been easier on the Whatsapp Business app. We'll tell you how.  
 
-Did you know that there are lakhs of groups on WhatsApp that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day. This provides a great opportunity, especially for Indians, since there are tons of Indian whatsapp group links out there to help connect all of us depending on our shared interests.
+Did you know that there unlimited WhatsApp groups that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day. This provides a great opportunity, especially for Indians, since there are tons of Indian whatsapp group links out there to help connect all of us depending on our shared interests.
 
 But finding such groups to join is not easy. You have to find such groups by asking your friends or looking through scattered online sources. And sometimes, once you find the invite links, the group is either full or inactive or the invite link has stopped working. So we decided to solve this problem by creating a huge public collection of active whatsapp group links, for various topics and languages, that are updated every day. Isn't that great?
 

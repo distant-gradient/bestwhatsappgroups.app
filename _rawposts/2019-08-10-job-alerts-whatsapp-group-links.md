@@ -65,7 +65,19 @@ If you haven't found what you're looking for yet, we have got some more options 
 
 <br />
 
-By now, you may have found the Active WhatsApp groups of your choice in the Jobs category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+## Business Whatsapp group links
+
+Interested in learning about business rather than job alerts? We have curated a list of business groups on whatsapp for you. Here you will find the following:
+<ul><li> Whatsapp group for export business</li>
+<li> Whatsapp group for business broadcast </li>
+<li> New business ideas whatsapp group </li>
+<li> Textile business whatsapp groups </li>
+<li> Online business whatsapp groups </li> 
+<li> MLM whatsapp group for multi-level-marketing business opportunities </li></ul>
+
+!! insert_group_list(["o", "business","mlm","import","export","textile","online business"], "Business WhatsApp Groups", "link", [0,50]) 
+
+By now, you may have found the Active WhatsApp groups of your choice in the Jobs or Business category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
 
 If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
