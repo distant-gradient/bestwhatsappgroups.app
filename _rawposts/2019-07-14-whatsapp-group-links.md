@@ -5,7 +5,7 @@ description: "Find and join hundreds of whatsapp groups based on your interests 
 !! insert_updated_date()
 image: assets/images/whatsapp-group-links.jpg
 author: db 
-tags: [ whatsapp groups, whatsapp group join links, indian whatsapp group link, india whatsapp group link, free whatsapp group link india]
+tags: [ whatsapp groups, whatsapp group join links, indian whatsapp group link, india whatsapp group link, free whatsapp group link india, whatsapp business]
 featured: true
 hidden: false
 comments: false
@@ -14,9 +14,9 @@ summary: "Find, join and share the best indian whatsapp group links for cricket,
 
 ---
 
-You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. 
+You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share and stay in touch. In fact, if you run a small business, you can use the Whatsapp Business app to conduct all your customer interactions through whatsapp. Finding potential customers also has never been easier on the Whatsapp Business app. We'll tell you how.  
 
-But did you know that there are lakhs of groups on WhatsApp that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day. This provides a great opportunity, especially for Indians, since there are tons of Indian whatsapp group links out there to help connect all of us depending on our shared interests.
+Did you know that there are lakhs of groups on WhatsApp that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day. This provides a great opportunity, especially for Indians, since there are tons of Indian whatsapp group links out there to help connect all of us depending on our shared interests.
 
 But finding such groups to join is not easy. You have to find such groups by asking your friends or looking through scattered online sources. And sometimes, once you find the invite links, the group is either full or inactive or the invite link has stopped working. So we decided to solve this problem by creating a huge public collection of active whatsapp group links, for various topics and languages, that are updated every day. Isn't that great?
 
