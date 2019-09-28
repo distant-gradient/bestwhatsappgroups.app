@@ -5,7 +5,7 @@ description: "Join and share 1000+ PUBG groups on whatsapp to discuss game strat
 !! insert_updated_date()
 image: assets/images/pubg-group-links-2019.jpg
 author: ab 
-tags: [ whatsapp groups, pubg, pubg tournaments, whatsapp groups join links]
+tags: [ whatsapp groups, pubg, pubg tournaments, whatsapp groups join links, pubg stickers for whatsapp]
 featured: true
 hidden: false
 comments: false 
@@ -87,6 +87,10 @@ Playing PUBG is not only a great way to test your skill level against quality pl
 ## PUBG WhatsApp Groups Joining Links 
 
 By now, you may have found the Active WhatsApp groups of your choice in the PUBG category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+
+## PUBG Stickers for WhatsApp
+
+In addition to groups, we realise that many of you are on the lookout for whatsapp pubg stickers. To help you create and send customized pubg stickers, we have written the steps in this post - <a href="{{site.baseurl}}/whatsapp-stickers">How to send stickers on WhatsApp Groups 2019</a>. You can go through the steps to create your own pubg stickers for whatsapp and share amongst friends.  
 
 If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
