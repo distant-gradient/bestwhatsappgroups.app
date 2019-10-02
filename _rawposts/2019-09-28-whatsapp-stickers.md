@@ -13,9 +13,11 @@ rating:
 summary: "Whatsapp stickers update is relatively new and has gained popularity amongst all users. If you're not sure about how to send stickers on whatsapp, we're here to help you out. Whatsapp stickers do really liven up personal as well as group chats and seem highly relevant to most conversations. No wonder so many people are fond of it and are actively looking to create whatsapp stickers and to share it with their friends and family. We're here to help you out with understanding how to create whatsapp stickers and how to send stickers on whatsapp so that you can share them whenever and wherever you want to. Let's go ahead and see how this can be done"
 ---
 
-Whatsapp now has stickers available with its latest version update. It's an exciting feature because it helps users communicate better using visual-aid rather than plain old text. Sticker designs are also far more impactful than emojis and we also have the option of creating personally customizable stickers. This adds to the excitement of new Whatsapp sticker feature update. However, before we look at creating custom whatsapp sticker (which can be slightly technical), we will see how to find and send stickers on whatsapp. 
+There are now Whatsapp stickers available on the latest version update of whatsapp. It's an exciting feature because it helps users communicate better using visual-aid rather than plain old text. Sticker designs are also far more impactful than emojis and we also have the option of creating personal whatsapp sticker, especially for your favourite festivities such as happy diwali whatsapp stickers, new years stickers for whatsapp, christmas stickers for whatsapp,birthday sticker for whatsapp, and other emoji stickers such as good morning stickers,bollywood stickers and funny stickers for whatsapp . This adds to the excitement of new Whatsapp sticker feature update. Interested in creating personal sticker for whatsapp? We'll help you with that too. But let's look at how to send stickers on whatsapp first. 
 
-## Steps to send Whatsapp stickers
+## How to send stickers on whatsapp?
+
+Before you begin sending stickers on whatsapp, you will need whatsapp stickers activation on your phones. Want to know how to activate whatsapp stickers? Follow the steps mentioned below:
 
 <ol>
 <li> Make sure you have the latest version of whatsapp updated on your android or iPhone. </li>
@@ -32,11 +34,10 @@ Whatsapp now has stickers available with its latest version update. It's an exci
 </ol>
 
 <br/>
-Now that we've shown you how to send whatsapp stickers to your loved ones, we would now like to talk about how you can create your own personalized whatsapp stickers, since many of you are interested in creating custom whatsapp stickers to showcase your own creativity and feel proud. 
+Now that we've shown you how to send whatsapp stickers to your loved ones, we would now like to talk about how you can create your personal whatsapp sticker, since many of you are interested in creating custom whatsapp stickers to showcase your own creativity and feel proud. 
 
-## Create custom WhatsApp Stickers
-
-To create your own stickers, the following criteria needs to be met with:
+## Create personal sticker for WhatsApp 
+To create personal whatsapp sticker, the following criteria needs to be met with:
 
 <ul><li> Each sticker must be an image with a transparent background </li>
 <li> Stickers must comply with 512x512 pixels </li>
@@ -55,7 +56,7 @@ Now that we're aware of the criteria that needs to be maintained, let's take a l
 <li> Next, download another app called <strong>Personal stickers for WhatsApp </strong> from Google Play Store 
 <ul> 2.1 When you open the app, it will automatically detect the stickers you have created </ul> 
 <ul> 2.2 Tap on the <strong> Add </strong> button displayed beside the stickers and click on Add again if prompted via a pop-up </ul></li>
-<li> <strong>You're all done! </strong> Now just open whatsApp and find your personalized stickers under the sticker section. Tap on it to send it to your groups or personal chats of your choice.</li> </ol>
+<li> <strong>You're all done! </strong> Now just open whatsApp and find your personal stickers under the sticker section. Tap on it to send it to your groups or personal chats of your choice.</li> </ol>
 
 In case you don't wish to put in the effort to either create new stickers, or constantly download new sticker apps. There are several whatsapp groups links for stickers and/or other forwards that you can join and start receiving fresh content daily. Here's the list of whatsapp groups that you can choose from
 <br/>
