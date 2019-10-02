@@ -124,8 +124,8 @@ post_class: post-template
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                    <li class="mt-2 mb-2">
+                        <a class="m-2 p-2 smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}"># {{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -161,7 +161,7 @@ post_class: post-template
         <!-- End Post -->
         
         <!-- Post Sticky -->
-        <div class="col-md-3 pl-0">
+        <div class="col-md-3 pl-1 pr-1">
             {% include sticky.html %}
         </div>
 
