@@ -29,14 +29,14 @@ Now that we know how shopping deal whatsapp groups can be beneficial to both buy
 
 Below you will find 7000+ whatsapp groups links which provide discount offers and loot deals for online and offline shopping in India.You can specifically shortlist groups depending on your brand or platform preferences. We would suggest that you check out all options and join as many groups as you would like to. So let's take a look at the list: 
 
-!! insert_group_list(["o","loot", "deal","discount","paytm offer"], "Shopping Deals WhatsApp Groups", "button", [0,50]) 
+!! insert_group_list(["o","loot", "deal","discount","paytm offer"], "Shopping Deals WhatsApp Groups", "button", [0,50], ["shopping"]) 
 
 <br />
 ## Discount Offers on Mobile 
 
 If you haven't found what you're looking for yet, we have got some more options for jobs WhatsApp groups listed below. Browse and join as many as you like.
 
-!! insert_group_list(["o","deal","loot","paytm offer","discount"], "Loot Deals WhatsApp Group", "link", [50,100]) 
+!! insert_group_list(["o","deal","loot","paytm offer","discount"], "Loot Deals WhatsApp Group", "link", [50,100], ["shopping"]) 
 
 <br />
 

@@ -54,14 +54,14 @@ It’s important to adhere to the group rules in order to maintain the usefulnes
 
 Below you will find 5000+ whatsapp groups links which provide job alerts for India as well as international locations. International locations mainly comprise Gulf jobs, Malaysia, Maldives, Africa and some more. You can specifically shortlist groups offering technical jobs if that’s what interests you. We would suggest that you check all your options and join the groups which are most likely to provide maximum benefit by sending most relevant job opportunities to you. So let's take a look at the list we have been talking about: 
 
-!! insert_group_list(["a", "jobs"], "Job Alerts WhatsApp Groups", "button", [0,50]) 
+!! insert_group_list(["a", "jobs"], "Job Alerts WhatsApp Groups", "button", [0,50], ["jobs"]) 
 
 <br />
 ## Job Alerts on Mobile 
 
 If you haven't found what you're looking for yet, we have got some more options for jobs WhatsApp groups listed below. Browse and join as many as you like.
 
-!! insert_group_list(["a", "jobs"], "Jobs WhatsApp Group", "link", [50,100]) 
+!! insert_group_list(["a", "jobs"], "Jobs WhatsApp Group", "link", [50,100], ["jobs"]) 
 
 <br />
 
