@@ -15,7 +15,7 @@
     {% endfor %}
     
     <div class="mt-2"> Recent Posts </div>
-    {% for post in site.posts offset:1 limit:5 %}
+    {% for post in site.posts offset:1 limit:4 %}
       <div class="mt-2 mb-15px">
         <div>
           <a href="{{ post.url | absolute_url }}">
