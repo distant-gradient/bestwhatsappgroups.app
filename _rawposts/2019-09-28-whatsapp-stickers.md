@@ -63,4 +63,4 @@ In case you don't wish to put in the effort to either create new stickers, or co
 
 ## Stickers Whatsapp Groups Links
 
-!! insert_group_list(["o","joke","meme","sticker","emoji","emoticon","gif"], "anchor",[0,60])
+!! insert_group_list("memes", [], "anchor",[0,60])
