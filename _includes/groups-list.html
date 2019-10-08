@@ -8,9 +8,18 @@ border-width: 1px;
 border-color:gray;
 display: none;
 }
-.form-control{
+.form-control {
 max-width: 250px;
-float: left;
+float:left;
+margin-right: 10px;
+}
+#divElement{
+padding: 10px;
+padding-left:275px;
+height: 60px;
+border: solid;
+border-width: 2px;
+border-color: green;
 }
 </style>
 
@@ -20,6 +29,7 @@ function fetch_links()
     value = document.getElementById('selectBox').value;
     var str = 'https://storage.googleapis.com/grouplist/groups/';
     var url = str.concat(value,'.json');
+    var link_click_tracking="ga('send','event',{eventCategory:'Groups List',eventAction:'Click',eventLabel:event.target.href,transport:'beacon';});"
     fetch(url)
     .then(res => res.json())
     .then((out) => {
@@ -30,14 +40,18 @@ function fetch_links()
 	{ 
            var para = document.createElement('p');
            div.appendChild(para);
-           para.innerHTML = '<a href ="'+out[i].link+'">' + out[i].name + '</a>';
+           para.innerHTML = '<a onclick="'+link_click_tracking+'"href ="'+out[i].link+'">' + out[i].name + '</a>';
 	} 
 }).catch(err => console.error(err));
+}
+function ga_tracking(href)
+{
+  
 }
 </script>
 
 <!--<script type ="text/javascript" src="../assets/js/group-search.js"><script/> -->
-<div id ="divElement">
+<div id = "divElement">
 <select id="selectBox" class="form-control">
 <option value="" hidden>Any Category</option>
 <option value="all">All</option>
