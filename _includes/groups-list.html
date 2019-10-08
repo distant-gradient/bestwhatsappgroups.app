@@ -29,7 +29,7 @@ function fetch_links()
     value = document.getElementById('selectBox').value;
     var str = 'https://storage.googleapis.com/grouplist/groups/';
     var url = str.concat(value,'.json');
-    var link_click_tracking="ga('send','event',{eventCategory:'Groups List',eventAction:'Click',eventLabel:event.target.href,transport:'beacon';});"
+    var link_click_tracking="ga('send','event',{eventCategory:'Groups List', eventAction:'Click', eventLabel:event.target.href, transport:'beacon'});"
     fetch(url)
     .then(res => res.json())
     .then((out) => {
