@@ -40,7 +40,7 @@ function fetch_links()
 	{ 
            var para = document.createElement('p');
            div.appendChild(para);
-           para.innerHTML = '<a onclick="'+link_click_tracking+'"href ="'+out[i].link+'">' + out[i].name + '</a>';
+           para.innerHTML = '<a onclick="'+link_click_tracking+'"href ="'+out[i].link+'"target="_blank">' + out[i].name + '</a>';
 	} 
 }).catch(err => console.error(err));
 }
