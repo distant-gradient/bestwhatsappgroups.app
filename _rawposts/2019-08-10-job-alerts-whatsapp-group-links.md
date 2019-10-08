@@ -54,14 +54,14 @@ It’s important to adhere to the group rules in order to maintain the usefulnes
 
 Below you will find 5000+ whatsapp groups links which provide job alerts for India as well as international locations. International locations mainly comprise Gulf jobs, Malaysia, Maldives, Africa and some more. You can specifically shortlist groups offering technical jobs if that’s what interests you. We would suggest that you check all your options and join the groups which are most likely to provide maximum benefit by sending most relevant job opportunities to you. So let's take a look at the list we have been talking about: 
 
-!! insert_group_list(["a", "jobs"], "Job Alerts WhatsApp Groups", "button", [0,50], ["jobs"]) 
+!! insert_group_list("jobs", [], "Job Alerts WhatsApp Groups", "button", [0,50]) 
 
 <br />
 ## Job Alerts on Mobile 
 
 If you haven't found what you're looking for yet, we have got some more options for jobs WhatsApp groups listed below. Browse and join as many as you like.
 
-!! insert_group_list(["a", "jobs"], "Jobs WhatsApp Group", "link", [50,100], ["jobs"]) 
+!! insert_group_list("jobs", [], "Jobs WhatsApp Group", "link", [50,100]) 
 
 <br />
 
@@ -75,7 +75,7 @@ Interested in learning about business rather than job alerts? We have curated a 
 <li> Online business whatsapp groups </li> 
 <li> MLM whatsapp group for multi-level-marketing business opportunities </li></ul>
 
-!! insert_group_list(["o", "business","mlm","import","export","textile","online business"], "Business WhatsApp Groups", "link", [0,50]) 
+!! insert_group_list("", ["o", "business","mlm","import","export","textile","online business"], "Business WhatsApp Groups", "link", [0,50]) 
 
 By now, you may have found the Active WhatsApp groups of your choice in the Jobs or Business category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
 

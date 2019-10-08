@@ -74,7 +74,7 @@ So those were all the rules that you should keep in mind while joining whatsapp 
 
 Reading news is a great habit. People who regularly read news are the people who can have great conversations, crack job interviews and demand respect from others around them. And one of the best way to stay up to date with the latest news is to join active whatsapp groups that share news regularly. Some of the most active groups for Indian news and politics are listed below.
 
-!! insert_group_list(["o", "news"], "News Group India", "anchor", [0,60], ["news", "bjp"]) !!
+!! insert_group_list("news", [], "News Group India", "anchor", [0,60]) !!
 
 <br />
 ## Hindi News WhatsApp Groups
@@ -82,20 +82,20 @@ Reading news is a great habit. People who regularly read news are the people who
 If you prefer to follow the latest news and information Hindi, we have plenty of groups for you to select and join. Not only will you receive news and updates from all regions, districts, towns and cities in India, but also international news will be provided in Hindi. Not just that, news from popular and large Hindi newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list(["a", "hindi", "news"], "Hindi News WhatsApp Group India", "button", [0,100]) 
+!! insert_group_list("", ["a", "hindi", "news"], "Hindi News WhatsApp Group India", "button", [0,100]) 
 
 
 ## Politics WhatsApp Groups
 
 Interested in staying updated with everything in Indian politics and want to get news updates about your favorite political parties like BJP, Congress or politicians such as Narendra Modi, Rahul Gandhi, Arvind Kejriwal, etc? Or are you interested in American or European political news? In either case, join the groups focussed on politics and politicians to get all types of news, memes and information about them.
 
-!! insert_group_list(["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,100], ["bjp"]) 
+!! insert_group_list("", ["o", "modi", "bjp", "congress", "gandhi", "kejriwal", "politics", "political"], "Politics WhatsApp Group India", "button", [0,100]) 
 
 ## Cricket News WhatsApp Group Links
 
 Are you a cricket fan and want to follow latest cricket news not just from Indian Cricket Team but also from IPL (Indian Premier League) or regional cricket teams or international cricket teams like Australia, Pakistan, or England. Then you've come to the right place since we have lots of groups for cricket news.
 
-!! insert_group_list(["a", ["o", "ipl", "cricket"], "news"], "Cricket News WhatsApp Group", "anchor", [0,100]) 
+!! insert_group_list("", ["a", ["o", "ipl", "cricket"], "news"], "Cricket News WhatsApp Group", "anchor", [0,100]) 
 
 
 <br />
@@ -104,7 +104,7 @@ Are you a cricket fan and want to follow latest cricket news not just from India
 If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list(["a", "tamil", "news"], "Tamil News WhatsApp Group India", "anchor", [0,100]) 
+!! insert_group_list("", ["a", "tamil", "news"], "Tamil News WhatsApp Group India", "anchor", [0,100]) 
 
 <br />
 ## Kannada News WhatsApp Groups
@@ -112,7 +112,7 @@ If you prefer to follow the latest news and information in your language that is
 If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list(["a", "kannada", "news"], "Tamil News WhatsApp Group India", "button", [0,100]) 
+!! insert_group_list("", ["a", "kannada", "news"], "Tamil News WhatsApp Group India", "button", [0,100]) 
 
 
 <br />
@@ -121,7 +121,7 @@ If you prefer to follow the latest news and information in your language that is
 If you prefer to follow the latest news and information Bengali, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in West Bengal, but also national and international news will be shared in Bengali. Not just that, news from popular Bengali newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list(["a", ["o", "bangla", "bengali"], "news"], "Bangla News WhatsApp Group India", "link", [0,100]) 
+!! insert_group_list("", ["a", ["o", "bangla", "bengali"], "news"], "Bangla News WhatsApp Group India", "link", [0,100]) 
 
 <br />
 ## Marathi News WhatsApp Groups
@@ -129,7 +129,7 @@ If you prefer to follow the latest news and information Bengali, we have plenty 
 If you prefer to follow the latest news and information in your language that is Marathi, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Maharastra, but also national and international news will be provided in your favorite language - Marathi. Not just that, news from popular Marathi newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list(["a", "marathi", "news"], "Marathi News WhatsApp Group India", "anchor", [0,100]) 
+!! insert_group_list("", ["a", "marathi", "news"], "Marathi News WhatsApp Group India", "anchor", [0,100]) 
 
 
 
