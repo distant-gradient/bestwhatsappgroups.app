@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<style>
+#links {
+max-height:500px;
+overflow: scroll;
+overflow-x:hidden;
+border-width: 1px;
+border-color:gray;
+display: none;
+}
+.form-control{
+max-width: 250px;
+float: left;
+}
+</style>
+
+<script>
+function fetch_links()
+{
+    value = document.getElementById('selectBox').value;
+    var str = 'https://storage.googleapis.com/grouplist/groups/';
+    var url = str.concat(value,'.json');
+    fetch(url)
+    .then(res => res.json())
+    .then((out) => {
+        document.getElementById('links').style.display = "block";
+        var div = document.getElementById('links');
+        div.innerHTML = ''; 
+        for (var i=0; i< out.length; i++)
+	{ 
+           var para = document.createElement('p');
+           div.appendChild(para);
+           para.innerHTML = '<a href ="'+out[i].link+'">' + out[i].name + '</a>';
+	} 
+}).catch(err => console.error(err));
+}
+</script>
+
+<!--<script type ="text/javascript" src="../assets/js/group-search.js"><script/> -->
+<div id ="divElement">
+<select id="selectBox" class="form-control">
+<option value="" hidden>Any Category</option>
+<option value="all">All</option>
+<option value="business">Business</option>
+<option value="movies">Movies</option>
+<option value="pubg">PUBG</option>
+<option value="news">News</option>
+<option value="memes">Funny Jokes & Memes</option>
+<option value="shopping">Shopping deals and discounts</option>
+<option value="shayari">Shayari</option>
+<option value="earn">Jobs/Career</option>
+</select>
+<button type="submit" class="btn btn-success" value="Find group" onclick="fetch_links()">Find group</button>
+</div>
+<div id ="links">
+</div>
