@@ -15,11 +15,6 @@ margin-right: 10px;
 }
 #divElement{
 padding: 10px;
-padding-left:275px;
-height: 60px;
-border: solid;
-border-width: 2px;
-border-color: green;
 }
 </style>
 
@@ -51,20 +46,24 @@ function ga_tracking(href)
 </script>
 
 <!--<script type ="text/javascript" src="../assets/js/group-search.js"><script/> -->
-<div id = "divElement">
-<select id="selectBox" class="form-control">
-<option value="" hidden>Any Category</option>
-<option value="all">All</option>
-<option value="business">Business</option>
-<option value="movies">Movies</option>
-<option value="pubg">PUBG</option>
-<option value="news">News</option>
-<option value="memes">Funny Jokes & Memes</option>
-<option value="shopping">Shopping deals and discounts</option>
-<option value="shayari">Shayari</option>
-<option value="earn">Jobs/Career</option>
-</select>
-<button type="submit" class="btn btn-success" value="Find group" onclick="fetch_links()">Find group</button>
+<div id = "divElement" class="listfeaturedtag" style="text-align: center">
+  <div style="display:inline-flex">
+  <select id="selectBox" class="form-control">
+    <option value="" hidden>Any Category</option>
+    <option value="all">All</option>
+    <option value="business">Business</option>
+    <option value="movies">Movies</option>
+    <option value="pubg">PUBG</option>
+    <option value="news">News</option>
+    <option value="jobs">Jobs</option>
+    <option value="cricket">Cricket</option>
+    <option value="memes">Funny Jokes & Memes</option>
+    <option value="shopping">Shopping deals and discounts</option>
+    <option value="shayari">Shayari</option>
+    <option value="earn">Jobs/Career</option>
+  </select>
+  <button type="submit" class="btn btn-success" value="Find group" onclick="fetch_links()">Find group</button>
+  </div>
 </div>
 <div id ="links">
 </div>
