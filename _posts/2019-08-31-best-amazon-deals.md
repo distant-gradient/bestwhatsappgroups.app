@@ -2,7 +2,7 @@
 layout: post
 title: UPDATED DAILY Best Amazon Deals | October 2019
 description: "View daily curated lists for best speakers, phones, TVs and many more categories offering the best deals on Amazon "
-last_modified_at: 2019-10-08
+last_modified_at: 2019-10-11
 image: assets/images/best-amazon-deals-2019.jpg
 author: ab
 css: deals
@@ -82,6 +82,8 @@ Most people are on the lookout for the best performing smartphones that are avai
 </div>
 </div>
 </div>
+
+<br />
 
 ## Best phones between Rs.10000 to 25000
 

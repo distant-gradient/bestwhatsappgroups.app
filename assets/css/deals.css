@@ -8,15 +8,15 @@
 .deals-column {
   float: left;
   padding: 10px;
+    margin-bottom: 20px;
 }
 
 /* Remove extra left and right margins, due to padding */
 .deals-row {
-width: 900px;
-height: 600px;
+  display: inline-block;
 }
 
-/* Responsive columns */
+/* Responsive columns 
 @media screen and (max-width: 600px) {
   .deals-column {
     width: 100%;
@@ -24,6 +24,7 @@ height: 600px;
     margin-bottom: 20px;
   }
 }
+*/
 
 /* Style the counter cards*/
 .deals-card {
