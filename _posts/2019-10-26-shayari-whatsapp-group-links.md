@@ -23,7 +23,7 @@ Many apps have been dedicated to this wonderful piece of art and both forgotten 
 
 In this post, we have shared several shayari group links that are available on whatsapp for anyone to join. Popular and most appreciated topics such as romantic shayari, good morning shayari, sad shayari, dosti shayari, attitude shayari, dard bhari shayari, desh bhakti shayari, shayari for teachers, and maut shayari are all listed in the list of whatsapp group links mentioned below. All you need to do is click on “Join Now” button to be part of the community of like-minded individuals. To know more about joining, you should consider the following steps.
 
-## How to join funny WhatsApp Group Links
+## How to join WhatsApp Shayari Group Links
 
 <ul>
 <li> You will find several shayari group links below. Each of them will have a ‘Join now’ button next to it. You will need to click on the button of the chosen group. This will redirect you to the next page</li>
