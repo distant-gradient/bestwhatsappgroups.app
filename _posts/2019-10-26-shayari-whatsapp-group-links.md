@@ -2,7 +2,7 @@
 layout: post
 title:  Latest **SHAYARI** WhatsApp Group Links | October 2019
 description: "Receive popular and romantic shayari directly on your whatsapp messages by joining any number of whatsapp group links shared here. Now you can receive shayari in hindi too."
-last_modified_at: 2019-10-26
+last_modified_at: 2019-10-30
 image: assets/images/shayari-whatsapp-group-link-2019.jpeg
 author: vb
 tags: [ love shayari, romantic shayari,sad shayari,good morning shayari, birthday shayari]
