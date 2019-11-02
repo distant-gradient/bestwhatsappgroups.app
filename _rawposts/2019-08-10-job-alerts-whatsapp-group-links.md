@@ -6,7 +6,7 @@ description: "Get real-time job alerts through 5000+ groups on whatsapp for govt
 image: assets/images/jobs-whatsapp-group-links.jpg
 author: ab 
 tags: [ whatsapp groups, jobs, job alerts, whatsapp group join links, gulf jobs ]
-featured: false 
+featured: true
 hidden: false
 comments: false 
 rating: 

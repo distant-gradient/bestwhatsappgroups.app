@@ -2,7 +2,7 @@
 layout: post
 title:  9000+ **SHOPPING LOOT DEALS & TRICKS** WhatsApp Group Links | November 2019
 description: "Receive best deals and loot offers for shopping your favourite items from e-commerce websites as well as stores near you"
-last_modified_at: 2019-11-01
+last_modified_at: 2019-11-02
 image: assets/images/deals-whatsapp-group-links-2019.jpg
 author: ab
 tags: [ whatsapp groups, deals, shopping deals, whatsapp group join links, loot offers, loot deals, amazon, flipkart, paytm offers ]

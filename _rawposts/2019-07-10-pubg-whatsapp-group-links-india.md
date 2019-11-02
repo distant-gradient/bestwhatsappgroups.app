@@ -67,14 +67,14 @@ Once you join these PUBG groups, it is important to be a good community member. 
 
 Below you will find 500+ whatsapp groups links for PUBG gamers, that you can join for free. You can use the groups in many ways. For instance, you can group chat with other members to share opinions and views on PUBG. Not just that, these groups are a great place to share PUBG videos, strategies, images and even memes. You can always share any tricks to help others play PUBG better. Not to mention, that you can also improve your own skill level by learning from other member's tricks and gameplay strategies. To get the most out of the groups, make sure you're an active participent and genuinely try and help others and be nice. If you are one of them, then go ahead and join PUBG related groups now.
 
-!! insert_group_list("pubg", [], "PUBG WhatsApp Group India", "button", [0,50]) 
+!! insert_group_list("pubg", [], "PUBG WhatsApp Group India", "link", [50, 100]) 
 
 <br />
 ## PUBG Groups on Mobile 
 
 Some more online mobile groups for PUBG on WhatsApp are listed below. Browse and join as many as you like.
 
-!! insert_group_list("pubg", [], "PUBG WhatsApp Group India", "link", [50, 100]) 
+!! insert_group_list("pubg", [], "PUBG WhatsApp Group India", "button", [0,50]) 
 
 <br />
 ## PUBG Tournaments WhatsApp Group Links India

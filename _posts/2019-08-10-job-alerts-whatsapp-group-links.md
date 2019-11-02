@@ -2,11 +2,11 @@
 layout: post
 title:  5000+ **LATEST JOB ALERTS ** WhatsApp Group Links | November 2019
 description: "Get real-time job alerts through 5000+ groups on whatsapp for govt jobs, gulf jobs and more"
-last_modified_at: 2019-11-01
+last_modified_at: 2019-11-02
 image: assets/images/jobs-whatsapp-group-links.jpg
 author: ab
 tags: [ whatsapp groups, jobs, job alerts, whatsapp group join links, gulf jobs ]
-featured: false
+featured: true
 hidden: false
 comments: false
 rating:

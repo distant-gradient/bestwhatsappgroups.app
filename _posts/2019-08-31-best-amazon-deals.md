@@ -2,7 +2,7 @@
 layout: post
 title: UPDATED DAILY Best Amazon Deals | November 2019
 description: "View daily curated lists for best speakers, phones, TVs and many more categories offering the best deals on Amazon "
-last_modified_at: 2019-11-01
+last_modified_at: 2019-11-02
 image: assets/images/best-amazon-deals-2019.jpg
 author: ab
 css: deals

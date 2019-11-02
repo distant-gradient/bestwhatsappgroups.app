@@ -2,7 +2,7 @@
 layout: post
 title:  2000+ **FUNNY** WhatsApp Group Links | November 2019
 description: "Receive whatsapp comedy video and messages for funny whatsapp status and tons of whatsapp jokes. Now you can receive jokes and funny status in hindi too."
-last_modified_at: 2019-11-01
+last_modified_at: 2019-11-02
 image: assets/images/funny-whatsapp-group-link-2019.jpeg
 author: ab
 tags: [ funny dp, funny whatsapp status, whatsapp comedy video, whatsapp jokes, jokes in hindi, comedy status]

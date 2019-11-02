@@ -2,7 +2,7 @@
 layout: post
 title:  2500+ **LATEST NEWS** WhatsApp Group Links | November 2019
 description: "Join and share 1000+ News groups on whatsapp to stay in touch with current affairs, politics, business and sports."
-last_modified_at: 2019-11-01
+last_modified_at: 2019-11-02
 image: assets/images/news-group-links-2019.jpg
 author: db
 tags: [ whatsapp groups, news, whatsapp group join links ]

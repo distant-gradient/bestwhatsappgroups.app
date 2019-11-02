@@ -128,6 +128,18 @@ Interested in whatsapp business group links? We've got you covered. Whether you 
 
 !! insert_group_list("business", [], "Business WhatsApp Groups India", "anchor",[0,50])
 
+## Sports Whatsapp Group Links
+
+For all the cricket and football fans out there, we have the best list of whatsapp groups. Whether you are a Virat Kohli, Dhoni, Messi or Ronaldo fan, we've got a group for each of you. There are also groups which provide latest news updates related to your favourite sport. It's the best of both worlds really. Stay updated as well as communicate with people who share your passion for sports. Let's take a look at all the sports whatsapp group links: 
+
+<h4> Cricket Whatsapp Group Links</h4>
+
+!! insert_group_list("cricket", [], "Cricket Whatsapp Groups", "button", [0,25])
+
+<h4> Football Whatsapp Group Links </h4>
+
+!! insert_group_list("", ["a","football"], "Football Whatsapp Groups", "button", [0,25])
+
 <br />
 A lot more free WhatsApp group links are available and we will keep growing our repository to keep you updated about the latest indian group links.
 

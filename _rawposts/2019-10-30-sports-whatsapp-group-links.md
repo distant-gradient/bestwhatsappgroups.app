@@ -27,14 +27,12 @@ Be it test matches, one-day internationals, 20-20 IPL matches or ICC World Cup m
 
 !! insert_group_list("cricket", ["o","ipl"] , "Cricket Whatsapp Group Links", "button", [0,20]) 
 
-<!--
 ## Football Whatsapp Group Links
 
 From the Barclays English Premiere League , to the Spanish Superliga and even including the German Bundesliga and many many other more football or soccer leagues have been catching and drawing attention of eyeballs every single day. The popular FIFA world cup is a very sought after international sporting event which draws millions of fans worldwide and engages majority of nations across the geography of the earth. So many teams , so many players , so many jerseys and so many matches. All of these packed into whatsapp bring about a love of a different sort altogether. Gaming and sporting apps supporting promotion of the same are even more popular as they entertain people big time , right from the kids to the very adults. Football Trials India and Football Goal are two very popular football whatsapp group links. Being a popular sport brings in the avenue for speculation , this has created the space for building of various football betting whatsapp group links as well. Being a football fan is almost being synonymous to also being a Christiano Ronaldo fan which is why there is this football whatsapp group link called ‘ Cr7 Whatsapp group link ‘ , which is a football whatsapp group link for the fans and followers of Christiano Ronaldo , who has played for Portugal in FIFA World Cup as well as for Manchester United in the Barclays English Premier League. List of all different kinds of football groups are give below. So let's take a look. 
 
-!! insert_group_list("football", ["o","ronaldo","messi","soccer"] ,"Football Whatsapp Group Links", "button", [0,50])
+!! insert_group_list("sports", ["a","football"] ,"Football Whatsapp Group Links", "button", [0,50])
 
--->
 <br/>
 
 Hope you found what you were looking for. In case you want to check out whatsapp groups in all other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members.
