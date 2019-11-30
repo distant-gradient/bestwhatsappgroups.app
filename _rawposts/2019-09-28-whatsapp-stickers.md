@@ -63,4 +63,6 @@ In case you don't wish to put in the effort to either create new stickers, or co
 
 ## Stickers Whatsapp Groups Links
 
-!! insert_group_list("memes", [], "anchor",[0,60])
+We know that a lot of you are interested in receiving  tamil stickers for whatsapp, kannada stickers for whatsapp, telugu stickers for whatsapp malayalam stickers for whatsapp and so on. There are several whatsapp sticker groups created for this specific reason. We didn't want you to miss out on any of these actively seeked out sticker groups. Therefore, we have listed all the whatsapp sticker group links below. You can select the ones you find interesting and join as many whatsapp group links as you like. So go on ahead and check out all the whatsapp group links. 
+ 
+!! insert_group_list("memes", ["o","tamil stickers","telugu stickers", "kannada stickers","malayalam stickers"], "anchor",[0,60])
