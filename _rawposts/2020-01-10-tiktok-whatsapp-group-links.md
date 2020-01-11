@@ -3,7 +3,7 @@ layout: post
 !! insert_title_with_updated_date("title:  Latest **TIK TOK VIDEOS** WhatsApp Group Links") !!
 description: "Explore the best tik tok whatsapp group links to receive the latest and funniest tik tok videos and popular tik tok songs"
 !! insert_updated_date()
-image: assets/images/earn-money-online-2019.jpeg
+image: assets/images/tiktok-whatsapp-group-link.jpg
 author: vb 
 tags: [ tik tok groups]
 featured: false
