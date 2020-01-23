@@ -10,7 +10,7 @@ featured: true
 hidden: false
 comments: false
 rating:
-summary: "Find, join and share the best indian unlimited whatsapp group links for cricket, news, masti, friends, memes, jokes, shayari, politics, etc. We have created a public collection of <strong>10000+ active whatsapp group invite links</strong> for you to choose from. Not just that, we have hundreds of indian group link for every Indian language such as Hindi, Tamil, Bengali, Kannada, Malyalam, Marathi, etc, covering every part of India."
+summary: "Find, join and share the best indian whatsapp group links for cricket, news, pubg, friends, memes, jokes, shayari, politics, etc. We have created a public collection of <strong>10000+ active whatsapp group invite links</strong> for you to choose from. Not just that, we have hundreds of indian group link for every Indian language such as Hindi, Tamil, Bengali, Kannada, Malyalam, Marathi, etc, covering every part of India."
 
 ---
 
@@ -18,7 +18,7 @@ You have probably already heard about and used WhatsApp. It is by far the best a
 
 Did you know that there unlimited WhatsApp groups that are created for sharing different types of interesting content like job alerts, memes, jokes, cricket alerts, and so on. Millions of people join such groups every day to get latest updates, make new friends who have similar interests or simply to stay busy with exciting new content through the day. This provides a great opportunity, especially for Indians, since there are tons of Indian whatsapp group links out there to help connect all of us depending on our shared interests.
 
-But finding such groups to join is not easy. You have to find such groups by asking your friends or looking through scattered online sources. And sometimes, once you find the invite links, the group is either full or inactive or the invite link has stopped working. So we decided to solve this problem by creating a huge public collection of active whatsapp group links, for various topics and languages, that are updated every day. Isn't that great?
+But finding such whatsapp groups to join is not easy. You have to find such the whatsapp group links by asking your friends to invite you or by extensively searching through scattered online sources. And sometimes, once you find the invite to whatsapp group links, it is either full or inactive or the invite link has stopped working. So we decided to solve this problem by creating a huge public collection of active indian whatsapp group links, for various topics and languages, that are updated every day. Isn't that great?
 
 Another thing is that in order to join groups, users earlier had to ask the admin to add them to the group. This was difficult to do. But now, whatsapp has made it very easy to join all types of groups by launching the "WhatsApp Group Invite Link" feature.
 
@@ -27,17 +27,17 @@ The "WhatsApp Groups - Invite Link" feature is very convenient for all whatsapp 
 
 ## How to join WhatsApp Groups?
 
-As I mentioned above, joining Whatsapp group via the "WhatsApp Group Invite Links" is very easy and simple. Just follow the steps below -
+As I mentioned above, joining groups via the "WhatsApp Group Invite Links" is very easy and simple. Just follow the steps below -
 
-- First, scroll down and choose your favorite groups.
-- Then, simply click on the link. It will open the group in a new browser window.
+- First, scroll down and choose your favorite new whatsapp group link.
+- Then, simply click on the whatsapp group join link. It will open the whatsapp group in a new browser window.
 - Choose "WhatsApp" from the list of apps to open. A pop-up will open with the group details like picture and name. 
 - Finally, join the group by clicking on the green "Join Group" button. 
 
 
 ## WhatsApp Group Rules
 
-When you join groups, it is important to be a good member of the group. Most of the members of groups are respectful and actively share content (like articles and videos) which are related to the group topic. Remember to follow the below rules.
+When you join whatsapp groups, it is important to be a good member of the group. Most of the members of whatsapp groups are respectful and actively share content (like articles i.e. message for whatsapp and video for whatsapp) which are related to the group topic. Remember to follow the below rules.
 
 - No Spamming
 - Respect everyone
@@ -48,9 +48,17 @@ When you join groups, it is important to be a good member of the group. Most of 
 - Chat and message only on topics related to the groups
 - Lastly, have fun always 🙂
 
-So what are you waiting for? Start exploring the unlimited list of **active whatsapp groups**.
+So what are you waiting for? Start exploring the unlimited list of **new whatsapp group links** and send message on whatsapp.
 
 <br />
+
+## Indian Whatsapp Group Links
+
+With whatsapp having become the most popular app, and with whatsapp launching the feature for anyone to share link for whatsapp groups, there have been many people searching for indian whatsapp group links in search for ideas or information such as status for whatsapp in marathi, video for whatsapp etc. This is why we decided to curate all the latest new whatsapp group link so that you have to search no further. Here you will find bollywood song groups, actor, actress or cricket star fan groups and much more. Go on ahead and check out the collection of whatsapp group links.  
+
+!! insert_group_list("", ["o","actors","actress","kohli","dhoni","ghazals","bollywood"], "Indian WhatsApp Group", "button", [0,50]) 
+
+
 ## **News** WhatsApp Group Links
 
 In this section, I have shared a long list of active WhatsApp group links for news, current affairs and information. Joining these groups will enable you to stay upto date with current affairs and breaking news on a daily basis. Whether you're interested in National News, Politics, International News or even news from your own city or language, simply join the right groups and you'll start receiving news directly within WhatsApp. Isn't this great?! So get started and join some news related whatsapp groups. 
