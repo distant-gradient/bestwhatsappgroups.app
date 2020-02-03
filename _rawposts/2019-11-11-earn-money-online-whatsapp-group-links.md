@@ -45,7 +45,13 @@ Below is the list of links which provide ways to earn passive income. By joining
 
 !! insert_group_list("",["o","online","earn"],"Earn Money Online WhatsApp Groups", "button", [0,50]) 
 
-In case you are looking for full-time jobs instead of passive income ideas, you can visit our blog onjob opportunities - <a href= "{{site.baseurl}}/job-alerts-whatsapp-group-links/">Job Alerts Whatsapp Group Links </a>
+Interested in learning about full-time jobs instead? Go through the following list of whatsapp groups
+
+## Whatsapp group link for job seekers
+
+!! insert_group_list("jobs",[],"Jobs WhatsApp Groups", "button", [0,15]) 
+
+You can also visit our detailed post on job opportunities here - <a href= "{{site.baseurl}}/job-alerts-whatsapp-group-links/">Job Alerts Whatsapp Group Links </a>
 
 
 <br/>
