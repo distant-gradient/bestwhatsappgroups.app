@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 500+ Regional Groups - Whatsapp for India | February 2020
+title: 500+ Regional Groups - Whatsapp for India | March 2020
 description: "Find all the whatsapp groups whether you are from Maharashtra, Bihar, Rajasthan or Kerala. We have list of all the regional groups so that you can find the ones relevant to you."
-last_modified_at: 2020-02-22
+last_modified_at: 2020-03-23
 image: assets/images/asia-pacific-groups.jpg
 author: vb
 tags: [regional groups, asia pacific groups]
@@ -23,6 +23,7 @@ There are thousands of ways in which whatsapp groups are being used in India, in
 
 Marathis have a pretty good population in India and are concentrated in states like Maharashtra and Goa. In general, marathis are known to enjoy meet ups with "maharastra friends" in certain niches for community interactions etc. In addition to this, topic such as  maharashtra news whatsapp group links are actively seeked out by a lot of marathis. For these reasons, below is a list of relevant groups that can be looked into:
 
+<a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" /></a>
 <p><span>Mumbai Satta Kalyan&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/JnjBQdDwCzZB3oD53xqPXm" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>Mumbai Aunties&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/9FKKnl43YqV2cieDMf9dMp" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>🏏Mumbai Indians IPL: &nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/3CK3jihqFR7I9PTueKvuaC" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
@@ -36,6 +37,7 @@ Marathis have a pretty good population in India and are concentrated in states l
 ## Tamil Whatsapp Group Link
 
 Tamilians love to share and enjoy content in their mother tongue. In fact, they also enjoy putting up tamil status for whatsapp. Being one of the most widely spoken languages in Southern India has helped tamil whatsapp groups gain tremendous popularity. Hence, we decided to list some of the most popular tamil whatsapp groups so that you can join the ones of your choice and be part of one of the most active Indian communities out there. So go on ahead and check out the whatsapp groups list.
+<a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" /></a>
 <p><span>Tamil Whatsapp Group Links&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/GCHX0XhMVc9LKSbUSbWCWZ" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>சேலம் மாவட்ட இளைஞர்கள்&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/FgZ26wzC13931EG0nSu1sK" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>Matrimonial Tamil&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/ILQbnlElBwQJDiJe9MHj5N" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
@@ -111,6 +113,7 @@ Tamilians love to share and enjoy content in their mother tongue. In fact, they 
 
 Kerala is a state dominated by Malayalis, who are supremely creative, fond of art and music. They can be considered creators of good quality content. This is why malayalam whatsapp group links are famous and creative status for whatsapp in malayalam has become an important search item for these creators from Kerala. Most whatsapp group links malayalam  help in generating a sense of togetherness between people of the same identity who enjoy similar creative content. In fact, there are several kerela lottery whatsapp groups too, because malayalis enjoy betting on lotteries. So let's check out some of the interesting kerala whatsapp group links.
 
+<a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" /></a>
 <p><span>Malayalam fun poetry&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/H2dkqvdnUVLJXngphyKlCq" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>Kovalam&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/CtHehP5PhgKIpi98fIfQmT" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>Thiruvananthapuram&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/Hc3iKzdiPqpE5t1Dxu73jW" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
@@ -155,6 +158,7 @@ Kerala is a state dominated by Malayalis, who are supremely creative, fond of ar
 Bhojpuri is one of the most entertaining languages across the country. So much so, that not only Biharis, but all Indians are interested in bhojpuri gana, bhojpuri video, film bhojpuri etc. Biharis in general are inclined towards civil services related bihar news. Therefore, bihar board whatsapp group link and bihar news whatsapp group link are more popular categories. Let's check out the list for more.
 
 
+<a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_2.png" /></a>
 <p><span>Bhojpuri Videos&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/JvxCg7C8OiOCPYlA3z1fGd" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 
 Hope you people liked the community groups mentioned in the list. In case you want to suggest some more community based whatsapp groups that we may have missed out, please let us know by visiting <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group name here</a>.  Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members.

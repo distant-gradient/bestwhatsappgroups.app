@@ -44,15 +44,19 @@ India was safe from the virus for a while, however, the number of cases tested p
 
 Maharashtra has the most number of reported cases, and stands at 31, as of today. Risk of viral infected spread is potentially higher since Mumbai and Pune are 2 of the concentrated cities in Maharashtra. Important for the residents of Maharashtra to carry around sanitizers and avoid personal contact with people as much as possible. For daily updates on the situation in Maharashtra, join the following group links. 
 
+Group Links Coming Soon!!
 
 ## Coronavirus updates - Kerala 
 
 Kerala was the first state to report coronavirus cases in India, and stands at the count of 22 as of today. Some reported cases had recoveries as well. To get the latest news on Kerala coronavirus cases, check out the following group links. 
 
+Group Links Coming Soon!!
+
 ## Other states
 
 Telangana, Delhi, Uttarakhand, Rajasthan, Goa and Himachal Pradesh along with Maharashtra and Karnatake, have shut down schools, colleges and other public places such as malls, PVRs and so on, which could become centres of viral infection transfer of such a contagious virus. To receive latest information of actions taken by state governments, join the following groups.
 
+Group Links Coming Soon!!
 
 Hope you people realize the criticality of the situation and start taking the correct steps towards slowing down spread of the deadly coronavirus. Let's try to stay healthy by working towards building a stronger and supportive community than ever before. 
 Be well all! 
