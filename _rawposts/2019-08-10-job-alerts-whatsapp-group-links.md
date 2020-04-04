@@ -80,6 +80,38 @@ So let's take a look at all the business whatsapp group links below:
 
 We hope that you have found the WhatsApp group link of your choice in the Jobs or Business category. If you are interested in finding more WhatsApp groups in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
 
+<h4>Frequently Asked Questions (FAQs)</h4>
+<div>
+<div>
+<p> Q. How do I join any WhatsApp group? </p>
+<span></span>
+</div>
+<div>
+<p>All Whatsapp groups listed in this post are related to job alerts and are very easy to join. That's because these are all open whatsapp groups, with invitation links as mentioned above. All you need to do is click on the link and join the group. As long as the group is not full, you are free to join as many groups as you like. However, you need to first have Whatsapp installed on your phone. In case you don't have it, find the play store link <a href ="https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN">here.</a></p>
+</div>
+<div>
+<p> Q. What type of job alerts can you get via WhatsApp groups? </p>
+<span></span>
+</div>
+<div>
+<p>You will be able to find job alerts for both fresh graduates and experienced candidates. You can also find a lot of freelance job alerts on these jobs whatsapp group links and receive the latest job notifications.</p>
+</div>
+<div>
+<p> Q. How is this better than other platforms? </p>
+<span></span>
+</div>
+<div>
+<p>Through whatsapp groups, you can get real-time job alerts and notifications, which will help you not miss any critical or unique opportunity. Other platforms are not very accessible when it comes to this.</p>
+</div>
+<div>
+<p> Q. Can we get latest job notifications?</p>
+<span></span>
+</div>
+<div>
+<p>Yes. The latest and verified job opportunites are posted by credible group owners in these whatsapp group links.</p>
+</div>
+</div>
+
 If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
 We hope that you liked and found the desired WhatsApp group links posted in the list above. If you found this post helpful, then share this post with your friends, family to help them find groups of their interest. 

@@ -97,7 +97,23 @@ In addition to groups, we realise that many of you are on the lookout for whatsa
 
 If you want to suggest any groups that we should add to this list, do share the group link in the comments section below and we'll immediately add it to this list. Or you can <a href="{{ site.baseurl}}/submit-whatsapp-group">submit a new whatsapp group here</a>.
 
+<h4> Frequently Asked Questions (FAQs) </h4>
+<div>
+<div>
+<p> Q. Why should you join pubg whatsapp groups? </p>
+<span></span>
+</div>
+<div>
+<p>If you regularly play pubg, then you can surely benefit by joining a community of pubg players on whatsapp. You will get a chance to not only make new friends who share similar interests, but you can also get tips on how to improve your game, and begin competing in tournaments. These reasons have made pubg whatsapp groups very popular</p>
+</div>
+<div>
+<p> Q. What are pubg tournament whatsapp groups? </p>
+<span></span>
+</div>
+<div>
+<p> For pubg players who want to compete, there are many tournaments where players can participate and win exciting prizes. Pubg tournament whatsapp groups helps players stay updated on the latest tournament dates and other details, so that players can register on time and play to win.</p>
+</div>
+<br/>
 We hope that you liked and found the desired WhatsApp group links posted in the list above. If you found this post helpful, then share this post with your friends, family to help them find groups of their interest. 
 
-<br />
-<br />
+<br/>
