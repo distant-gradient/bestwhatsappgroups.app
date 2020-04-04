@@ -151,6 +151,22 @@ For all the cricket and football fans out there, we have the best list of whatsa
 <br />
 A lot more free WhatsApp group links are available and we will keep growing our repository to keep you updated about the latest indian group links.
 
+<h4> Frequently Asked Questions (FAQs) </h4>
+<div>
+<div>
+<p> Q. Why should you join whatsapp groups?</p>
+</div>
+<div>
+<p> Whatsapp groups have made it easy for people with similar interests to build online communities and help each other out with doubts, queries or opportunities. In many cases, it is even used purely for entertainment purposes. Whatsapp groups are easy to join and help individuals feel more connected with each other.</p>
+</div>
+<div>
+<p> Q. How can I join whatsapp groups and be part of a community? </p> 
+</div>
+<div>
+<p> It's super quick and easy. If you already have whatsapp installed on your phone, just click on any of the links provided above, and press join. As long as the group has not reached its total capacity, you can join as many whatsapp groups, and that too for FREE!!</p>
+</div>
+</div>
+
 
 <br />
 ## WhatsApp Groups Joining Links Collection
