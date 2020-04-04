@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to send stickers on WhatsApp Groups | February 2020
+title: How to send stickers on WhatsApp Groups | April 2020
 description: ""
-last_modified_at: 2020-02-16
+last_modified_at: 2020-04-04
 image: assets/images/whatsapp-stickers-2019.jpeg
 author: ab
 tags: [stickers in whatsapp, whatsapp stickers update, how to send whatsapp stickers]

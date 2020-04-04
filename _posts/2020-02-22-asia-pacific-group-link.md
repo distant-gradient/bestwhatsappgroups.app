@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 500+ Regional Groups - Whatsapp for India | February 2020
+title: 500+ Regional Groups - Whatsapp for India | April 2020
 description: "Find all the whatsapp groups whether you are from Maharashtra, Bihar, Rajasthan or Kerala. We have list of all the regional groups so that you can find the ones relevant to you."
-last_modified_at: 2020-02-22
+last_modified_at: 2020-04-04
 image: assets/images/asia-pacific-groups.jpg
 author: vb
 tags: [regional groups, asia pacific groups]
