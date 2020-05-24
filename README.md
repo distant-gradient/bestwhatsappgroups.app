@@ -20,7 +20,7 @@ git push -u origin master
 
 ## Pull upstream changes
 """
-git pull upstream master
+git pull upstream master --allow-unrelated-histories
 git commit -a -m "merge with upstream"
 git push -u origin master
 """
