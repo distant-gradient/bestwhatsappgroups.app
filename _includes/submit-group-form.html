@@ -1,0 +1,44 @@
+<form action="" id="group-form" method="POST">    
+  <p class="mb-4">Please submit your Group Link. We will add it to our lists as soon as possible!</p>
+  <div class="form-group row">
+    <div class="col-md-6 mb-3">
+      <input class="form-control" type="text" name="group-name" id="group-name" placeholder="Group Name*" required>
+    </div>
+    <div class="col-md-6 mb-3">
+      <input class="form-control" type="text" name="group-category" id="group-category" placeholder="Group Category*" required>
+    </div>
+  </div>
+  <textarea rows="3" class="form-control mb-3" name="group-link" id="group-link" placeholder="Group Link*" required></textarea>    
+  <button class="btn btn-success" type="submit" value="Submit">Submit</button>
+  <br />
+  <br />
+  <div id="group-response" class="alert alert-success" style="display:none">
+    <strong>Success!!</strong> Thank you for submitting the group.
+  </div>
+</form>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<script>
+  document.getElementById('group-form').addEventListener('submit', function(e) {
+    e.preventDefault(); //to prevent form submission
+    var groupName = document.getElementById('group-name').value
+    var groupCategory = document.getElementById('group-category').value
+    var groupLink = document.getElementById('group-link').value
+    var url = `https://docs.google.com/forms/d/e/1FAIpQLScWwwPq5zOokclj_A5PxnjKpeu4kLTaYZer7H4OarenXKjsCw/formResponse?usp=pp_url&entry.2020449633=${groupName}&entry.1937592050=${groupCategory}&entry.192698775=${groupLink}&submit=Submit` 
+    fetch(url) 
+      .then(data => console.log(data)) 
+      .then(res => document.getElementById("group-response").style.display = "block")
+    document.getElementById("group-response").style.display = "block"
+
+    // set values to null
+    document.getElementById('group-name').value = ''
+    document.getElementById('group-category').value = ''
+    document.getElementById('group-link').value = ''
+  })
+</script>
+
+

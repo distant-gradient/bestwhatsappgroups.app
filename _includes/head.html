@@ -1,0 +1,133 @@
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+
+  <!-- title -->
+  <title>
+    {% if page.title %}
+       {{ page.title }}
+    {% else %}
+       {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- description -->
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" / >
+
+  <!-- canonical -->
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  
+  <!-- open graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:locale" content="{{ page.locale | default: site.locale | default: "en_US" }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  {% if page.layout == 'post' %}
+    <meta property="og:type" content="article">
+    {% if site.facebook.publisher %}
+      <meta property="article:publisher" content="{{ site.facebook.publisher }}" />
+    {% endif %}
+    <meta property="article:author" content="{{ site.authors[page.author].name }}" />
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+    {% if page.last_modified_at %}
+      <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
+    {% endif %}
+    {% if page.categories %}
+      {% for category in page.categories limit:1 %}
+      <meta property="article:section" content="{{ category }}">
+      {% endfor %}
+    {% endif %}
+    {% if page.tags %}
+      {% for tag in page.tags %}
+      <meta property="article:tag" content="{{ tag }}">
+      {% endfor %}
+    {% endif %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
+    {% if page.image.height %}
+      <meta property="og:image:height" content="{{ page.image.height }}" />
+    {% endif %}
+    {% if page.image.width %}
+      <meta property="og:image:width" content="{{ page.image.width }}" />
+    {% endif %}
+  {% else %}
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{ site.url }}/{{ site.title_image.location }}" />
+    <meta property="og:image:width" content="{{ site.title_image.width }}" />
+    <meta property="og:image:height" content="{{ site.title_image.height }}" />
+  {% endif %}
+  <!-- end of open graph tags -->
+
+  <!-- facebook -->
+  {% if site.facebook %}
+    {% if site.facebook.admins %}
+      <meta property="fb:admins" content="{{ site.facebook.admins }}" />
+    {% endif %}
+
+    {% if site.facebook.app_id %}
+      <meta property="fb:app_id" content="{{ site.facebook.app_id }}" />
+    {% endif %}
+  {% endif %}
+  <!-- end of facebook -->
+
+  <!-- Twitter cards -->
+  {% if site.twitter %}
+    <meta name="twitter:site"    content="@{{ site.twitter.username }}">
+  {% endif %}
+  {% if page.author.twitter %}
+    <meta name="twitter:creator" content="@{{ page.author.twitter }}">
+  {% endif %}
+  <meta name="twitter:title"   content="{{ page.title }}">
+  
+  {% if page.summary %}
+    <meta name="twitter:description" content="{{ page.summary }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+  
+  {% if page.image %}
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
+  {% else %}
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.title_image.location }}">
+  {% endif %}
+  <!-- end of Twitter cards -->
+
+  <!-- pagination tags -->
+  {% if paginator.previous_page %}
+    <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />
+  {% endif %}
+  {% if paginator.next_page %}
+    <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
+  {% endif %}
+  <!-- end of pagination tags -->
+
+  <!-- google json-ld -->
+  <!-- added directly in _layout/post -->
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+  <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+ 
+  {% if page.redirect == true %}
+    <script type ="text/javascript" src = "{{ site.baseurl }}/assets/js/deals.js"></script>
+  {% endif %}
+
+  <script async src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+</head>
+{% if jekyll.environment == 'production' %}
+<!-- change your GA id in _config.yml -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{site.google_analytics}}', 'auto');
+ga('send', 'pageview');
+</script>
+{% endif %}
+
+{%capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}

@@ -1,0 +1,5 @@
+{% if page.last_modified_at %}
+  {{ page.last_modified_at | date: "%B %Y" }}
+{% else %}
+  {{ page.date | date: "%B %Y" }}
+{% endif %}

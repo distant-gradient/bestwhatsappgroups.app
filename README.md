@@ -24,4 +24,3 @@ git pull upstream master
 git commit -a -m "merge with upstream"
 git push -u origin master
 """
-
