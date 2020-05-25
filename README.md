@@ -27,3 +27,12 @@ git pull upstream master --allow-unrelated-histories
 git commit -a -m "merge with upstream"
 git push -u origin master
 ```
+
+## Run
+
+```
+rm Gemfile.lock (if required)
+bundle
+jekyll serve
+
+```
