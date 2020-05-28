@@ -1,0 +1,737 @@
+I"îs
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">WhatsApp Groups</h1>
+    <p class="lead">
+        Join and share 10000+ whatsapp groups for Shayari, Masti, Jobs, Friends, News, BJP, Cricket and many more.
+    </p>
+</div>
+
+<div style="align:center">
+    &lt;!DOCTYPE html&gt;
+<style>
+#links {
+max-height:500px;
+overflow: scroll;
+overflow-x:hidden;
+border-width: 1px;
+border-color:gray;
+display: none;
+}
+.form-control {
+max-width: 250px;
+float:left;
+margin-right: 10px;
+}
+#divElement{
+  padding: 10px;
+  text-align:center;
+  margin: 10px 0;
+}
+</style>
+
+<script>
+function fetch_links()
+{
+    value = document.getElementById('selectBox').value;
+    var str = 'https://storage.googleapis.com/grouplist/groups/';
+    var url = str.concat(value,'.json');
+    var link_click_tracking="ga('send','event',{eventCategory:'Groups List', eventAction:'Click', eventLabel:event.target.href, transport:'beacon'});"
+    fetch(url)
+    .then(res => res.json())
+    .then((out) => {
+        document.getElementById('links').style.display = "block";
+        var div = document.getElementById('links');
+        div.innerHTML = ''; 
+        for (var i=0; i< out.length; i++)
+	{ 
+           var para = document.createElement('p');
+           div.appendChild(para);
+           para.innerHTML = '<a onclick="'+link_click_tracking+'"href ="'+out[i].link+'"target="_blank">' + out[i].name + '</a>';
+	} 
+}).catch(err => console.error(err));
+}
+function ga_tracking(href)
+{
+  
+}
+</script>
+
+<!--<script type ="text/javascript" src="../assets/js/group-search.js"><script/> -->
+<div id="divElement" class="listfeaturedtag">
+  <div style="display:inline-flex">
+  <select id="selectBox" class="form-control">
+    <option value="" hidden="">Any Category</option>
+    <option value="all">All</option>
+    <option value="business">Business</option>
+    <option value="movies">Movies</option>
+    <option value="pubg">PUBG</option>
+    <option value="news">News</option>
+    <option value="jobs">Jobs</option>
+    <option value="cricket">Cricket</option>
+    <option value="memes">Funny Jokes &amp; Memes</option>
+    <option value="shopping">Shopping deals and discounts</option>
+    <option value="shayari">Shayari</option>
+    <option value="earn">Jobs/Career</option>
+  </select>
+  <button type="submit" class="btn btn-success" value="Find group" onclick="fetch_links()">Find group</button>
+  </div>
+</div>
+<div id="links">
+</div>
+
+</div>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            
+            <!-- image section -->
+            
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="http://localhost:4000/funny-jokes-whatsapp-group-links/">
+                            
+                            <img class="featured-box-img-cover" src="http://localhost:4000/assets/images/funny-whatsapp-group-link-2019.jpeg" alt="2000+ **FUNNY** WhatsApp Group Links | April 2020" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+
+            <!-- title, desc section -->
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="http://localhost:4000/funny-jokes-whatsapp-group-links/">2000+ **FUNNY** WhatsApp Group Links | April 2020</a>
+                                
+                            </h2>
+
+                            
+                            <h4 class="card-text">Nowadays, funny jokes can play a critical role in our lives since every person has become so busy that people can hardly take some time out to just sit back, relax and enjoy. Long work hours and high pressure environment...</h4>
+                            
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="meta-footer-thumb">
+                                
+                                <img class="author-thumb" src="/assets/images/profile-3.png" alt="AB" />
+                                
+                                </span>
+                                <span class="author-meta">
+                                <span class="post-name"><a target="_blank" href="">AB</a></span><br />
+                                
+                                
+                                
+  <span class="post-date">04 Apr 2020</span>
+
+ 
+
+
+                                </span>
+                                <span class="post-read-more"><a href="http://localhost:4000/funny-jokes-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            
+            <!-- image section -->
+            
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="http://localhost:4000/job-alerts-whatsapp-group-links/">
+                            
+                            <img class="featured-box-img-cover" src="http://localhost:4000/assets/images/jobs-whatsapp-group-links.jpg" alt="5000+ **LATEST JOB ALERTS ** WhatsApp Group Links | April 2020" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+
+            <!-- title, desc section -->
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="http://localhost:4000/job-alerts-whatsapp-group-links/">5000+ **LATEST JOB ALERTS ** WhatsApp Group Links | April 2020</a>
+                                
+                            </h2>
+
+                            
+                            <h4 class="card-text">It is no surprise that hundreds of millions of Indians are hooked to WhatsApp. Even though we use WhatsApp daily for chatting with friends and family, did you know that there are thousands of WhatsApp groups on different topics. Lots...</h4>
+                            
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="meta-footer-thumb">
+                                
+                                <img class="author-thumb" src="/assets/images/profile-3.png" alt="AB" />
+                                
+                                </span>
+                                <span class="author-meta">
+                                <span class="post-name"><a target="_blank" href="">AB</a></span><br />
+                                
+                                
+                                
+  <span class="post-date">04 Apr 2020</span>
+
+ 
+
+
+                                </span>
+                                <span class="post-read-more"><a href="http://localhost:4000/job-alerts-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+    
+        
+    
+        
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            
+            <!-- image section -->
+            
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="http://localhost:4000/whatsapp-group-links/">
+                            
+                            <img class="featured-box-img-cover" src="http://localhost:4000/assets/images/whatsapp-group-links.jpg" alt="10000+ Active WhatsApp Group Links | April 2020" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+
+            <!-- title, desc section -->
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="http://localhost:4000/whatsapp-group-links/">10000+ Active WhatsApp Group Links | April 2020</a>
+                                
+                            </h2>
+
+                            
+                            <h4 class="card-text">You have probably already heard about and used WhatsApp. It is by far the best app for chatting or calling. Every friend, family member or even office colleagues have their personal groups on Whatsapp so that they can talk, share...</h4>
+                            
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="meta-footer-thumb">
+                                
+                                <img class="author-thumb" src="/assets/images/profile-3.png" alt="DB" />
+                                
+                                </span>
+                                <span class="author-meta">
+                                <span class="post-name"><a target="_blank" href="">DB</a></span><br />
+                                
+                                
+                                
+  <span class="post-date">04 Apr 2020</span>
+
+ 
+
+
+                                </span>
+                                <span class="post-read-more"><a href="http://localhost:4000/whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+    
+        
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            
+            <!-- image section -->
+            
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="http://localhost:4000/pubg-whatsapp-group-links-india/">
+                            
+                            <img class="featured-box-img-cover" src="http://localhost:4000/assets/images/pubg-group-links-2019.jpg" alt="1000+ **PUBG** WhatsApp Group Links | April 2020" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+
+            <!-- title, desc section -->
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="http://localhost:4000/pubg-whatsapp-group-links-india/">1000+ **PUBG** WhatsApp Group Links | April 2020</a>
+                                
+                            </h2>
+
+                            
+                            <h4 class="card-text">Looking to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? Weâ€™ve got you covered with a rich collection of fun and engaging WhatsApp group links.
+</h4>
+                            
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="meta-footer-thumb">
+                                
+                                <img class="author-thumb" src="/assets/images/profile-3.png" alt="AB" />
+                                
+                                </span>
+                                <span class="author-meta">
+                                <span class="post-name"><a target="_blank" href="">AB</a></span><br />
+                                
+                                
+                                
+  <span class="post-date">04 Apr 2020</span>
+
+ 
+
+
+                                </span>
+                                <span class="post-read-more"><a href="http://localhost:4000/pubg-whatsapp-group-links-india/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+    
+
+    </div>
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+        <h2><span>All Posts</span></h2>
+    </div>
+
+    <div class="row listrecent">
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/corona-virus-whatsapp-group-links/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/corona-virus-2020.jpeg" alt="Corona Virus Whatsapp Groups - Updates for Indian state | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/corona-virus-whatsapp-group-links/">Corona Virus Whatsapp Groups - Updates for Indian state | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">We want to provide whatsapp group links relevant to corona virus, so that you can all receive credible updates about the number of coronavirus cases, and take the necessary precautionary...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="AB" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">AB</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/corona-virus-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/asia-pacific-group-link/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/asia-pacific-groups.jpg" alt="500+ Regional Groups - Whatsapp for India | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/asia-pacific-group-link/">500+ Regional Groups - Whatsapp for India | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Whatsapp for India is like a whole other revolution of its own. This is because Indians use whatsapp in many creative ways. Some use it to run their businesses or...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="VB" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">VB</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/asia-pacific-group-link/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/whatsapp-group-names/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/whatsapp-group-names-2020.jpg" alt="Best WhatsApp Group Names | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/whatsapp-group-names/">Best WhatsApp Group Names | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Before we check out the whatsapp group names for family or friends group names, it is important to understand the reason why Whatsapp app has gained so much popularity and...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="VB" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">VB</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/whatsapp-group-names/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/tiktok-whatsapp-group-links/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/tiktok-whatsapp-group-link.jpg" alt="Latest **TIK TOK VIDEOS** WhatsApp Group Links | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/tiktok-whatsapp-group-links/">Latest **TIK TOK VIDEOS** WhatsApp Group Links | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Did you know that there are hundreds of tik tok whatsapp groups out there to help with accessing latest edited videos and songs which are relevant to tik tok? Many...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="VB" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">VB</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/tiktok-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/indian-whatsapp-group-links/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/indian-whatsapp-group-link.jpg" alt="BEST **INDIAN** WhatsApp Group Links | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/indian-whatsapp-group-links/">BEST **INDIAN** WhatsApp Group Links | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Whatsapp groups are actively searched out by a lot of Indians out there. Since whatsapp has launched open group invite features, many of you have been creating groups on your...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="SS" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">SS</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/indian-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="http://localhost:4000/movies-whatsapp-group-links/">
+                
+
+                    
+                        <img class="img-fluid" src="http://localhost:4000/assets/images/movies-whatsapp-group-link-2019.jpeg" alt="Latest **MOVIES** WhatsApp Group Links | April 2020" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="http://localhost:4000/movies-whatsapp-group-links/">Latest **MOVIES** WhatsApp Group Links | April 2020</a>
+                
+            </h2>
+            <h4 class="card-text">Hindi Films in the bollywood industry is massive in India. It is in fact one of the largest cinematic producers in the world. Movies have far greater than only entertainment...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/profile-3.png" alt="AB" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">AB</a></span><br />
+                
+                
+  <span class="post-date">04 Apr 2020</span>
+
+
+                </span>
+                <span class="post-read-more"><a href="http://localhost:4000/movies-whatsapp-group-links/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination mb-5">
+  <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+  <span class="navigation" role="navigation">
+    
+<div class="pagination">
+  
+    <span>&laquo; Prev</span>
+  
+
+  
+    
+      <span class="ml-1 mr-1">1</span>
+    
+  
+    
+      <a class="ml-1 mr-1" href="/page2/">2</a>
+    
+  
+    
+      <a class="ml-1 mr-1" href="/page3/">3</a>
+    
+  
+
+  
+    <a class="ml-1 mr-1" href="/page2/">Next &raquo;</a>
+  
+</div>
+
+  </span>
+</div>
+
+:ET

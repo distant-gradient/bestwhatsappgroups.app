@@ -18,6 +18,7 @@ git remote add upstream https://github.com/animeshchat/blog.git
 ```
 git commit -a -m "commit message"
 git push -u origin master
+git push -f origin master:gh-pages
 ```
 
 ## Pull upstream changes

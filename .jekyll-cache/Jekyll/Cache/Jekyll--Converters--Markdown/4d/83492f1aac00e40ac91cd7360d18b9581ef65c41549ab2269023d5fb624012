@@ -1,0 +1,4 @@
+I"j<!--NOTE - used for rendering the submit page on app-->
+
+<p>{% include submit-group-form.html %}</p>
+:ET
